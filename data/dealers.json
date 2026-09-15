@@ -1022,31 +1022,30 @@
       "accent": "#e8935e"
     },
     "heroImage": "media/urus-1.jpg",
-    "aboutText": "A showroom at Bank Center, 70th Street, Fifth Settlement, New Cairo, with a terracotta timber wall and a faceted marble panel behind the display floor.",
+    "aboutParagraphs": [
+      "Vroom Automotive is a car showroom in Fifth Settlement, New Cairo, carrying a wide range of marques from exotic sports cars to everyday family models. Recent stock has included a Lamborghini Urus, a Ferrari 12Cilindri, a Mercedes-Benz CLA 180, a Rox 01, a Cadillac Escalade and a Skoda Kodiaq.",
+      "The showroom is at Unit G06, Plot 128, on 70th Street inside Bank Center, Fifth Settlement, New Cairo. Its display floor is set against a terracotta timber wall and a faceted marble panel, a backdrop that stays constant behind every car shown there.",
+      "Buyers can reach Vroom Automotive by phone, or follow the dealership on Instagram and Facebook to see current stock before visiting. The showroom's location is also listed on Google Maps for those planning a visit in person."
+    ],
+    "heroText": "Every car on Vroom Automotive's floor, from a Lamborghini Urus to a Skoda Kodiaq, is presented against the same showroom wall, making the range easy to compare one car to the next.",
     "gallery": [
       {
-        "image": "media/urus-1.jpg",
-        "caption": "Lamborghini Urus"
+        "image": "media/urus-1.jpg"
       },
       {
-        "image": "media/ferrari-1.jpg",
-        "caption": "Ferrari 12Cilindri"
+        "image": "media/ferrari-1.jpg"
       },
       {
-        "image": "media/cla180-1.jpg",
-        "caption": "Mercedes-Benz CLA 180"
+        "image": "media/cla180-1.jpg"
       },
       {
-        "image": "media/rox01-a-1.jpg",
-        "caption": "Rox 01"
+        "image": "media/rox01-a-1.jpg"
       },
       {
-        "image": "media/escalade-1.jpg",
-        "caption": "Cadillac Escalade"
+        "image": "media/escalade-1.jpg"
       },
       {
-        "image": "media/kodiaq-a-1.jpg",
-        "caption": "Skoda Kodiaq"
+        "image": "media/kodiaq-a-1.jpg"
       }
     ],
     "phone": "01156664445 / 01097796677",
@@ -1066,39 +1065,36 @@
       "accent": "#8a2a19"
     },
     "heroImage": "media/sl55-1.jpg",
-    "aboutText": "A showroom in Cairo, with cars presented in a studio bay lit by a suspended ring light.",
+    "aboutParagraphs": [
+      "Goda Motors is a car showroom in Cairo carrying premium marques including Mercedes-AMG, Mercedes-Benz and BMW. Recent stock has included a Mercedes-AMG SL 55, a Mercedes-Benz E180 in both Avantgarde and Exclusive trim, and a BMW X5 M40i.",
+      "Every car in the showroom is photographed in the same studio bay, lit by a single suspended ring light hanging above the car, a consistent setting that carries through every listing published.",
+      "Each listing opens with the dealership's own line about the car before settling into details such as mileage, trim, supply and whether the paintwork is factory-original. Buyers can reach Goda Motors by phone, or follow the dealership on Instagram and Facebook to see what's currently on the floor."
+    ],
+    "heroText": "Goda Motors publishes an unhurried opening line before the numbers on every listing, then follows it with a full spec: mileage, trim, condition and factory paint.",
     "gallery": [
       {
-        "image": "media/sl55-1.jpg",
-        "caption": "Mercedes-AMG SL 55"
+        "image": "media/sl55-1.jpg"
       },
       {
-        "image": "media/sl55-2.jpg",
-        "caption": "Mercedes-AMG SL 55"
+        "image": "media/sl55-2.jpg"
       },
       {
-        "image": "media/e180-exclusive-1.jpg",
-        "caption": "Mercedes-Benz E180 Exclusive"
+        "image": "media/e180-exclusive-1.jpg"
       },
       {
-        "image": "media/e180-exclusive-2.jpg",
-        "caption": "Mercedes-Benz E180 Exclusive"
+        "image": "media/e180-exclusive-2.jpg"
       },
       {
-        "image": "media/x5-1.jpg",
-        "caption": "BMW X5 M40i"
+        "image": "media/x5-1.jpg"
       },
       {
-        "image": "media/x5-2.jpg",
-        "caption": "BMW X5 M40i"
+        "image": "media/x5-2.jpg"
       },
       {
-        "image": "media/e180-avantgarde-1.jpg",
-        "caption": "Mercedes-Benz E180 Avantgarde"
+        "image": "media/e180-avantgarde-1.jpg"
       },
       {
-        "image": "media/e180-avantgarde-2.jpg",
-        "caption": "Mercedes-Benz E180 Avantgarde"
+        "image": "media/e180-avantgarde-2.jpg"
       }
     ],
     "phone": "01002929326 / 01202226606 / 0100 0011016 / 01000166476",
@@ -1118,47 +1114,42 @@
       "accent": "#c7c9cc"
     },
     "heroImage": "media/c180-1.jpg",
-    "aboutText": "El Togary Auto trades from a showroom inside City Stars Mall, Nasr City.",
+    "aboutParagraphs": [
+      "El Togary Auto is a car showroom in Nasr City, Cairo, carrying a broad range of marques from exotic sports cars to family SUVs. Recent stock has included a Mercedes-Benz C180, a Jaguar F-Type, a Porsche 718 Cayman, a Ferrari Roma, a Range Rover Evoque, a Peugeot 408, a Porsche Cayenne, a Volvo XC90 and Skoda's Superb and Kodiaq models.",
+      "Unlike a forecourt or a standalone building, the showroom operates from a retail unit inside City Stars Mall, Nasr City, putting its cars alongside the mall's other stores. Buyers can reach the showroom directly by phone, or through its listing on Google Maps.",
+      "Alongside its showroom stock, El Togary Auto also offers its Skoda models on instalment terms, with free administrative fees, no mandatory insurance and a free first-year licence included as part of the plan. Buyers can follow the dealership on Instagram and Facebook to see current offerings."
+    ],
+    "heroText": "El Togary Auto pairs exotic marques like Ferrari and Porsche with instalment-plan Skoda models, all sold from the same showroom inside City Stars Mall.",
     "gallery": [
       {
-        "image": "media/c180-1.jpg",
-        "caption": "Mercedes-Benz C180"
+        "image": "media/c180-1.jpg"
       },
       {
-        "image": "media/ftype-1.jpg",
-        "caption": "Jaguar F-Type"
+        "image": "media/ftype-1.jpg"
       },
       {
-        "image": "media/cayman-1.jpg",
-        "caption": "Porsche 718 Cayman"
+        "image": "media/cayman-1.jpg"
       },
       {
-        "image": "media/roma-1.jpg",
-        "caption": "Ferrari Roma"
+        "image": "media/roma-1.jpg"
       },
       {
-        "image": "media/evoque-1.jpg",
-        "caption": "Range Rover Evoque R-Dynamic HSE P300E"
+        "image": "media/evoque-1.jpg"
       },
       {
-        "image": "media/408-1.jpg",
-        "caption": "Peugeot 408 GT-Line"
+        "image": "media/408-1.jpg"
       },
       {
-        "image": "media/cayenne-1.jpg",
-        "caption": "Porsche Cayenne"
+        "image": "media/cayenne-1.jpg"
       },
       {
-        "image": "media/xc90-1.jpg",
-        "caption": "Volvo XC90"
+        "image": "media/xc90-1.jpg"
       },
       {
-        "image": "media/superb-1.jpg",
-        "caption": "Skoda Superb"
+        "image": "media/superb-1.jpg"
       },
       {
-        "image": "media/kodiaq-1.jpg",
-        "caption": "Skoda Kodiaq"
+        "image": "media/kodiaq-1.jpg"
       }
     ],
     "phone": "01030061000 / 01001651118 / 01004047226 / 01022595315 / 01016926286 / 01001346777 / 01050848555 / 01030445841 / 01146007710 / 01006626078 / 01050848000 / 01028701766 / 01019341443 / 01008699938 / 01027535048",
@@ -1178,39 +1169,36 @@
       "accent": "#d61428"
     },
     "heroImage": "media/g500-1.jpg",
-    "aboutText": "Moataz El Hawi Auto operates from a forecourt in Nasr City's Ninth District, on the Shinzo Abe Axis opposite Al-Masrawy Mosque. The showroom entrance is marked by a navy fascia, a steel monogram on the canopy, and a pair of red fluted columns, and the floor carries marques including Mercedes-Benz, Jeep, Jaguar and BMW.",
+    "aboutParagraphs": [
+      "Moataz El Hawi Auto is a car dealership in Nasr City's Ninth District, on the Shinzo Abe Axis opposite Al-Masrawy Mosque, carrying marques including Mercedes-Benz, Jeep, Jaguar and BMW. Recent stock has included a Mercedes-Benz G500, a Jeep Grand Cherokee Limited, a Jaguar F-Type P300 and a BMW 320 M-Sport.",
+      "Every car on the forecourt is photographed in the same spot outside the showroom: a navy fascia bearing the dealership's name, a steel monogram mounted on the canopy above it, and a pair of fluted columns painted signal red on either side of the doorway.",
+      "Beyond the marques currently in view, the dealership has also dealt in MG, Fiat, Honda, Hyundai, Seat and Skoda, among others. Buyers can reach Moataz El Hawi Auto by phone, or follow the dealership on Instagram and Facebook to see what's currently on the forecourt."
+    ],
+    "heroText": "Every car at Moataz El Hawi Auto is photographed on the same forecourt, marked by a steel monogram on the canopy and a pair of red fluted columns by the doorway.",
     "gallery": [
       {
-        "image": "media/g500-1.jpg",
-        "caption": "Mercedes-Benz G500"
+        "image": "media/g500-1.jpg"
       },
       {
-        "image": "media/g500-2.jpg",
-        "caption": "Mercedes-Benz G500"
+        "image": "media/g500-2.jpg"
       },
       {
-        "image": "media/grandcherokee-1.jpg",
-        "caption": "Jeep Grand Cherokee Limited"
+        "image": "media/grandcherokee-1.jpg"
       },
       {
-        "image": "media/grandcherokee-2.jpg",
-        "caption": "Jeep Grand Cherokee Limited"
+        "image": "media/grandcherokee-2.jpg"
       },
       {
-        "image": "media/ftype-1.jpg",
-        "caption": "Jaguar F-Type P300"
+        "image": "media/ftype-1.jpg"
       },
       {
-        "image": "media/ftype-2.jpg",
-        "caption": "Jaguar F-Type P300"
+        "image": "media/ftype-2.jpg"
       },
       {
-        "image": "media/320msport-1.jpg",
-        "caption": "BMW 320 M-Sport"
+        "image": "media/320msport-1.jpg"
       },
       {
-        "image": "media/320msport-2.jpg",
-        "caption": "BMW 320 M-Sport"
+        "image": "media/320msport-2.jpg"
       }
     ],
     "phone": "01285933330",
@@ -1230,35 +1218,33 @@
       "accent": "#b8934a"
     },
     "heroImage": "media/x5-1.jpg",
-    "aboutText": "Al Mounir Motors is a showroom in Sheikh Zayed, Giza, carrying premium marques including BMW, Mercedes-Benz and Range Rover. The showroom canopy carries a herringbone chevron band that matches the dealership's own gold wordmark.",
+    "aboutParagraphs": [
+      "Al Mounir Motors is a car showroom in Sheikh Zayed, Giza, carrying premium marques including BMW, Mercedes-Benz and Range Rover. Recent stock has included a BMW X5 M40i, a Mercedes-AMG G63, a BMW Z4 Roadster, a Range Rover Evoque, a Mercedes-Benz V300 VIP, a Mercedes-Benz C180 and a Mercedes-Benz GLS 580 4MATIC.",
+      "The showroom operates two branches, a Zayed branch and a Fisal branch, with its Sheikh Zayed canopy carrying a herringbone chevron band that matches the dealership's own gold wordmark. The same showroom wall also displays branding for other marques it has carried, including Land Rover, Jeep, Audi and Volvo.",
+      "Buyers can reach Al Mounir Motors directly through WhatsApp, or by phone, and can follow the dealership on Instagram to see current stock. The showroom's location is also listed on Google Maps for those visiting Sheikh Zayed in person."
+    ],
+    "heroText": "Al Mounir Motors' showroom canopy carries the same gold herringbone band as its own branding, with WhatsApp kept as the direct line to the floor.",
     "gallery": [
       {
-        "image": "media/x5-1.jpg",
-        "caption": "BMW X5 M40i"
+        "image": "media/x5-1.jpg"
       },
       {
-        "image": "media/g63-1.jpg",
-        "caption": "Mercedes-AMG G63"
+        "image": "media/g63-1.jpg"
       },
       {
-        "image": "media/z4-1.jpg",
-        "caption": "BMW Z4 Roadster sDrive20i"
+        "image": "media/z4-1.jpg"
       },
       {
-        "image": "media/evoque-1.jpg",
-        "caption": "Range Rover Evoque"
+        "image": "media/evoque-1.jpg"
       },
       {
-        "image": "media/v300-1.jpg",
-        "caption": "Mercedes-Benz V300 VIP"
+        "image": "media/v300-1.jpg"
       },
       {
-        "image": "media/c180-1.jpg",
-        "caption": "Mercedes-Benz C180"
+        "image": "media/c180-1.jpg"
       },
       {
-        "image": "media/gls580-1.jpg",
-        "caption": "Mercedes-Benz GLS 580 4MATIC"
+        "image": "media/gls580-1.jpg"
       }
     ],
     "phone": "01111176687 / 01001447014 / 01017742146",
@@ -1278,39 +1264,36 @@
       "accent": "#a8aeb6"
     },
     "heroImage": "media/sealion-1.jpg",
-    "aboutText": "Gravity Auto is a showroom at Chill Out, Waslet Dahshour in Sheikh Zayed, carrying brand-new and newly imported cars from marques including BYD, Volvo, BMW and Mercedes-Benz.",
+    "aboutParagraphs": [
+      "Gravity Auto is a car showroom in Sheikh Zayed, Giza, carrying brand-new and newly imported cars from marques including BYD, Volvo, BMW and Mercedes-Benz. Recent stock has included a BYD Sealion 06, a Volvo XC60, a BMW 235 Gran Coupe and a Mercedes-Benz C180 AMG Line.",
+      "The showroom is at Chill Out, Waslet Dahshour, opposite the Zayed 3 entrance in Sheikh Zayed, marked by a backlit Gravity Auto sign on the forecourt.",
+      "Every car is listed with a clear spec line covering details such as motor size, power output and mileage. Buyers can reach Gravity Auto by phone, or follow the dealership on Instagram and Facebook to see current stock."
+    ],
+    "heroText": "Every car at Gravity Auto is listed with a clear spec line, covering motor size, power output and mileage, before a buyer ever steps onto the forecourt.",
     "gallery": [
       {
-        "image": "media/sealion-1.jpg",
-        "caption": "BYD Sealion 06"
+        "image": "media/sealion-1.jpg"
       },
       {
-        "image": "media/sealion-2.jpg",
-        "caption": "BYD Sealion 06"
+        "image": "media/sealion-2.jpg"
       },
       {
-        "image": "media/xc60-1.jpg",
-        "caption": "Volvo XC60"
+        "image": "media/xc60-1.jpg"
       },
       {
-        "image": "media/xc60-2.jpg",
-        "caption": "Volvo XC60"
+        "image": "media/xc60-2.jpg"
       },
       {
-        "image": "media/bmw235-1.jpg",
-        "caption": "BMW 235 Gran Coupe"
+        "image": "media/bmw235-1.jpg"
       },
       {
-        "image": "media/bmw235-2.jpg",
-        "caption": "BMW 235 Gran Coupe"
+        "image": "media/bmw235-2.jpg"
       },
       {
-        "image": "media/c180-1.jpg",
-        "caption": "Mercedes-Benz C180 AMG Line"
+        "image": "media/c180-1.jpg"
       },
       {
-        "image": "media/c180-2.jpg",
-        "caption": "Mercedes-Benz C180 AMG Line"
+        "image": "media/c180-2.jpg"
       }
     ],
     "phone": "01066666162",
@@ -1330,27 +1313,27 @@
       "accent": "#c21414"
     },
     "heroImage": "media/ciaz-2.jpg",
-    "aboutText": "Their shopfront sign in Ibrahimiya, Alexandria reads TRUST MOTORS, listing sale, purchase and consignment trade-in, with a circular seal reading TRUST MOTORS · ALEXANDRIA · 03/4282000. The shop sits on a residential street across from the Fathallah supermarket's Riviera branch. Their own line on a poster reads: your trust, our priority.",
+    "aboutParagraphs": [
+      "Trust Motors is a used car dealership in Ibrahimiya, Alexandria, dealing in the sale, purchase and consignment trade-in of cars. Recent stock has included a Suzuki Ciaz and a Kia Sportage, both listed as fully factory-original and agency-serviced.",
+      "The shop sits on a residential street in Ibrahimiya, directly across from the Fathallah supermarket's Riviera branch. Its shopfront sign reads Trust Motors, alongside a circular seal marking the dealership as Trust Motors, Alexandria.",
+      "Buyers can reach the dealership through Eng. Essam or Eng. Mohamed by phone, or through the shop's own landline. The dealership sums up its approach in its own line: your trust, our priority."
+    ],
+    "heroText": "Trust Motors runs its shop in Ibrahimiya, directly across from the Fathallah supermarket's Riviera branch, marked by its own shopfront sign and a circular seal reading Trust Motors, Alexandria.",
     "gallery": [
       {
-        "image": "media/ciaz-1.jpg",
-        "caption": "Suzuki Ciaz"
+        "image": "media/ciaz-1.jpg"
       },
       {
-        "image": "media/ciaz-2.jpg",
-        "caption": "Suzuki Ciaz"
+        "image": "media/ciaz-2.jpg"
       },
       {
-        "image": "media/sportage-1.jpg",
-        "caption": "Kia Sportage"
+        "image": "media/sportage-1.jpg"
       },
       {
-        "image": "media/sportage-2.jpg",
-        "caption": "Kia Sportage"
+        "image": "media/sportage-2.jpg"
       },
       {
-        "image": "media/shopfront.jpg",
-        "caption": "Trust Motors shopfront"
+        "image": "media/shopfront.jpg"
       }
     ],
     "phone": "01223240801 / 01144606008 / 03/4282000",
