@@ -430,27 +430,27 @@
       "accent": "#a06bff"
     },
     "heroImage": "media/hero-wide.jpg",
-    "aboutText": "ST4Matic is a reconditioned-car showroom on Fareed Semeika Street in El Nozha, Cairo, dealing in petrol and electric cars, zero-mileage and used.",
+    "aboutParagraphs": [
+      "ST4Matic is a reconditioned-car showroom dealing in petrol and electric cars, both zero-mileage and used. The fleet draws on German and Japanese marques, with BMW, Mercedes-Benz and Subaru among the cars that pass through the showroom floor.",
+      "The showroom is located on Fareed Semeika Street in El Nozha, Cairo, with three phone lines open for calls and an active Facebook page keeping the current fleet visible to anyone browsing before a visit.",
+      "Several cars on the floor carry ambient interior lighting as standard, with cluster and trim illumination that shifts between drive modes, a detail the showroom highlights across its BMW and Mercedes-Benz stock. Flexible financing is available on every car sold, keeping the buying process straightforward from first look to handover."
+    ],
+    "heroText": "A reconditioned German and Japanese fleet, including BMW, Mercedes-Benz and Subaru, out of one showroom in El Nozha, with flexible financing on every car.",
     "gallery": [
       {
-        "image": "media/ambient-01.jpg",
-        "caption": "520i · door trim, violet mode"
+        "image": "media/ambient-01.jpg"
       },
       {
-        "image": "media/ambient-02.jpg",
-        "caption": "520i · cluster, Comfort"
+        "image": "media/ambient-02.jpg"
       },
       {
-        "image": "media/ambient-03.jpg",
-        "caption": "520i · cluster, Sport"
+        "image": "media/ambient-03.jpg"
       },
       {
-        "image": "media/ambient-04.jpg",
-        "caption": "X4 · dash vents, violet mode"
+        "image": "media/ambient-04.jpg"
       },
       {
-        "image": "media/ambient-05.jpg",
-        "caption": "C180 · cluster, red"
+        "image": "media/ambient-05.jpg"
       }
     ],
     "phone": "01097949330 / 01008890184 / 01147369408",
@@ -470,27 +470,27 @@
       "accent": "#8f0002"
     },
     "heroImage": "media/hero-wide.jpg",
-    "aboutText": "A Class Automotive is an exotics gallery at City Park in Sheikh Zayed. The showroom is built around a pale stone wall carrying the dealership's name and crest, and its floor covers marques including Lamborghini, Mercedes-Benz, Porsche and Land Rover.",
+    "aboutParagraphs": [
+      "A Class Automotive is an exotics gallery showing a rotating selection of high-end marques that has included Lamborghini, Mercedes-Benz, Porsche, Land Rover, Toyota, Genesis and Nissan. Each car that comes through the floor is presented as a single, carefully staged specimen rather than one of a crowded lineup.",
+      "The gallery is set at City Park in Sheikh Zayed City, and every car is photographed in the same room, against a pale stone wall carrying the dealership's name and crest, so the setting stays constant while the car on the floor changes. Visitors can reach the team on three phone lines or follow the gallery's Instagram for a look at what is currently on the floor.",
+      "Cars arriving on the floor are frequently low-mileage or brand new, with some still covered by the original dealer's warranty, giving buyers an added layer of confidence beyond the showroom presentation itself."
+    ],
+    "heroText": "A dedicated exotics showroom in Sheikh Zayed, presenting a rotating floor of marques from Lamborghini to Land Rover against the gallery's own signature backdrop.",
     "gallery": [
       {
-        "image": "media/lamborghini-temerario-ext-01.jpg",
-        "caption": "Lamborghini Temerario"
+        "image": "media/lamborghini-temerario-ext-01.jpg"
       },
       {
-        "image": "media/mercedes-g63-ext-01.jpg",
-        "caption": "Mercedes-Benz G63 AMG"
+        "image": "media/mercedes-g63-ext-01.jpg"
       },
       {
-        "image": "media/porsche-cayenne-gts-ext-01.jpg",
-        "caption": "Porsche Cayenne GTS Coupe"
+        "image": "media/porsche-cayenne-gts-ext-01.jpg"
       },
       {
-        "image": "media/mercedes-gls580-ext-01.jpg",
-        "caption": "Mercedes-Benz GLS580"
+        "image": "media/mercedes-gls580-ext-01.jpg"
       },
       {
-        "image": "media/toyota-land-cruiser-ext-01.jpg",
-        "caption": "Toyota Land Cruiser VX"
+        "image": "media/toyota-land-cruiser-ext-01.jpg"
       }
     ],
     "phone": "01112512251 / 01030115118 / 01005856644",
@@ -510,43 +510,39 @@
       "accent": "#faa65e"
     },
     "heroImage": "media/hero-wide.jpg",
-    "aboutText": "Middle East Motors sells and finances used cars in every model, on the lowest deposit, through bank finance. The showroom is on Ahmed Mohamed Ali Street in Heliopolis, behind the KFC at Nadi El Shams.",
+    "aboutParagraphs": [
+      "Middle East Motors sells and finances used cars across a wide range of models, arranging bank finance so buyers can drive away without a large deposit up front. The floor draws from marques including Mercedes-Benz, Renault and Fiat, spanning family saloons, hatchbacks and crossovers.",
+      "The showroom is on Ahmed Mohamed Ali Street in Heliopolis, tucked off Abdel Hamid Badawi behind the KFC at Nadi El Shams, a landmark that makes the unit easy to find even without a formal storefront.",
+      "Each car on the lot is photographed from multiple angles inside and out before it is listed, giving buyers a clear look at condition ahead of a visit, and the team can be reached by phone or through the dealership's Instagram and Facebook pages for anything not covered in a listing."
+    ],
+    "heroText": "Bank-financed used cars sold straight off the kerb in Heliopolis, with marques spanning Mercedes-Benz to Renault and Fiat on the floor.",
     "gallery": [
       {
-        "image": "media/mercedes-e200-ext-01.jpg",
-        "caption": "Mercedes-Benz E200, exterior"
+        "image": "media/mercedes-e200-ext-01.jpg"
       },
       {
-        "image": "media/mercedes-e200-rear-01.jpg",
-        "caption": "Mercedes-Benz E200, rear"
+        "image": "media/mercedes-e200-rear-01.jpg"
       },
       {
-        "image": "media/mercedes-e200-int-01.jpg",
-        "caption": "Mercedes-Benz E200, cabin"
+        "image": "media/mercedes-e200-int-01.jpg"
       },
       {
-        "image": "media/mercedes-e200-det-01.jpg",
-        "caption": "Mercedes-Benz E200, detail"
+        "image": "media/mercedes-e200-det-01.jpg"
       },
       {
-        "image": "media/renault-sandero-ext-01.jpg",
-        "caption": "Renault Sandero Stepway, exterior"
+        "image": "media/renault-sandero-ext-01.jpg"
       },
       {
-        "image": "media/renault-sandero-int-01.jpg",
-        "caption": "Renault Sandero Stepway, cabin"
+        "image": "media/renault-sandero-int-01.jpg"
       },
       {
-        "image": "media/renault-sandero-det-01.jpg",
-        "caption": "Renault Sandero Stepway, detail"
+        "image": "media/renault-sandero-det-01.jpg"
       },
       {
-        "image": "media/fiat-500x-ext-01.jpg",
-        "caption": "Fiat 500X, exterior"
+        "image": "media/fiat-500x-ext-01.jpg"
       },
       {
-        "image": "media/fiat-500x-int-01.jpg",
-        "caption": "Fiat 500X, cabin"
+        "image": "media/fiat-500x-int-01.jpg"
       }
     ],
     "phone": "01116686454 / 01145003500",
@@ -566,23 +562,24 @@
       "accent": "#638eea"
     },
     "heroImage": "media/hero.jpg",
-    "aboutText": "Bedawy Automotive has been trading on Al-Nasr Road for more than twenty years, carrying a broad roster of marques that spans Škoda, Opel, SEAT, Fiat and Nissan alongside newer arrivals such as MG, Chery, ROX and AVATR. Cars are shown in a showroom bay under the dealership's own gold crest.",
+    "aboutParagraphs": [
+      "Bedawy Automotive is a long-established Cairo dealership carrying a broad roster of marques that spans established European names such as Škoda, Opel, SEAT, Fiat, Nissan and Hyundai alongside newer arrivals including MG, Chery, ROX and AVATR. The result is a floor that covers both familiar European stock and the newest Chinese entrants side by side.",
+      "The showroom is at Building 15 Ideal on Al-Nasr Road, Cairo, where every car is presented in the same indoor bay: a black room with a stone feature wall and the dealership's own gold crest mounted above the car.",
+      "Buyers can reach the showroom by phone or follow its Instagram page for a look at the current stock before visiting in person, with each car in the bay given the same careful presentation regardless of marque or origin."
+    ],
+    "heroText": "Twelve marques under one roof, from established European names to the newest Chinese arrivals, each car presented in the dealership's own showroom bay.",
     "gallery": [
       {
-        "image": "media/bmw-x6-01.jpg",
-        "caption": "BMW X6 M50i"
+        "image": "media/bmw-x6-01.jpg"
       },
       {
-        "image": "media/mercedes-gla-2025-01.jpg",
-        "caption": "Mercedes-Benz GLA 200, 2025"
+        "image": "media/mercedes-gla-2025-01.jpg"
       },
       {
-        "image": "media/mercedes-gla-2024-01.jpg",
-        "caption": "Mercedes-Benz GLA 200, 2024"
+        "image": "media/mercedes-gla-2024-01.jpg"
       },
       {
-        "image": "media/avatr-01.jpg",
-        "caption": "AVATR"
+        "image": "media/avatr-01.jpg"
       }
     ],
     "phone": "01098699699",
@@ -602,15 +599,18 @@
       "accent": "#b8261f"
     },
     "heroImage": "media/showroom-actyon.jpg",
-    "aboutText": "Al Rowad Auto Group operates three branches, two in Cairo and one in Fayoum, selling new cars sourced from Chinese, European, American, Korean and Spanish marques, with immediate delivery.",
+    "aboutParagraphs": [
+      "Al Rowad Auto Group sells new cars sourced from five origins, Chinese, European, American, Korean and Spanish marques, covering names from BYD, Geely and Chery to Škoda, Renault, Mercedes-Benz, Jeep, KGM, Nissan, Subaru, SEAT and Cupra. Every car on the floor is available for immediate delivery rather than an ordered wait.",
+      "The group runs three branches: one on Maadi Autostrad Road at the lower entrance of Al-Meraj City inside the A1 station, one on the Shahid Axis Road in Nasr City, and a third at Al-Hassan Tower opposite the Fayoum Culture Palace, giving buyers a branch to visit in both Cairo and Fayoum.",
+      "Each branch runs its own bank of phone lines for calls and WhatsApp, and the dealership keeps its Instagram and Facebook pages updated with current stock, with directions to any of the three branches available through Maps."
+    ],
+    "heroText": "New cars sourced from five origins, Chinese, European, American, Korean and Spanish marques, sold across three branches in Cairo and Fayoum.",
     "gallery": [
       {
-        "image": "media/showroom-actyon.jpg",
-        "caption": "KGM Actyon"
+        "image": "media/showroom-actyon.jpg"
       },
       {
-        "image": "media/showroom-venucia.jpg",
-        "caption": "Venucia 260T"
+        "image": "media/showroom-venucia.jpg"
       }
     ],
     "phone": "01140000174 / 01121111280 / 01121111282 / 01121111283 / 01121111284 / 01121111281 / 01121111285 / 01121111286 / 01121111287 / 01159000096",
@@ -630,27 +630,27 @@
       "accent": "#ffda75"
     },
     "heroImage": "media/hero.jpg",
-    "aboutText": "Auto Gate describe themselves as a luxury automobile seller based in Egypt, and they work from one address: 64 El-Nozha Street, next to the Mobil station in Heliopolis.",
+    "aboutParagraphs": [
+      "Auto Gate is a luxury automobile seller based in Egypt, carrying marques that include Mercedes-Benz, Porsche, Land Rover and BMW, with both electric and hybrid cars represented on the floor alongside petrol models such as the Dodge Challenger.",
+      "The dealership works from a single forecourt at 64 El-Nozha Street in Heliopolis, next to the Mobil station, with cars displayed outdoors under the dealership's own illuminated sign rather than inside a showroom hall.",
+      "Buyers can reach the team by phone or WhatsApp, or follow the dealership's Instagram and Facebook pages to see what is currently on the forecourt, with directions available through Maps."
+    ],
+    "heroText": "A luxury automobile seller in Heliopolis carrying marques from Mercedes-Benz to Porsche, Land Rover and BMW, including electric and hybrid options.",
     "gallery": [
       {
-        "image": "media/challenger-front.jpg",
-        "caption": "A blue Dodge Challenger head-on, halo headlights doubled in the wet ground."
+        "image": "media/challenger-front.jpg"
       },
       {
-        "image": "media/lineup-gate.jpg",
-        "caption": "A line-up under the illuminated AUTO GATE sign: Challenger, a white Aston Martin, a black BMW."
+        "image": "media/lineup-gate.jpg"
       },
       {
-        "image": "media/mercedes-night.jpg",
-        "caption": "A black Mercedes on the wet forecourt at night."
+        "image": "media/mercedes-night.jpg"
       },
       {
-        "image": "media/challenger-side.jpg",
-        "caption": "The Challenger from the side, its reflection running the length of the frame."
+        "image": "media/challenger-side.jpg"
       },
       {
-        "image": "media/lineup-mercedes.jpg",
-        "caption": "A row of Mercedes saloons under the sign."
+        "image": "media/lineup-mercedes.jpg"
       }
     ],
     "phone": "01222271878 / 01000358999",
@@ -670,47 +670,42 @@
       "accent": "#6b3a22"
     },
     "heroImage": "media/composite.jpg",
-    "aboutText": "Auto Dynamics has been trading since 1994 and describes what it does as curating world-class cars. Listings carry sectioned specification sheets covering drivetrain, interior, technology, exterior and safety, across marques including Jaguar, Alfa Romeo, Mercedes-Benz, Porsche, Land Rover and Mazda.",
+    "aboutParagraphs": [
+      "Auto Dynamics is a long-established Cairo dealership that curates a selection of world-class cars, with marques on the floor spanning Jaguar, Alfa Romeo, Mercedes-Benz, Porsche, Land Rover and Mazda alongside both new and pre-owned stock.",
+      "Every car in the collection is presented in the dealership's own showroom doorway, photographed the same way each time so a visitor can compare one car against the next on equal footing before making the trip to Cairo to see it in person.",
+      "Listings are unusually thorough for the trade: each one runs to a full specification sheet covering drivetrain, interior, technology, exterior and safety, with an exact odometer reading given for every pre-owned car, and the dealership's Instagram page is kept current with what's on the floor."
+    ],
+    "heroText": "A long-established Cairo dealership curating world-class cars across marques including Jaguar, Porsche, Land Rover and Mercedes-Benz, with a full specification sheet published for every car.",
     "gallery": [
       {
-        "image": "media/jaguar-f-type.jpg",
-        "caption": "Jaguar F-Type R-Dynamic"
+        "image": "media/jaguar-f-type.jpg"
       },
       {
-        "image": "media/alfa-tonale.jpg",
-        "caption": "Alfa Romeo Tonale"
+        "image": "media/alfa-tonale.jpg"
       },
       {
-        "image": "media/mercedes-e200.jpg",
-        "caption": "Mercedes-Benz E-200"
+        "image": "media/mercedes-e200.jpg"
       },
       {
-        "image": "media/porsche-macan-s.jpg",
-        "caption": "Porsche Macan S"
+        "image": "media/porsche-macan-s.jpg"
       },
       {
-        "image": "media/range-rover-sport.jpg",
-        "caption": "Land Rover Range Rover Sport HSE 3.0L"
+        "image": "media/range-rover-sport.jpg"
       },
       {
-        "image": "media/mercedes-gls580.jpg",
-        "caption": "Mercedes-Benz GLS 580 AMG"
+        "image": "media/mercedes-gls580.jpg"
       },
       {
-        "image": "media/mercedes-gle450.jpg",
-        "caption": "Mercedes-Benz GLE 450 AMG"
+        "image": "media/mercedes-gle450.jpg"
       },
       {
-        "image": "media/mazda-mx5.jpg",
-        "caption": "Mazda MX-5 Miata"
+        "image": "media/mazda-mx5.jpg"
       },
       {
-        "image": "media/mercedes-glc300.jpg",
-        "caption": "Mercedes-Benz GLC 300 AMG Coupé"
+        "image": "media/mercedes-glc300.jpg"
       },
       {
-        "image": "media/mercedes-v300.jpg",
-        "caption": "Mercedes-Benz V300 Avantgarde"
+        "image": "media/mercedes-v300.jpg"
       }
     ],
     "phone": null,
