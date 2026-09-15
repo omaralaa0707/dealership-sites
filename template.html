@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{dealerName}}</title>
+<script>document.documentElement.classList.add("js");</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Inter:wght@400;500&display=swap" rel="stylesheet">
@@ -18,7 +19,7 @@
 </style>
 </head>
 <body>
-  <header class="hero" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.30), rgba(0,0,0,0.68)), url('{{heroImage}}');">
+  <header class="hero" style="{{heroStyle}}">
     <canvas id="scene" class="hero-canvas" aria-hidden="true"></canvas>
     <div class="hero-inner reveal">
       {{#hasLogo}}<img class="logo" src="{{logo}}" alt="{{dealerName}} logo">{{/hasLogo}}
@@ -32,6 +33,7 @@
       <p class="reveal">{{aboutText}}</p>
     </section>
 
+    {{#hasGallery}}
     <section class="gallery" id="gallery">
       <div class="gallery-grid">
         {{#gallery}}
@@ -42,6 +44,7 @@
         {{/gallery}}
       </div>
     </section>
+    {{/hasGallery}}
 
     <section class="contact reveal" id="contact">
       <h2>Visit {{dealerName}}</h2>

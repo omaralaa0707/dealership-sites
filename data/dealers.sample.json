@@ -33,5 +33,20 @@
     "instagram": null,
     "facebook": null,
     "maps": null
+  },
+  {
+    "slug": "no-photo-motors",
+    "dealerName": "No Photo Motors",
+    "tagline": "Coming soon to camera",
+    "logo": null,
+    "palette": { "background": "#0d0e10", "ink": "#f4f2ef", "accent": "#f4121a" },
+    "heroImage": null,
+    "aboutText": "A dealer with no published photography at all.",
+    "gallery": [],
+    "phone": null,
+    "address": null,
+    "instagram": null,
+    "facebook": null,
+    "maps": null
   }
 ]

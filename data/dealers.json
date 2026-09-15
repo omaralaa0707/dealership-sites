@@ -817,14 +817,9 @@
       "ink": "#f4f2ef",
       "accent": "#f4121a"
     },
-    "heroImage": "media/plain-background.svg",
+    "heroImage": null,
     "aboutText": "A shop on Sayed Zakaria Street in Sheraton, Heliopolis, next to Al-Siddiq Mosque, selling new Chinese and European models on finance.",
-    "gallery": [
-      {
-        "image": "media/plain-background.svg",
-        "caption": "No photography published"
-      }
-    ],
+    "gallery": [],
     "phone": "01271741111",
     "address": "Sayed Zakaria St, Sheraton, Morabaa El-Wozara, next to Al-Siddiq Mosque",
     "instagram": "https://www.instagram.com/motorzone.automotive/",

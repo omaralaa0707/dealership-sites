@@ -52,9 +52,35 @@ test("a malformed hex color throws", () => {
   assert.throws(() => validateDealer(dealer), /palette.background/);
 });
 
-test("an empty gallery throws", () => {
+test("an empty gallery is allowed", () => {
   const dealer = baseDealer({ gallery: [] });
+  assert.equal(validateDealer(dealer), true);
+});
+
+test("a non-array gallery throws", () => {
+  const dealer = baseDealer({ gallery: "not-an-array" });
   assert.throws(() => validateDealer(dealer), /gallery/);
+});
+
+test("heroImage may be null", () => {
+  const dealer = baseDealer({ heroImage: null });
+  assert.equal(validateDealer(dealer), true);
+});
+
+test("a non-string, non-null heroImage throws", () => {
+  const dealer = baseDealer({ heroImage: 12345 });
+  assert.throws(() => validateDealer(dealer), /heroImage/);
+});
+
+test("a missing heroImage key throws", () => {
+  const dealer = baseDealer();
+  delete dealer.heroImage;
+  assert.throws(() => validateDealer(dealer), /heroImage/);
+});
+
+test("a dealer with heroImage: null and gallery: [] validates successfully", () => {
+  const dealer = baseDealer({ heroImage: null, gallery: [] });
+  assert.equal(validateDealer(dealer), true);
 });
 
 test("a gallery item missing an image throws", () => {

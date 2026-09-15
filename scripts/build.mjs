@@ -35,6 +35,8 @@ export function buildDealerView(dealer) {
     hasInstagram: dealer.instagram !== null && dealer.instagram !== undefined,
     hasFacebook: dealer.facebook !== null && dealer.facebook !== undefined,
     hasMaps: dealer.maps !== null && dealer.maps !== undefined,
+    hasGallery: Array.isArray(dealer.gallery) && dealer.gallery.length > 0,
+    heroStyle,
     accentText: pickReadableText(dealer.palette.accent),
     currentYear: new Date().getFullYear(),
   };
