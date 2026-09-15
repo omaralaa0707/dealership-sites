@@ -1353,39 +1353,36 @@
       "accent": "#fdb915"
     },
     "heroImage": "media/sealion-grey-front.jpg",
-    "aboutText": "Macan Automotive is a showroom on El Nozha Street in Nasr City, presenting its cars in a recessed portal with walnut piers, a red-lit fluted lintel and an amber sign. The floor carries marques including BYD, Range Rover and Mercedes-Benz.",
+    "aboutParagraphs": [
+      "Macan Automotive is a showroom in Nasr City, Cairo, presenting cars from marques including BYD, Range Rover and Mercedes-Benz.",
+      "The showroom sits on El Nozha Street, where every car is presented inside a recessed portal finished with walnut piers, a red-lit fluted lintel and an amber sign.",
+      "The dealership sums up its outlook simply: cars aren't just for driving, they show freedom, power and style, a philosophy reflected in the way each vehicle is presented on the floor."
+    ],
+    "heroText": "Among the cars on its floor are the BYD Sealion 06 EV, the Range Rover Evoque P160 and the Mercedes-Benz GLE 450.",
     "gallery": [
       {
-        "image": "media/sealion-grey-front.jpg",
-        "caption": "BYD Sealion 06 EV, grey, front"
+        "image": "media/sealion-grey-front.jpg"
       },
       {
-        "image": "media/sealion-white-front.jpg",
-        "caption": "BYD Sealion 06 EV, white"
+        "image": "media/sealion-white-front.jpg"
       },
       {
-        "image": "media/sealion-grey-rear.jpg",
-        "caption": "BYD Sealion 06 EV, grey, rear"
+        "image": "media/sealion-grey-rear.jpg"
       },
       {
-        "image": "media/sealion-grey-cabin.jpg",
-        "caption": "BYD Sealion 06 EV, grey, cabin"
+        "image": "media/sealion-grey-cabin.jpg"
       },
       {
-        "image": "media/evoque-front.jpg",
-        "caption": "Range Rover Evoque P160"
+        "image": "media/evoque-front.jpg"
       },
       {
-        "image": "media/evoque-cabin.jpg",
-        "caption": "Range Rover Evoque P160"
+        "image": "media/evoque-cabin.jpg"
       },
       {
-        "image": "media/gle-front.jpg",
-        "caption": "Mercedes-Benz GLE 450"
+        "image": "media/gle-front.jpg"
       },
       {
-        "image": "media/gle-cabin.jpg",
-        "caption": "Mercedes-Benz GLE 450"
+        "image": "media/gle-cabin.jpg"
       }
     ],
     "phone": "0109 833 3971",
@@ -1405,31 +1402,30 @@
       "accent": "#f0a32a"
     },
     "heroImage": "media/lent-1.jpg",
-    "aboutText": "Drive In Motors is a showroom in Nasr City, next to El Serag Mall, carrying Jetour, Kaiyi and Changan. Trade-ins are accepted against a new car.",
+    "aboutParagraphs": [
+      "Drive In Motors is a showroom in Nasr City, Cairo, carrying brand-new cars from marques including Jetour, Kaiyi and Changan.",
+      "The showroom is located on Negaty Serag Street, next to El Serag Mall in Nasr City.",
+      "Buyers can trade in an old car against a new one from the floor, making it easier to move into a newer model without a separate resale step."
+    ],
+    "heroText": "The showroom keeps several phone lines open, including hotlines and a landline, so customers can reach staff quickly.",
     "gallery": [
       {
-        "image": "media/jetour-front.jpg",
-        "caption": "Jetour X70 Plus"
+        "image": "media/jetour-front.jpg"
       },
       {
-        "image": "media/jetour-wheel.jpg",
-        "caption": "Jetour X70 Plus"
+        "image": "media/jetour-wheel.jpg"
       },
       {
-        "image": "media/changan-front.jpg",
-        "caption": "Changan Eado Plus"
+        "image": "media/changan-front.jpg"
       },
       {
-        "image": "media/changan-door.jpg",
-        "caption": "Changan Eado Plus"
+        "image": "media/changan-door.jpg"
       },
       {
-        "image": "media/kaiyi-front.jpg",
-        "caption": "Kaiyi 3 Pro"
+        "image": "media/kaiyi-front.jpg"
       },
       {
-        "image": "media/kaiyi-lamp.jpg",
-        "caption": "Kaiyi 3 Pro"
+        "image": "media/kaiyi-lamp.jpg"
       }
     ],
     "phone": "012 252 11119 / 012 027 44484 / 012 013 19994 / 02 22751769 / 010 09339084",
@@ -1449,35 +1445,33 @@
       "accent": "#242424"
     },
     "heroImage": "media/gmc-yukon-denali-00.jpg",
-    "aboutText": "Exotica Automotive is a luxury and exotics dealership at ChillOut AUC, South Teseen, New Cairo, carrying marques including GMC, BMW, Mercedes-Benz and Range Rover, with a detailed specification published for every car.",
+    "aboutParagraphs": [
+      "Exotica Automotive is a luxury and exotics dealership in New Cairo, presenting marques including GMC, BMW, Mercedes-Benz and Range Rover.",
+      "The showroom is located at ChillOut AUC on South Teseen, New Cairo, and is run by Hassan Sabry.",
+      "Each car listed comes with a detailed specification, covering details such as engine displacement, power output and drivetrain, so buyers can review a vehicle's technical details before visiting."
+    ],
+    "heroText": "The dealership's roster also reaches into rarer marques such as ROX, alongside the more familiar luxury names on its floor.",
     "gallery": [
       {
-        "image": "media/gmc-yukon-denali-00.jpg",
-        "caption": "GMC Yukon Denali, Black Edition"
+        "image": "media/gmc-yukon-denali-00.jpg"
       },
       {
-        "image": "media/bmw-320i-00.jpg",
-        "caption": "BMW 320i"
+        "image": "media/bmw-320i-00.jpg"
       },
       {
-        "image": "media/bmw-x7-m60i-00.jpg",
-        "caption": "BMW X7 M60i xDrive"
+        "image": "media/bmw-x7-m60i-00.jpg"
       },
       {
-        "image": "media/bmw-x1-18i-00.jpg",
-        "caption": "BMW X1 sDrive 18i"
+        "image": "media/bmw-x1-18i-00.jpg"
       },
       {
-        "image": "media/mercedes-gle-450-00.jpg",
-        "caption": "Mercedes-Benz GLE 450 4MATIC"
+        "image": "media/mercedes-gle-450-00.jpg"
       },
       {
-        "image": "media/range-rover-p530-00.jpg",
-        "caption": "Range Rover Vogue P530 Long Wheelbase"
+        "image": "media/range-rover-p530-00.jpg"
       },
       {
-        "image": "media/mercedes-glc-43-00.jpg",
-        "caption": "Mercedes-Benz GLC 43 AMG"
+        "image": "media/mercedes-glc-43-00.jpg"
       }
     ],
     "phone": "+20 120 429 9993",
@@ -1497,47 +1491,42 @@
       "accent": "#fdc941"
     },
     "heroImage": "media/gle-20.jpg",
-    "aboutText": "Body Car, run by Ahmed Mostafa, is a showroom in El Basatin, Cairo, trading in new and used vehicles. Its showroom floor carries Mercedes-Benz models alongside a range of Korean and Chinese marques, with instalment financing available.",
+    "aboutParagraphs": [
+      "Body Car, run by Ahmed Mostafa, is a dealership trading in new and used vehicles, with a showroom floor that carries Mercedes-Benz alongside a range of Korean and Chinese marques such as Hyundai and Chery.",
+      "The showroom is located in El Basatin, Cairo, at 306 Street 306, El-Basatin Sharkeya.",
+      "Cars on the floor come equipped with details such as a panoramic sunroof, heated and ventilated front seats and dual-zone climate control, as seen on its Mercedes-Benz GLE models."
+    ],
+    "heroText": "Financing plans, quoted as a down payment against a monthly instalment, are offered across several of its models, giving buyers a way to spread the cost of a car over time.",
     "gallery": [
       {
-        "image": "media/gle-20.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023, front"
+        "image": "media/gle-20.jpg"
       },
       {
-        "image": "media/gle-21.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023, rear"
+        "image": "media/gle-21.jpg"
       },
       {
-        "image": "media/gle-22.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023, rear three-quarter"
+        "image": "media/gle-22.jpg"
       },
       {
-        "image": "media/gle-06.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023, rear seats"
+        "image": "media/gle-06.jpg"
       },
       {
-        "image": "media/gle-09.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023, dashboard"
+        "image": "media/gle-09.jpg"
       },
       {
-        "image": "media/gle-12.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023, taillight detail"
+        "image": "media/gle-12.jpg"
       },
       {
-        "image": "media/aclass-30.jpg",
-        "caption": "Mercedes-Benz A-Class, headlight detail"
+        "image": "media/aclass-30.jpg"
       },
       {
-        "image": "media/aclass-24.jpg",
-        "caption": "Mercedes-Benz A-Class, steering wheel"
+        "image": "media/aclass-24.jpg"
       },
       {
-        "image": "media/aclass-26.jpg",
-        "caption": "Mercedes-Benz A-Class, dashboard"
+        "image": "media/aclass-26.jpg"
       },
       {
-        "image": "media/aclass-27.jpg",
-        "caption": "Mercedes-Benz A-Class, air vents"
+        "image": "media/aclass-27.jpg"
       }
     ],
     "phone": "01277718184",
@@ -1557,43 +1546,39 @@
       "accent": "#eeeeea"
     },
     "heroImage": "media/x5-real-0.jpg",
-    "aboutText": "New Star Automotive is a showroom in Nasr City, on Hafez Ramadan Street, carrying marques including BMW, Mercedes-Benz and Alfa Romeo.",
+    "aboutParagraphs": [
+      "New Star Automotive is a showroom in Nasr City, Cairo, presenting new and pre-owned cars from marques including BMW, Mercedes-Benz and Alfa Romeo.",
+      "The showroom is located at 18 Hafez Ramadan Street in Nasr City.",
+      "Inside, cars are presented in a recessed showroom bay with a stepped, backlit ceiling coffer, dark fluted side walls and a light tile floor."
+    ],
+    "heroText": "New Star Automotive presents itself as a premium showroom, giving each car on the floor a consistent, upscale setting to be viewed in.",
     "gallery": [
       {
-        "image": "media/x5-real-0.jpg",
-        "caption": "BMW X5 40i"
+        "image": "media/x5-real-0.jpg"
       },
       {
-        "image": "media/x5-real-1.jpg",
-        "caption": "BMW X5 40i"
+        "image": "media/x5-real-1.jpg"
       },
       {
-        "image": "media/glc-a-0.jpg",
-        "caption": "Mercedes-Benz GLC"
+        "image": "media/glc-a-0.jpg"
       },
       {
-        "image": "media/glc-b-0.jpg",
-        "caption": "Mercedes-Benz GLC"
+        "image": "media/glc-b-0.jpg"
       },
       {
-        "image": "media/x3-a-0.jpg",
-        "caption": "BMW X3"
+        "image": "media/x3-a-0.jpg"
       },
       {
-        "image": "media/x3-b-0.jpg",
-        "caption": "BMW X3"
+        "image": "media/x3-b-0.jpg"
       },
       {
-        "image": "media/stelvio-0.jpg",
-        "caption": "Alfa Romeo Stelvio, front"
+        "image": "media/stelvio-0.jpg"
       },
       {
-        "image": "media/stelvio-1.jpg",
-        "caption": "Alfa Romeo Stelvio, front, close crop"
+        "image": "media/stelvio-1.jpg"
       },
       {
-        "image": "media/stelvio-2.jpg",
-        "caption": "Alfa Romeo Stelvio, front three-quarter, headlights on"
+        "image": "media/stelvio-2.jpg"
       }
     ],
     "phone": "+20 122 222 5502",
@@ -1613,23 +1598,24 @@
       "accent": "#d9a15c"
     },
     "heroImage": "media/jetour-service.jpg",
-    "aboutText": "Kasrawy Group is a multi-brand automotive distributor in Egypt, representing marques including Jetour, JAC and Citroën, with service centres on the North Coast.",
+    "aboutParagraphs": [
+      "Kasrawy Group is a multi-brand automotive distributor in Egypt, representing marques including Jetour, JAC and Citroën.",
+      "It operates service centres for its represented brands on the North Coast, supporting customers who buy from any of its brand franchises.",
+      "Kasrawy Group has also partnered on ElTawkeel.com, described as Egypt's first fully integrated automotive e-commerce platform for new vehicles, letting shoppers browse and compare newly released models."
+    ],
+    "heroText": "Kasrawy Group has also signed a sponsorship partnership between Jetour and Al Ahly FC, one of Egypt's leading football clubs.",
     "gallery": [
       {
-        "image": "media/jetour-service.jpg",
-        "caption": "JETOUR Service Center, North Coast"
+        "image": "media/jetour-service.jpg"
       },
       {
-        "image": "media/jac-service.jpg",
-        "caption": "JAC Service Center, North Coast"
+        "image": "media/jac-service.jpg"
       },
       {
-        "image": "media/citroen-service.jpg",
-        "caption": "Citroën service, North Coast"
+        "image": "media/citroen-service.jpg"
       },
       {
-        "image": "media/c5-aircross.jpg",
-        "caption": "Citroën C5 Aircross Extended launch"
+        "image": "media/c5-aircross.jpg"
       }
     ],
     "phone": null,
@@ -1649,19 +1635,21 @@
       "accent": "#e3212f"
     },
     "heroImage": "media/showroom-tiggo.jpg",
-    "aboutText": "A.H.Y Hamedo Motors has been trading since 1980, and is an authorized distributor for Hyundai, Opel, Chery, MG, Chevrolet, Haval and Changan. It runs four branches: Dokki, Sheikh Zayed, October and the North Coast.",
+    "aboutParagraphs": [
+      "A.H.Y Hamedo Motors is a long-established authorized distributor in Egypt, representing Hyundai, Opel, Chery, MG, Chevrolet, Haval and Changan.",
+      "It operates four branches: Dokki, Sheikh Zayed, October and the North Coast, giving customers several locations to visit across Greater Cairo and beyond.",
+      "The dealership has built a strong reputation with its customers, maintaining a high recommendation rate from reviews."
+    ],
+    "heroText": "Beyond its main lineup, the dealership also carries a distinctive electric golf cart styled after a classic pickup truck design.",
     "gallery": [
       {
-        "image": "media/showroom-tiggo.jpg",
-        "caption": "Chery Tiggo"
+        "image": "media/showroom-tiggo.jpg"
       },
       {
-        "image": "media/golf-cart.jpg",
-        "caption": "\"DODGE - RAM\" golf cart"
+        "image": "media/golf-cart.jpg"
       },
       {
-        "image": "media/map-teaser.jpg",
-        "caption": "A real aerial frame of Cairo, roads lit and radiating from a dropped pin."
+        "image": "media/map-teaser.jpg"
       }
     ],
     "phone": "012-88-333-633 / 012 11 01 22 34",
