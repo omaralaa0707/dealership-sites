@@ -1,3 +1,5 @@
 .DS_Store
 sites/
 node_modules/
+.vercel
+.env*
