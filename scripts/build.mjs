@@ -27,6 +27,10 @@ export function checkPaletteContrast(dealer) {
 }
 
 export function buildDealerView(dealer) {
+  const heroStyle = dealer.heroImage
+    ? `background-image: linear-gradient(180deg, rgba(0,0,0,0.30), rgba(0,0,0,0.68)), url('${dealer.heroImage}');`
+    : "";
+
   return {
     ...dealer,
     hasLogo: dealer.logo !== null && dealer.logo !== undefined,
