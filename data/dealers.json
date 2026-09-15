@@ -359,5 +359,159 @@
     "instagram": "https://www.instagram.com/auto.dynamics.eg/",
     "facebook": "https://www.facebook.com/AutoDynamicseg",
     "maps": "https://www.google.com/maps/search/?api=1&query=Auto+Dynamics+Cairo"
+  },
+  {
+    "slug": "zayed-auto",
+    "dealerName": "Zayed Auto",
+    "tagline": "Beverly Hills, Sheikh Zayed",
+    "logo": null,
+    "palette": { "background": "#17181a", "ink": "#eef0f2", "accent": "#e0b64a" },
+    "heroImage": "media/forecourt.jpg",
+    "aboutText": "One shopfront on a parade in Beverly Hills, Sheikh Zayed, next to a bank branch. Six or so cars on the pavement outside, a hand-lettered sign above the door, and a phone number.",
+    "gallery": [
+      { "image": "media/merc-c180.jpg", "caption": "Mercedes-Benz C180 AMG" },
+      { "image": "media/mini-countryman.jpg", "caption": "MINI Cooper Countryman" },
+      { "image": "media/hyundai-creta.jpg", "caption": "Hyundai Creta" }
+    ],
+    "phone": "01156888848",
+    "address": "Beverly Hills, Sheikh Zayed",
+    "instagram": "https://www.instagram.com/zayed_autoo/",
+    "facebook": null,
+    "maps": "https://www.google.com/maps/search/?api=1&query=Beverly+Hills+Sheikh+Zayed+Cairo"
+  },
+  {
+    "slug": "mansy-automotive",
+    "dealerName": "Mansy Automotive",
+    "tagline": "Specifications, and nothing else",
+    "logo": null,
+    "palette": { "background": "#f0ecea", "ink": "#191718", "accent": "#a4142d" },
+    "heroImage": "media/showroom.jpg",
+    "aboutText": "Four cars from four different places, a German coupé, a Chinese hatch and two Spanish CUPRAs, photographed in the same showroom in front of the same gold fluted column, with the same red branded mat in every interior shot.",
+    "gallery": [
+      { "image": "media/mercedes-cle-01.jpg", "caption": "Mercedes-Benz CLE 200 Premium Plus" },
+      { "image": "media/mg-gt-01.jpg", "caption": "MG GT" },
+      { "image": "media/cupra-leon-01.jpg", "caption": "CUPRA Leon" },
+      { "image": "media/cupra-formentor-01.jpg", "caption": "CUPRA Formentor" }
+    ],
+    "phone": "01070002272 / 01080851915",
+    "address": "Cairo, Egypt",
+    "instagram": "https://www.instagram.com/mansyautomotive/",
+    "facebook": "https://www.facebook.com/MansyAutomotive/",
+    "maps": "https://maps.app.goo.gl/buJJ5nUCki7hRpY16"
+  },
+  {
+    "slug": "motor-zone",
+    "dealerName": "Motor Zone",
+    "tagline": "Where quality meets trust",
+    "logo": null,
+    "palette": { "background": "#0d0e10", "ink": "#f4f2ef", "accent": "#f4121a" },
+    "heroImage": "media/mark.svg",
+    "aboutText": "A shop on Sayed Zakaria Street in Sheraton, Heliopolis, next to Al-Siddiq Mosque, selling new Chinese and European models on finance.",
+    "gallery": [
+      { "image": "media/mark.svg", "caption": "Motor Zone" }
+    ],
+    "phone": "01271741111",
+    "address": "Sayed Zakaria St, Sheraton, Morabaa El-Wozara, next to Al-Siddiq Mosque",
+    "instagram": "https://www.instagram.com/motorzone.automotive/",
+    "facebook": "https://www.facebook.com/MotorZoneAutomotive/",
+    "maps": "https://maps.app.goo.gl/yTEPdRXp6f8PEue96"
+  },
+  {
+    "slug": "k-auto",
+    "dealerName": "K.auto",
+    "tagline": "for unique cars",
+    "logo": null,
+    "palette": { "background": "#e4dbd9", "ink": "#2b2721", "accent": "#b99065" },
+    "heroImage": "media/rotunda.jpg",
+    "aboutText": "A showroom at Waslet Dahshour beside Cairo University, and a second at Beverly Hills. Run by Mahmoud Kosba, and, as they write on every post, since 1985.",
+    "gallery": [
+      { "image": "media/bmw-x5-01.jpg", "caption": "BMW X5 M60i" },
+      { "image": "media/bmw-x5-02.jpg", "caption": "BMW X5 M60i" },
+      { "image": "media/bmw-x5-03.jpg", "caption": "BMW X5 M60i" },
+      { "image": "media/land-cruiser-01.jpg", "caption": "Toyota Land Cruiser VXR" },
+      { "image": "media/land-cruiser-02.jpg", "caption": "Toyota Land Cruiser VXR" },
+      { "image": "media/land-cruiser-03.jpg", "caption": "Toyota Land Cruiser VXR" }
+    ],
+    "phone": "01113385553 / 01117581599",
+    "address": "Waslet Dahshour, beside Cairo University, Jumeirah Plaza Walk; Beverly Hills Gate 8, 9, Mall 23",
+    "instagram": "https://www.instagram.com/kautoegy/",
+    "facebook": "https://www.facebook.com/p/K-auto-100090894047620/",
+    "maps": "https://maps.app.goo.gl/YxMdqmahUQB4cmWa8"
+  },
+  {
+    "slug": "auto-hub",
+    "dealerName": "Auto Hub",
+    "tagline": "Brand-new & pre-owned",
+    "logo": null,
+    "palette": { "background": "#14161a", "ink": "#e9e7e2", "accent": "#e9e7e2" },
+    "heroImage": "media/e200-1.jpg",
+    "aboutText": "Our goal is to provide the market with the best & lowest prices for Brand-New & Pre-Owned Vehicles.",
+    "gallery": [
+      { "image": "media/c180-1.jpg", "caption": "Mercedes C180 Avantgarde" },
+      { "image": "media/520i-1.jpg", "caption": "BMW 520i" },
+      { "image": "media/520-1.jpg", "caption": "BMW 520" },
+      { "image": "media/e200-1.jpg", "caption": "Mercedes E200 Sport / Avantgarde" },
+      { "image": "media/leon-1.jpg", "caption": "SEAT Leon FR" },
+      { "image": "media/rx5-1.jpg", "caption": "MG RX5 Luxury" },
+      { "image": "media/cla-1.jpg", "caption": "Mercedes CLA Luxury" },
+      { "image": "media/sandero-1.jpg", "caption": "Renault Sandero" },
+      { "image": "media/karoq-1.jpg", "caption": "Skoda Karoq" },
+      { "image": "media/a5-1.jpg", "caption": "Audi A5 S-Line" }
+    ],
+    "phone": "01226515617",
+    "address": "64 Nehru St, off Al Sebaq St, behind Merryland Park, Heliopolis, Cairo",
+    "instagram": "https://www.instagram.com/auto.hub.egypt/",
+    "facebook": "https://www.facebook.com/AutoHubEgy/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=64+Nehru+Street+Heliopolis+Cairo"
+  },
+  {
+    "slug": "teacher-motors",
+    "dealerName": "Teacher Motors",
+    "tagline": "Fastest Growing Automotive Lending Centre in Egypt",
+    "logo": null,
+    "palette": { "background": "#f2efe8", "ink": "#17171a", "accent": "#c79a3e" },
+    "heroImage": "media/brabus-1.jpg",
+    "aboutText": "Teacher Motors is the Fastest Growing Automotive Lending Centre in Egypt. We have thousands of new and used vehicles for you to choose from!",
+    "gallery": [
+      { "image": "media/brabus-1.jpg", "caption": "Brabus 930" },
+      { "image": "media/cullinan-1.jpg", "caption": "Rolls-Royce Cullinan" },
+      { "image": "media/boxster-1.jpg", "caption": "Porsche 718 Boxster" },
+      { "image": "media/gle450-1.jpg", "caption": "Mercedes-Benz GLE 450" },
+      { "image": "media/cherokee-1.jpg", "caption": "Jeep Grand Cherokee" },
+      { "image": "media/cla200-1.jpg", "caption": "Mercedes-Benz CLA 200 AMG" },
+      { "image": "media/silverado-1.jpg", "caption": "Chevrolet Silverado" },
+      { "image": "media/modelx-1.jpg", "caption": "Tesla Model X Plaid" },
+      { "image": "media/velar-zero-1.jpg", "caption": "Range Rover Velar Zero" },
+      { "image": "media/velar-1.jpg", "caption": "Range Rover Velar" }
+    ],
+    "phone": "01148924070 / 01061037530 / 01004759207 / 01127854453 / 01092762502 / 01011399095",
+    "address": "Cairo–Alexandria Desert Road, Sheikh Zayed, Giza",
+    "instagram": "https://www.instagram.com/teachermotorss/",
+    "facebook": "https://www.facebook.com/TeacherMotors/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Teacher+Motors+Cairo+Alexandria+Desert+Road+Sheikh+Zayed"
+  },
+  {
+    "slug": "melegy-automotive",
+    "dealerName": "Melegy Auto",
+    "tagline": "used, with us, is zero",
+    "logo": null,
+    "palette": { "background": "#1c1a17", "ink": "#ece7dc", "accent": "#dd7057" },
+    "heroImage": "media/ibiza-1.jpg",
+    "aboutText": "A showroom in Nasr City and a second in Ismailia, posting used and nearly-new cars to one fixed template, the same eight questions answered every time, and nothing published once a car is gone.",
+    "gallery": [
+      { "image": "media/ibiza-1.jpg", "caption": "SEAT Ibiza" },
+      { "image": "media/508-1.jpg", "caption": "Peugeot 508" },
+      { "image": "media/500x-1.jpg", "caption": "Fiat 500X" },
+      { "image": "media/tiggo8-av-1.jpg", "caption": "Chery Tiggo 8" },
+      { "image": "media/tiggo8-sold-1.jpg", "caption": "Chery Tiggo 8" },
+      { "image": "media/qashqai-1.jpg", "caption": "Nissan Qashqai" },
+      { "image": "media/c180-1.jpg", "caption": "Mercedes-Benz C180" },
+      { "image": "media/tiggo3-1.jpg", "caption": "Chery Tiggo 3" }
+    ],
+    "phone": "01227174125 / 01270000169 / 01271578303",
+    "address": "Nasr City, Mehwar El Shaheed; Fox Square, Ard El Gam3iyat",
+    "instagram": "https://www.instagram.com/melegyauto/",
+    "facebook": "https://www.facebook.com/profile.php?id=61582233003912",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Melegy+Auto+Nasr+City+Mehwar+El+Shaheed+Cairo"
   }
 ]
