@@ -207,5 +207,157 @@
     "instagram": "https://www.instagram.com/phantomauto.egypt/",
     "facebook": null,
     "maps": "https://www.google.com/maps/search/?api=1&query=Phantom+Auto+Chillout+Gardenia+Suez+Road+Cairo"
+  },
+  {
+    "slug": "st4matic",
+    "dealerName": "ST4Matic",
+    "tagline": "Drive the Elite",
+    "logo": null,
+    "palette": { "background": "#0a0b0d", "ink": "#f2f0ec", "accent": "#a06bff" },
+    "heroImage": "media/hero-wide.jpg",
+    "aboutText": "ST4Matic is a reconditioned-car showroom on Fareed Semeika Street in El Nozha, Cairo, dealing in petrol and electric cars, zero-mileage and used.",
+    "gallery": [
+      { "image": "media/ambient-01.jpg", "caption": "520i · door trim, violet mode" },
+      { "image": "media/ambient-02.jpg", "caption": "520i · cluster, Comfort" },
+      { "image": "media/ambient-03.jpg", "caption": "520i · cluster, Sport" },
+      { "image": "media/ambient-04.jpg", "caption": "X4 · dash vents, violet mode" },
+      { "image": "media/ambient-05.jpg", "caption": "C180 · cluster, red" }
+    ],
+    "phone": "01097949330 / 01008890184 / 01147369408",
+    "address": "86 Fareed Semeika St, Al Matar, El Nozha, Cairo",
+    "instagram": null,
+    "facebook": "https://www.facebook.com/ST4Matic/",
+    "maps": "https://www.google.com/maps/place/ST4matic/data=!4m2!3m1!1s0x0:0x6278cb7725dec3ed"
+  },
+  {
+    "slug": "a-class-automotive",
+    "dealerName": "A Class Automotive",
+    "tagline": "A luxurious car for your elegant personality",
+    "logo": null,
+    "palette": { "background": "#e3e0db", "ink": "#121110", "accent": "#8f0002" },
+    "heroImage": "media/hero-wide.jpg",
+    "aboutText": "A Class Automotive is an exotics gallery at City Park in Sheikh Zayed. Every car they publish is photographed in the same room, against the same pale stone wall, under their own sign, so the room is the constant and the car is the only thing that changes.",
+    "gallery": [
+      { "image": "media/lamborghini-temerario-ext-01.jpg", "caption": "Lamborghini Temerario" },
+      { "image": "media/mercedes-g63-ext-01.jpg", "caption": "Mercedes-Benz G63 AMG" },
+      { "image": "media/porsche-cayenne-gts-ext-01.jpg", "caption": "Porsche Cayenne GTS Coupe" },
+      { "image": "media/mercedes-gls580-ext-01.jpg", "caption": "Mercedes-Benz GLS580" },
+      { "image": "media/toyota-land-cruiser-ext-01.jpg", "caption": "Toyota Land Cruiser VX" }
+    ],
+    "phone": "01112512251 / 01030115118 / 01005856644",
+    "address": "City Park, Sheikh Zayed City, Giza",
+    "instagram": "https://www.instagram.com/a_class_luxury_cars/",
+    "facebook": null,
+    "maps": "https://maps.app.goo.gl/BRFrEyiU6gpikrnZ6"
+  },
+  {
+    "slug": "middle-east-motors",
+    "dealerName": "Middle East Motors",
+    "tagline": "Used cars, every model, on the lowest deposit",
+    "logo": null,
+    "palette": { "background": "#1b1712", "ink": "#e8dcc8", "accent": "#faa65e" },
+    "heroImage": "media/hero-wide.jpg",
+    "aboutText": "Middle East Motors work in selling and financing used cars, in every model, on the lowest deposit, through bank finance. That is their own description of the business, and it is the whole business.",
+    "gallery": [
+      { "image": "media/mercedes-e200-ext-01.jpg", "caption": "Mercedes-Benz E200, exterior" },
+      { "image": "media/mercedes-e200-rear-01.jpg", "caption": "Mercedes-Benz E200, rear" },
+      { "image": "media/mercedes-e200-int-01.jpg", "caption": "Mercedes-Benz E200, cabin" },
+      { "image": "media/mercedes-e200-det-01.jpg", "caption": "Mercedes-Benz E200, detail" },
+      { "image": "media/renault-sandero-ext-01.jpg", "caption": "Renault Sandero Stepway, exterior" },
+      { "image": "media/renault-sandero-int-01.jpg", "caption": "Renault Sandero Stepway, cabin" },
+      { "image": "media/renault-sandero-det-01.jpg", "caption": "Renault Sandero Stepway, detail" },
+      { "image": "media/fiat-500x-ext-01.jpg", "caption": "Fiat 500X, exterior" },
+      { "image": "media/fiat-500x-int-01.jpg", "caption": "Fiat 500X, cabin" }
+    ],
+    "phone": "01116686454 / 01145003500",
+    "address": "4 Ahmed Mohamed Ali St, off Abdel Hamid Badawi, behind KFC Nadi El Shams, Heliopolis",
+    "instagram": "https://www.instagram.com/mem_middle_east_motors/",
+    "facebook": "https://www.facebook.com/MiddleEastMotors.eg/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Middle+East+Motors+Heliopolis+Cairo"
+  },
+  {
+    "slug": "bedawy-automotive",
+    "dealerName": "Bedawy Automotive",
+    "tagline": "Experience more than 20 years in car dealership",
+    "logo": null,
+    "palette": { "background": "#0b0b0c", "ink": "#e0cfb7", "accent": "#638eea" },
+    "heroImage": "media/hero.jpg",
+    "aboutText": "Every car they publish is photographed in the same bay: a black room with a stone feature wall and their gold crest above the car. The framing barely changes from one post to the next, which is what makes the roster, rather than the room, the thing worth looking at.",
+    "gallery": [
+      { "image": "media/bmw-x6-01.jpg", "caption": "BMW X6 M50i" },
+      { "image": "media/mercedes-gla-2025-01.jpg", "caption": "Mercedes-Benz GLA 200, 2025" },
+      { "image": "media/mercedes-gla-2024-01.jpg", "caption": "Mercedes-Benz GLA 200, 2024" },
+      { "image": "media/avatr-01.jpg", "caption": "AVATR" }
+    ],
+    "phone": "01098699699",
+    "address": "Building 15 Ideal, Al-Nasr Road, Cairo",
+    "instagram": "https://www.instagram.com/bedawy_automotive/",
+    "facebook": null,
+    "maps": "https://maps.app.goo.gl/2KjQZFwMMCCgbCqN8"
+  },
+  {
+    "slug": "al-rowad-auto",
+    "dealerName": "Al Rowad Auto",
+    "tagline": "No waiting, just driving",
+    "logo": null,
+    "palette": { "background": "#f2efe9", "ink": "#12141a", "accent": "#b8261f" },
+    "heroImage": "media/showroom-actyon.jpg",
+    "aboutText": "Al Rowad Auto Group run three branches, two in Cairo, one in Fayoum, and publish the same block at the foot of every post: the addresses, a bank of numbers per branch, and the words for immediate delivery.",
+    "gallery": [
+      { "image": "media/showroom-actyon.jpg", "caption": "KGM Actyon" },
+      { "image": "media/showroom-venucia.jpg", "caption": "Venucia 260T" }
+    ],
+    "phone": "01140000174",
+    "address": "Maadi Autostrad Road, lower entrance of Al-Meraj City, inside the A1 station; Showroom S5–S6, Shahid Axis Road, Nasr City; Al-Hassan Tower, opposite the Fayoum Culture Palace",
+    "instagram": "https://www.instagram.com/alrowadauto/",
+    "facebook": "https://www.facebook.com/alrowadauto/",
+    "maps": "https://maps.app.goo.gl/LY2V5J956qZ3Kwid9"
+  },
+  {
+    "slug": "auto-gate",
+    "dealerName": "Auto Gate",
+    "tagline": "Your gate to elevate",
+    "logo": null,
+    "palette": { "background": "#0b0d12", "ink": "#eceff4", "accent": "#ffda75" },
+    "heroImage": "media/hero.jpg",
+    "aboutText": "Auto Gate describe themselves as a luxury automobile seller based in Egypt, and they work from one address: 64 El-Nozha Street, next to the Mobil station in Heliopolis.",
+    "gallery": [
+      { "image": "media/challenger-front.jpg", "caption": "A blue Dodge Challenger head-on, halo headlights doubled in the wet ground." },
+      { "image": "media/lineup-gate.jpg", "caption": "A line-up under the illuminated AUTO GATE sign: Challenger, a white Aston Martin, a black BMW." },
+      { "image": "media/mercedes-night.jpg", "caption": "A black Mercedes on the wet forecourt at night." },
+      { "image": "media/challenger-side.jpg", "caption": "The Challenger from the side, its reflection running the length of the frame." },
+      { "image": "media/lineup-mercedes.jpg", "caption": "A row of Mercedes saloons under the sign." }
+    ],
+    "phone": "01222271878 / 01000358999",
+    "address": "64 El-Nozha Street, Heliopolis, next to the Mobil station",
+    "instagram": "https://www.instagram.com/autogate__/",
+    "facebook": "https://www.facebook.com/autogate11/",
+    "maps": "https://maps.app.goo.gl/GFbdJwR3AGijndBC8"
+  },
+  {
+    "slug": "auto-dynamics",
+    "dealerName": "Auto Dynamics",
+    "tagline": "Reimagining luxury, redefining excellence",
+    "logo": null,
+    "palette": { "background": "#efede8", "ink": "#1a1917", "accent": "#6b3a22" },
+    "heroImage": "media/composite.jpg",
+    "aboutText": "Auto Dynamics have been trading since 1994 and describe what they do as curating world-class cars. Their listings are the most complete of any dealership in this series: sectioned specification sheets covering drivetrain, interior, technology, exterior and safety, with an exact odometer reading on every pre-owned car.",
+    "gallery": [
+      { "image": "media/jaguar-f-type.jpg", "caption": "Jaguar F-Type R-Dynamic" },
+      { "image": "media/alfa-tonale.jpg", "caption": "Alfa Romeo Tonale" },
+      { "image": "media/mercedes-e200.jpg", "caption": "Mercedes-Benz E-200" },
+      { "image": "media/porsche-macan-s.jpg", "caption": "Porsche Macan S" },
+      { "image": "media/range-rover-sport.jpg", "caption": "Land Rover Range Rover Sport HSE 3.0L" },
+      { "image": "media/mercedes-gls580.jpg", "caption": "Mercedes-Benz GLS 580 AMG" },
+      { "image": "media/mercedes-gle450.jpg", "caption": "Mercedes-Benz GLE 450 AMG" },
+      { "image": "media/mazda-mx5.jpg", "caption": "Mazda MX-5 Miata" },
+      { "image": "media/mercedes-glc300.jpg", "caption": "Mercedes-Benz GLC 300 AMG Coupé" },
+      { "image": "media/mercedes-v300.jpg", "caption": "Mercedes-Benz V300 Avantgarde" }
+    ],
+    "phone": null,
+    "address": "Cairo, Egypt",
+    "instagram": "https://www.instagram.com/auto.dynamics.eg/",
+    "facebook": "https://www.facebook.com/AutoDynamicseg",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Auto+Dynamics+Cairo"
   }
 ]
