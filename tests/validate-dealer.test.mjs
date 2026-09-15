@@ -13,8 +13,13 @@ function baseDealer(overrides = {}) {
     logo: null,
     palette: { background: "#08080a", ink: "#edeae4", accent: "#c08a4e" },
     heroImage: "media/car-02.webp",
-    aboutText: "We hand-pick every car that enters the showroom.",
-    gallery: [{ image: "media/car-11.webp", caption: "Mercedes-Benz" }],
+    heroText: "A Heliopolis showroom built around a small number of cars.",
+    aboutParagraphs: [
+      "We hand-pick every car that enters the showroom.",
+      "Every car is chosen for condition and specification.",
+      "Immediate delivery and flexible finance are available.",
+    ],
+    gallery: [{ image: "media/car-11.webp" }],
     phone: "010 0055 8557",
     address: "151 El Sayed El Merghany, Almazah, Heliopolis, Cairo",
     instagram: "https://www.instagram.com/oneofone.automotive/",
@@ -84,8 +89,30 @@ test("a dealer with heroImage: null and gallery: [] validates successfully", () 
 });
 
 test("a gallery item missing an image throws", () => {
-  const dealer = baseDealer({ gallery: [{ caption: "Mercedes-Benz" }] });
+  const dealer = baseDealer({ gallery: [{}] });
   assert.throws(() => validateDealer(dealer), /gallery\[0\].image/);
+});
+
+test("a gallery item needs no caption field", () => {
+  const dealer = baseDealer({ gallery: [{ image: "media/car-11.webp" }] });
+  assert.equal(validateDealer(dealer), true);
+});
+
+test("aboutParagraphs must have exactly 3 entries", () => {
+  const dealer = baseDealer({ aboutParagraphs: ["Only one paragraph."] });
+  assert.throws(() => validateDealer(dealer), /aboutParagraphs/);
+});
+
+test("an empty string in aboutParagraphs throws", () => {
+  const dealer = baseDealer({
+    aboutParagraphs: ["Real paragraph one.", "  ", "Real paragraph three."],
+  });
+  assert.throws(() => validateDealer(dealer), /aboutParagraphs\[1\]/);
+});
+
+test("a missing heroText throws", () => {
+  const dealer = baseDealer({ heroText: "" });
+  assert.throws(() => validateDealer(dealer), /heroText/);
 });
 
 test("phone may be null", () => {

@@ -6,10 +6,15 @@
     "logo": null,
     "palette": { "background": "#08080a", "ink": "#edeae4", "accent": "#c08a4e" },
     "heroImage": "media/car-02.webp",
-    "aboutText": "We hand-pick every car that enters the showroom.",
+    "heroText": "A Heliopolis showroom built around a small number of cars, chosen for condition and specification.",
+    "aboutParagraphs": [
+      "We hand-pick every car that enters the showroom, from Mercedes to Porsche.",
+      "Every car sits on the floor for its condition and specification, not just to fill space.",
+      "Immediate delivery and flexible finance are available on every car in the collection."
+    ],
     "gallery": [
-      { "image": "media/car-11.webp", "caption": "Mercedes-Benz" },
-      { "image": "media/car-07.webp", "caption": "Porsche" }
+      { "image": "media/car-11.webp" },
+      { "image": "media/car-07.webp" }
     ],
     "phone": "010 0055 8557",
     "address": "151 El Sayed El Merghany, Almazah, Heliopolis, Cairo",
@@ -24,9 +29,14 @@
     "logo": null,
     "palette": { "background": "#93A5B4", "ink": "#14181C", "accent": "#C97A32" },
     "heroImage": "media/tiguan-2023-1.jpg",
-    "aboutText": "A showroom for used SUVs from Volkswagen, Toyota, Kia, Skoda and Hyundai.",
+    "heroText": "Used SUVs across two branches, from Volkswagen, Toyota, Kia, Skoda and Hyundai.",
+    "aboutParagraphs": [
+      "El Basma Motors is a showroom for used SUVs, carrying Volkswagen, Toyota, Kia, Skoda and Hyundai.",
+      "There are two branches: one in New Damietta on the Delta coast, and one in Nasr City, Cairo.",
+      "Every car on the floor is a real SUV in current stock, ready to view in person at either branch."
+    ],
     "gallery": [
-      { "image": "media/fortuner-1.jpg", "caption": "Toyota Fortuner" }
+      { "image": "media/fortuner-1.jpg" }
     ],
     "phone": null,
     "address": null,
@@ -41,7 +51,12 @@
     "logo": null,
     "palette": { "background": "#0d0e10", "ink": "#f4f2ef", "accent": "#f4121a" },
     "heroImage": null,
-    "aboutText": "A dealer with no published photography at all.",
+    "heroText": "A dealer with no published photography at all.",
+    "aboutParagraphs": [
+      "No Photo Motors is a fixture-only test entry with no real photography in its source.",
+      "This paragraph exists to confirm the page still renders cleanly without any images.",
+      "The third paragraph confirms three story rows render in a row with no image slots."
+    ],
     "gallery": [],
     "phone": null,
     "address": null,

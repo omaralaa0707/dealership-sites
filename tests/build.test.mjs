@@ -5,6 +5,8 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import {
   buildDealerView,
+  buildStoryRows,
+  buildStripImages,
   checkPaletteContrast,
   buildSite,
 } from "../scripts/build.mjs";
@@ -18,8 +20,18 @@ const FIXTURE_DEALER = {
   logo: null,
   palette: { background: "#08080a", ink: "#edeae4", accent: "#c08a4e" },
   heroImage: "media/car-02.webp",
-  aboutText: "Hand-picked cars.",
-  gallery: [{ image: "media/car-11.webp", caption: "Mercedes-Benz" }],
+  heroText: "A Heliopolis showroom built around a small number of cars.",
+  aboutParagraphs: [
+    "Hand-picked cars, chosen for condition and specification.",
+    "Every car on the floor has been inspected before it earns its place.",
+    "Immediate delivery and flexible finance are available on request.",
+  ],
+  gallery: [
+    { image: "media/car-11.webp" },
+    { image: "media/car-07.webp" },
+    { image: "media/car-23.webp" },
+    { image: "media/car-13.webp" },
+  ],
   phone: "010 0055 8557",
   address: null,
   instagram: null,
@@ -58,9 +70,40 @@ test("buildDealerView computes an empty heroStyle when heroImage is null", () =>
   assert.equal(view.heroStyle, "");
 });
 
-test("buildDealerView sets hasGallery true when gallery has entries, false when empty", () => {
-  assert.equal(buildDealerView(FIXTURE_DEALER).hasGallery, true);
-  assert.equal(buildDealerView({ ...FIXTURE_DEALER, gallery: [] }).hasGallery, false);
+test("buildStoryRows zips each aboutParagraph with a gallery image and alternates sides", () => {
+  const rows = buildStoryRows(FIXTURE_DEALER);
+  assert.equal(rows.length, 3);
+  assert.equal(rows[0].text, FIXTURE_DEALER.aboutParagraphs[0]);
+  assert.equal(rows[0].hasImage, true);
+  assert.equal(rows[0].image, "media/car-11.webp");
+  assert.equal(rows[0].sideClass, "row-right");
+  assert.equal(rows[1].sideClass, "row-left");
+  assert.equal(rows[2].sideClass, "row-right");
+});
+
+test("buildStoryRows gives a row with no matching image hasImage: false", () => {
+  const thinDealer = { ...FIXTURE_DEALER, gallery: [{ image: "media/car-11.webp" }] };
+  const rows = buildStoryRows(thinDealer);
+  assert.equal(rows[0].hasImage, true);
+  assert.equal(rows[1].hasImage, false);
+  assert.equal(rows[1].image, "");
+  assert.equal(rows[2].hasImage, false);
+});
+
+test("buildStripImages returns gallery entries beyond the first 3", () => {
+  const strip = buildStripImages(FIXTURE_DEALER);
+  assert.deepEqual(strip, [{ image: "media/car-13.webp" }]);
+});
+
+test("buildStripImages is empty when a dealer has 3 or fewer gallery images", () => {
+  const thinDealer = { ...FIXTURE_DEALER, gallery: [{ image: "media/car-11.webp" }] };
+  assert.deepEqual(buildStripImages(thinDealer), []);
+});
+
+test("buildDealerView sets hasStripImages true only when strip images exist", () => {
+  assert.equal(buildDealerView(FIXTURE_DEALER).hasStripImages, true);
+  const thinDealer = { ...FIXTURE_DEALER, gallery: [{ image: "media/car-11.webp" }] };
+  assert.equal(buildDealerView(thinDealer).hasStripImages, false);
 });
 
 test("checkPaletteContrast passes for a dealer with AA-passing ink/background", () => {
@@ -122,7 +165,8 @@ test("buildSite renders both fixture dealers to sites/<slug>/index.html and copi
 
   const html = await readFile(path.join(outDir, "one-of-one", "index.html"), "utf8");
   assert.match(html, /One of One Automotive/);
-  assert.match(html, /Mercedes-Benz/);
+  assert.match(html, /hand-pick every car/);
+  assert.doesNotMatch(html, /<figcaption/);
 
   assert.ok(existsSync(path.join(outDir, "one-of-one", "media", "car-02.webp")));
   assert.ok(existsSync(path.join(outDir, "el-basma-motors", "media", "fortuner-1.jpg")));

@@ -19,32 +19,44 @@
 </style>
 </head>
 <body>
+  <nav class="nav">
+    <a class="nav-brand" href="#">{{dealerName}}</a>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      {{#hasStripImages}}<a href="#gallery">Showroom</a>{{/hasStripImages}}
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
   <header class="hero" style="{{heroStyle}}">
     <canvas id="scene" class="hero-canvas" aria-hidden="true"></canvas>
     <div class="hero-inner reveal">
       {{#hasLogo}}<img class="logo" src="{{logo}}" alt="{{dealerName}} logo">{{/hasLogo}}
       <h1 class="wordmark">{{dealerName}}</h1>
       <p class="tagline">{{tagline}}</p>
+      <p class="hero-text">{{heroText}}</p>
     </div>
   </header>
 
   <main>
-    <section class="about" id="about">
-      <p class="reveal">{{aboutText}}</p>
+    <section class="story" id="about">
+      {{#storyRows}}
+      <div class="story-row {{sideClass}}{{#hasImage}} has-image{{/hasImage}} reveal">
+        {{#hasImage}}<img class="story-image" src="{{image}}" alt="" loading="lazy">{{/hasImage}}
+        <p class="story-text">{{text}}</p>
+      </div>
+      {{/storyRows}}
     </section>
 
-    {{#hasGallery}}
+    {{#hasStripImages}}
     <section class="gallery" id="gallery">
-      <div class="gallery-grid">
-        {{#gallery}}
-        <figure class="gallery-item reveal">
-          <img src="{{image}}" alt="" loading="lazy">
-          <figcaption>{{caption}}</figcaption>
-        </figure>
-        {{/gallery}}
+      <div class="gallery-strip">
+        {{#stripImages}}
+        <img class="reveal" src="{{image}}" alt="" loading="lazy">
+        {{/stripImages}}
       </div>
     </section>
-    {{/hasGallery}}
+    {{/hasStripImages}}
 
     <section class="contact reveal" id="contact">
       <h2>Visit {{dealerName}}</h2>

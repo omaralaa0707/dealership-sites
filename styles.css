@@ -28,6 +28,44 @@ a {
   color: inherit;
 }
 
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 1.1rem 6vw;
+  background: color-mix(in srgb, var(--background) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid color-mix(in srgb, var(--ink) 12%, transparent);
+}
+
+.nav-brand {
+  font-family: "Manrope", system-ui, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.nav-links a:hover {
+  opacity: 1;
+}
+
 .hero {
   position: relative;
   min-height: 100vh;
@@ -75,39 +113,86 @@ a {
   max-width: 34rem;
 }
 
+.hero-text {
+  margin-top: 1rem;
+  font-size: clamp(0.95rem, 1.3vw, 1.1rem);
+  color: #d4d4d4;
+  max-width: 38rem;
+  line-height: 1.6;
+}
+
 main {
   max-width: 72rem;
   margin: 0 auto;
   padding: 0 6vw;
 }
 
-.about {
+.story {
   padding: 5rem 0;
-  font-size: clamp(1.05rem, 1.6vw, 1.35rem);
+  display: flex;
+  flex-direction: column;
+  gap: 4.5rem;
+}
+
+.story-row {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.story-row.row-right {
+  flex-direction: row-reverse;
+}
+
+.story-row.has-image .story-image {
+  flex: 1 1 45%;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 0.75rem;
+}
+
+.story-row.has-image .story-text {
+  flex: 1 1 55%;
+}
+
+.story-row:not(.has-image) {
   max-width: 44rem;
+}
+
+.story-text {
+  font-size: clamp(1.05rem, 1.6vw, 1.3rem);
+  line-height: 1.7;
 }
 
 .gallery {
   padding: 2rem 0 5rem;
 }
 
-.gallery-grid {
+.gallery-strip {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+  gap: 1rem;
 }
 
-.gallery-item img {
+.gallery-strip img {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
   border-radius: 0.5rem;
 }
 
-.gallery-item figcaption {
-  margin-top: 0.5rem;
-  font-size: 0.9rem;
-  opacity: 0.75;
+@media (max-width: 42rem) {
+  .story-row,
+  .story-row.row-right {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .story-row.has-image .story-image,
+  .story-row.has-image .story-text {
+    flex: 1 1 auto;
+  }
 }
 
 .contact {

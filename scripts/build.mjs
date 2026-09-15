@@ -26,10 +26,31 @@ export function checkPaletteContrast(dealer) {
   }
 }
 
+const STORY_ROW_COUNT = 3;
+
+export function buildStoryRows(dealer) {
+  const images = Array.isArray(dealer.gallery) ? dealer.gallery : [];
+  return dealer.aboutParagraphs.map((text, i) => {
+    const image = images[i];
+    return {
+      text,
+      hasImage: Boolean(image),
+      image: image ? image.image : "",
+      sideClass: i % 2 === 0 ? "row-right" : "row-left",
+    };
+  }).slice(0, STORY_ROW_COUNT);
+}
+
+export function buildStripImages(dealer) {
+  const images = Array.isArray(dealer.gallery) ? dealer.gallery : [];
+  return images.slice(STORY_ROW_COUNT).map((item) => ({ image: item.image }));
+}
+
 export function buildDealerView(dealer) {
   const heroStyle = dealer.heroImage
     ? `background-image: linear-gradient(180deg, rgba(0,0,0,0.30), rgba(0,0,0,0.68)), url('${dealer.heroImage}');`
     : "";
+  const stripImages = buildStripImages(dealer);
 
   return {
     ...dealer,
@@ -39,7 +60,9 @@ export function buildDealerView(dealer) {
     hasInstagram: dealer.instagram !== null && dealer.instagram !== undefined,
     hasFacebook: dealer.facebook !== null && dealer.facebook !== undefined,
     hasMaps: dealer.maps !== null && dealer.maps !== undefined,
-    hasGallery: Array.isArray(dealer.gallery) && dealer.gallery.length > 0,
+    storyRows: buildStoryRows(dealer),
+    stripImages,
+    hasStripImages: stripImages.length > 0,
     heroStyle,
     accentText: pickReadableText(dealer.palette.accent),
     currentYear: new Date().getFullYear(),
