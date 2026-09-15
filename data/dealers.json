@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "one-of-one",
+    "dealerName": "One of One Automotive",
+    "tagline": "Cairo's finest selection of luxury & sports cars",
+    "logo": null,
+    "palette": { "background": "#08080a", "ink": "#edeae4", "accent": "#c08a4e" },
+    "heroImage": "media/car-02.webp",
+    "aboutText": "We hand-pick every car that enters the showroom: Mercedes, Porsche, Range Rover, BMW and Audi, selected for condition, specification and character, not just for stock. Delivery is immediate and finance flexible, with every step from the first walk-around to the handover built to feel as considered as the cars themselves.",
+    "gallery": [
+      { "image": "media/car-11.webp", "caption": "Mercedes-Benz" },
+      { "image": "media/car-23.webp", "caption": "Audi" },
+      { "image": "media/car-13.webp", "caption": "BMW" },
+      { "image": "media/car-17.webp", "caption": "Range Rover" },
+      { "image": "media/car-07.webp", "caption": "Porsche" },
+      { "image": "media/car-21.webp", "caption": "MINI" },
+      { "image": "media/car-26.webp", "caption": "Skoda" }
+    ],
+    "phone": "010 0055 8557 / 011 5822 0052 / 011 5941 0137",
+    "address": "151 El Sayed El Merghany, Almazah, Heliopolis, Cairo",
+    "instagram": "https://www.instagram.com/oneofone.automotive/",
+    "facebook": "https://www.facebook.com/oneofonecars/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=One+of+One+Automotive+151+El+Sayed+El+Merghany+Heliopolis+Cairo"
+  },
+  {
+    "slug": "el-basma-motors",
+    "dealerName": "El Basma Motors",
+    "tagline": "New Damietta and Cairo",
+    "logo": null,
+    "palette": { "background": "#93A5B4", "ink": "#14181C", "accent": "#C97A32" },
+    "heroImage": "media/tiguan-2023-1.jpg",
+    "aboutText": "El Basma Motors is a showroom for used SUVs, brought in from marques such as Volkswagen, Toyota, Kia, Skoda and Hyundai. There are two branches: one in New Damietta on the Delta coast, and one in Nasr City, Cairo.",
+    "gallery": [
+      { "image": "media/tiguan-2023-1.jpg", "caption": "Volkswagen Tiguan" },
+      { "image": "media/tiguan-2024-1.jpg", "caption": "Volkswagen Tiguan" },
+      { "image": "media/fortuner-1.jpg", "caption": "Toyota Fortuner" },
+      { "image": "media/sportage-gt-1.jpg", "caption": "Kia Sportage" },
+      { "image": "media/sportage-2021-2.jpg", "caption": "Kia Sportage" },
+      { "image": "media/kodiaq-1.jpg", "caption": "Skoda Kodiaq" },
+      { "image": "media/tucson-1.jpg", "caption": "Hyundai Tucson" }
+    ],
+    "phone": "01005887575 / 01000153845 / 01004833375",
+    "address": "New Damietta: Sohbagiya Street, next to Cedar Cafe; Cairo: Nasr City, Tenth District, Shinzo Abe Axis",
+    "instagram": "https://www.instagram.com/elbasmamotors/",
+    "facebook": "https://www.facebook.com/ElbasmaMotors",
+    "maps": "https://www.google.com/maps/place/Al+Basma+Motors/data=!4m2!3m1!1s0x0:0x97e277271e17f458"
+  }
+]
