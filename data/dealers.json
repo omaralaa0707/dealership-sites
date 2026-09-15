@@ -1722,5 +1722,421 @@
     "instagram": "https://www.instagram.com/hamedomotors/",
     "facebook": "https://www.facebook.com/HamedoMotors/",
     "maps": "https://maps.app.goo.gl/WeMwEUPKee898Cik8"
+  },
+  {
+    "slug": "rawas-motors",
+    "dealerName": "El Rawas Motors",
+    "tagline": "Authorized distributor: the list depends where you look",
+    "logo": null,
+    "palette": {
+      "background": "#f4f5f3",
+      "ink": "#14161a",
+      "accent": "#ed1a3b"
+    },
+    "heroImage": "media/hero-sportage.jpg",
+    "aboutText": "Facebook's own \"About\" panel names El Rawas Motors an authorized distributor for three marques. Instagram's own bio names four. A co-branded exhibition poster from their own feed shows six cars from six brands parked side by side.",
+    "gallery": [
+      {
+        "image": "media/event-poster.jpg",
+        "caption": "Auto Center Point exhibition poster, six marques"
+      },
+      {
+        "image": "media/port-said.jpg",
+        "caption": "Port Said teaser post"
+      },
+      {
+        "image": "media/sportage-financing.jpg",
+        "caption": "Kia Sportage financing offer"
+      }
+    ],
+    "phone": "19618 / 02 25783302",
+    "address": "Madinaty · Fifth Settlement · Ramsis St, Qasr El Nil · Hoda Shaarawy St, Downtown",
+    "instagram": "https://www.instagram.com/rawasmotors/",
+    "facebook": "https://www.facebook.com/rawasmotors/",
+    "maps": "https://maps.app.goo.gl/ndHZkyQKZkse6pE99"
+  },
+  {
+    "slug": "elite-auto",
+    "dealerName": "Elite Auto",
+    "tagline": "Luxury Redefined: Exclusive Cars, Unmatched Elegance",
+    "logo": null,
+    "palette": {
+      "background": "#121110",
+      "ink": "#f2ede5",
+      "accent": "#e63328"
+    },
+    "heroImage": "media/bmw740.jpg",
+    "aboutText": "Elite Auto is more than just a top-notch Class A auto showroom. We are further keen on providing you with various valuable car purchasing options, including trading, installment & exchanging your old vehicle with more flexible terms and less time wasted.",
+    "gallery": [
+      {
+        "image": "media/c200.jpg",
+        "caption": "Mercedes C200 Convertible"
+      },
+      {
+        "image": "media/c180.jpg",
+        "caption": "Mercedes C180 Avantgarde Plus"
+      },
+      {
+        "image": "media/a5.jpg",
+        "caption": "Audi A5 (all-new)"
+      },
+      {
+        "image": "media/stelvio.jpg",
+        "caption": "Alfa Romeo Stelvio Q4"
+      },
+      {
+        "image": "media/glc.jpg",
+        "caption": "Mercedes GLC 300 AMG 4Matic"
+      }
+    ],
+    "phone": "01224242084",
+    "address": "El-Tesin El-Ganouby Street, beside Dusit Thani hotel, New Cairo",
+    "instagram": "https://www.instagram.com/eliteautoegypt/",
+    "facebook": "https://www.facebook.com/EliteAutoOfficial/",
+    "maps": "https://maps.app.goo.gl/niaT9SJewCR596Av6"
+  },
+  {
+    "slug": "east-gate-auto-site",
+    "dealerName": "East Gate Auto",
+    "tagline": "Your premium source for luxury vehicles.",
+    "logo": null,
+    "palette": {
+      "background": "#221d19",
+      "ink": "#efe9df",
+      "accent": "#e1ba5f"
+    },
+    "heroImage": "media/e200.jpg",
+    "aboutText": "East Gate Auto sort every car by how ready it is to leave the lot: Available for Reservation, Available Now, and Pre-Owned. Two of the Reservation cars, and one \"Available Now\" car, turn out to be manufacturer configurator renders, not photographs of real inventory.",
+    "gallery": [
+      {
+        "image": "media/c200-2027.jpg",
+        "caption": "Mercedes-Benz C200 2027"
+      },
+      {
+        "image": "media/glc300-2027.jpg",
+        "caption": "Mercedes-Benz GLC 300 2027"
+      },
+      {
+        "image": "media/cla200-2.jpg",
+        "caption": "Mercedes-Benz CLA 200 2027"
+      },
+      {
+        "image": "media/rox.jpg",
+        "caption": "ROX Adamas 2026"
+      },
+      {
+        "image": "media/glc200-imsa.jpg",
+        "caption": "Mercedes-Benz GLC 200 AMG IMSA Edition"
+      },
+      {
+        "image": "media/glc43-1.jpg",
+        "caption": "Mercedes-Benz GLC 43 AMG 2026"
+      },
+      {
+        "image": "media/glb200.jpg",
+        "caption": "Mercedes-Benz GLB 200"
+      },
+      {
+        "image": "media/rangerover.jpg",
+        "caption": "Range Rover Sport P400e 2022"
+      }
+    ],
+    "phone": "01013037777",
+    "address": "Chillout Al-Rehab 2 Station – Gate 20, Building No. 4; East Gate Auto, Madinaty, Chillout Madinaty Extension, Beside Gate 1",
+    "instagram": "https://www.instagram.com/eastgauto/",
+    "facebook": "https://www.facebook.com/EastGAuto/",
+    "maps": "https://www.google.com/maps/place/EAST+GATE+AUTO/data=!4m2!3m1!1s0x0:0x5eff3f605814be0c"
+  },
+  {
+    "slug": "bespoke-automotive",
+    "dealerName": "Bespoke Automotive",
+    "tagline": "BE ULTIMATE",
+    "logo": "media/logo-mark.svg",
+    "palette": {
+      "background": "#96918C",
+      "ink": "#0E0E0D",
+      "accent": "#E8C878"
+    },
+    "heroImage": "media/sl63-1.jpg",
+    "aboutText": "Bespoke Automotive sells high-end cars out of a single room in C-Park Mall, on South 90 Street in the Fifth Settlement, New Cairo. Its Facebook page describes the business in one line: a luxury car dealership shaping unparalleled experience in the world of high-end automobiles. This page is built only from what the dealership itself published: 400 posts are claimed on Instagram, and 7 render to a logged-out visitor, each a carousel of exactly 20 frames, 140 photographs in all, with no frame repeated from one post to the next.",
+    "gallery": [
+      {
+        "image": "media/m3-competition-1.jpg",
+        "caption": "The bars read as two long gold streaks down the whole side of the car."
+      },
+      {
+        "image": "media/gt3-natoo-olive-2.jpg",
+        "caption": "Olive green over the black fluted panelling, the room's fixed backdrop."
+      },
+      {
+        "image": "media/gt3-oak-green-1.jpg",
+        "caption": "The second of the pair. Same car, same year, one figure apart."
+      },
+      {
+        "image": "media/m4-cabriolet-3.jpg",
+        "caption": "The only open car in the seven posts."
+      },
+      {
+        "image": "media/sl63-2.jpg",
+        "caption": "Black paint takes the bars whole: the ceiling is legible in the bodywork."
+      },
+      {
+        "image": "media/glc43-4.jpg",
+        "caption": "The one listing that writes its specification to its own template."
+      },
+      {
+        "image": "media/m-town-1.jpg",
+        "caption": "The group post, and the only one that lists no specification."
+      },
+      {
+        "image": "media/m-town-5.jpg",
+        "caption": "The wall sign, and the ceiling bars crossing above it."
+      }
+    ],
+    "phone": "01000979097 / 01001616989 / 01008298401 / 01018000507 / 01028190608 / 01030067421 / 01050776633 / 01061460610 / 01113119902 / 01147331022 / 01055777708",
+    "address": "C-Park Mall, South 90 Street, Fifth Settlement, New Cairo",
+    "instagram": "https://www.instagram.com/bespokeautomotive.eg/",
+    "facebook": "https://www.facebook.com/profile.php?id=100083484217036",
+    "maps": "https://www.google.com/maps/place/bespoke+automotive+Egypt/data=!4m2!3m1!1s0x0:0xa7f32b3613cd54e9"
+  },
+  {
+    "slug": "gbr-auto",
+    "dealerName": "GBR Auto",
+    "tagline": "New Cairo",
+    "logo": "media/logo-mark.svg",
+    "palette": {
+      "background": "#4E463A",
+      "ink": "#F2ECE2",
+      "accent": "#C99A62"
+    },
+    "heroImage": "media/frontage-wide.jpg",
+    "aboutText": "GBR Auto is a car showroom at District 90 Mall, on 90th Street in New Cairo. They deal in Mercedes-Benz and other premium marques, including electric models.",
+    "gallery": [
+      {
+        "image": "media/frontage-wide.jpg",
+        "caption": "GBR Auto showroom frontage, New Cairo"
+      },
+      {
+        "image": "media/cover-render.jpg",
+        "caption": "GBR Auto brand artwork, not real inventory"
+      }
+    ],
+    "phone": "01222278858",
+    "address": "District 90 Mall, North Teseen, New Cairo",
+    "instagram": "https://www.instagram.com/gbr_auto.eg/",
+    "facebook": "https://www.facebook.com/gbrauto1/",
+    "maps": "https://maps.app.goo.gl/oZzV7Z8QqzmsTqj56"
+  },
+  {
+    "slug": "el-saadany-motors",
+    "dealerName": "El Saadany Motors",
+    "tagline": "Alexandria, read off their own frames",
+    "logo": null,
+    "palette": {
+      "background": "#B9A183",
+      "ink": "#1E1A16",
+      "accent": "#E4D2A8"
+    },
+    "heroImage": "media/saadany-front-1.jpg",
+    "aboutText": "El Saadany Motors keeps two published accounts: an age-restricted Instagram profile that does not open, and a Facebook page with 2.4K followers, which is where every photograph on this site comes from. That leaves 10 photographs and no published captions: no price, no year, no kilometres, no phone number. The cars are photographed in front of two differently named shopfronts, lettered ElSaadany Motors and TRENDY MOTORS, and nothing published explains the relationship between the two.",
+    "gallery": [
+      {
+        "image": "media/saadany-front-1.jpg",
+        "caption": "Mercedes-Benz saloon and a Hyundai Tucson, side by side"
+      },
+      {
+        "image": "media/saadany-front-2.jpg",
+        "caption": "The same two cars, a step further back"
+      },
+      {
+        "image": "media/q3-detail.jpg",
+        "caption": "Audi Q3"
+      },
+      {
+        "image": "media/trendy-front-1.jpg",
+        "caption": "Audi Q3"
+      },
+      {
+        "image": "media/q3-rear-1.jpg",
+        "caption": "Audi Q3"
+      },
+      {
+        "image": "media/q3-rear-2.jpg",
+        "caption": "Audi Q3"
+      },
+      {
+        "image": "media/trendy-front-2.jpg",
+        "caption": "Audi Q3"
+      },
+      {
+        "image": "media/trendy-front-3.jpg",
+        "caption": "Audi Q3"
+      },
+      {
+        "image": "media/q3-grey.jpg",
+        "caption": "Audi Q3, grey"
+      },
+      {
+        "image": "media/q3-interior.jpg",
+        "caption": "Audi Q3, khaki"
+      }
+    ],
+    "phone": null,
+    "address": "Alexandria",
+    "instagram": "https://www.instagram.com/elsaadnymotors_/",
+    "facebook": "https://www.facebook.com/elsaadany.motors/",
+    "maps": null
+  },
+  {
+    "slug": "golden-auto",
+    "dealerName": "Golden Auto",
+    "tagline": "Drive What Others Only Dream Of",
+    "logo": null,
+    "palette": {
+      "background": "#1A1714",
+      "ink": "#EFE7DA",
+      "accent": "#C9A227"
+    },
+    "heroImage": "media/ferrari-f8-1.jpg",
+    "aboutText": "Golden Auto photographs from a single room: one circular patterned floor, columns lit from below, the same walls behind every car, and their own GOLDEN AUTO mark burned into every frame. The bio carries one line, «Drive What Others Only Dream Of», and an address in Heliopolis. Across the 9 reachable posts, which resolve to 6 cars, every exterior colour is either black or grey, with no other colour ever named on a body panel.",
+    "gallery": [
+      {
+        "image": "media/ferrari-f8-1.jpg",
+        "caption": "Ferrari F8 Spider"
+      },
+      {
+        "image": "media/urus-1.jpg",
+        "caption": "Lamborghini Urus Capsule"
+      },
+      {
+        "image": "media/bentley-1.jpg",
+        "caption": "Bentley Flying Continental GT W12"
+      },
+      {
+        "image": "media/gls580-1.jpg",
+        "caption": "Mercedes GLS 580 AMG"
+      },
+      {
+        "image": "media/m850i-1.jpg",
+        "caption": "BMW M850I Convertible XDrive"
+      },
+      {
+        "image": "media/audi-q8-1.jpg",
+        "caption": "Audi Q8 S-Line Plus"
+      }
+    ],
+    "phone": "01111988931 / 01112107676",
+    "address": "30 Al Andalos St, Misr El-Gedida, Cairo",
+    "instagram": "https://www.instagram.com/goldenauto.eg/",
+    "facebook": null,
+    "maps": "https://www.google.com/maps/place/Golden+Auto/data=!4m2!3m1!1s0x0:0xf9d543a83f548b3"
+  },
+  {
+    "slug": "am-automotive",
+    "dealerName": "AM Automotive",
+    "tagline": "Used and Brand New Premium Cars",
+    "logo": null,
+    "palette": {
+      "background": "#6B4A2E",
+      "ink": "#F6F1E9",
+      "accent": "#C9A24B"
+    },
+    "heroImage": "media/kodiaq-1.jpg",
+    "aboutText": "AM Automotive sells out of a showroom in Heliopolis, inside Chillout Auto Service, opposite the Military Academy at Gate 7. The bio carries one line, «Used and Brand New Premium Cars», three phone numbers and a map link. The reachable floor keeps that promise literally: a 2006 Mercedes-Benz S500 on 175,000 km stands in the same listings as a 2025 Nissan Rogue on 9,000 km, and nothing in the captions treats the distance between them as unusual.",
+    "gallery": [
+      {
+        "image": "media/s500-1.jpg",
+        "caption": "Mercedes-Benz S500"
+      },
+      {
+        "image": "media/e200-1.jpg",
+        "caption": "Mercedes-Benz E200 Avantgarde"
+      },
+      {
+        "image": "media/cla180-1.jpg",
+        "caption": "Mercedes-Benz CLA 180 Urban"
+      },
+      {
+        "image": "media/x5-1.jpg",
+        "caption": "BMW X5"
+      },
+      {
+        "image": "media/x6-1.jpg",
+        "caption": "BMW X6 M Sport"
+      },
+      {
+        "image": "media/bmw320i-1.jpg",
+        "caption": "BMW 320i"
+      },
+      {
+        "image": "media/c200-1.jpg",
+        "caption": "Mercedes-Benz C200"
+      },
+      {
+        "image": "media/rogue-1.jpg",
+        "caption": "Nissan Rogue S"
+      },
+      {
+        "image": "media/kodiaq-1.jpg",
+        "caption": "Skoda Kodiaq Sport Line"
+      }
+    ],
+    "phone": "01100449583 / 01025977046 / 01112115862",
+    "address": "Heliopolis, opposite the Military Academy Gate 7, inside Chillout Auto Service, AM Automotive showroom",
+    "instagram": "https://www.instagram.com/am_automotive.eg/",
+    "facebook": "https://www.facebook.com/AM.AutoMotiveEG/",
+    "maps": "https://maps.app.goo.gl/Y99KN4A1rX4eT5aS9"
+  },
+  {
+    "slug": "auto-garage",
+    "dealerName": "Auto Garage",
+    "tagline": "Home of Luxury SUVs",
+    "logo": null,
+    "palette": {
+      "background": "#E7E3DA",
+      "ink": "#16181A",
+      "accent": "#2FA8AB"
+    },
+    "heroImage": "media/wraith-1.jpg",
+    "aboutText": "Auto Garage posts from a forecourt in New Cairo: a sandy block wall, hard daylight, and cars shot where they stand rather than under showroom lights. The bio carries two lines and nothing else: «Home of Luxury SUVs», and «Just DM us and We'll send you the available models». The reachable window gives 8 cars across 8 marques, from a Rolls-Royce Wraith Black Badge to a Chery Tiggo 8 Pro Max listed in the same voice weeks apart.",
+    "gallery": [
+      {
+        "image": "media/wraith-1.jpg",
+        "caption": "Rolls-Royce Wraith Black Badge"
+      },
+      {
+        "image": "media/vogue-sv-1.jpg",
+        "caption": "Range Rover Vogue SV"
+      },
+      {
+        "image": "media/urus-1.jpg",
+        "caption": "Lamborghini Urus"
+      },
+      {
+        "image": "media/granturismo-1.jpg",
+        "caption": "Maserati GranTurismo"
+      },
+      {
+        "image": "media/bmw520-1.jpg",
+        "caption": "BMW 520, 2023 exterior kit"
+      },
+      {
+        "image": "media/gla180-1.jpg",
+        "caption": "Mercedes-Benz GLA 180"
+      },
+      {
+        "image": "media/mini-jcw-1.jpg",
+        "caption": "MINI Cooper, John Cooper Works kit"
+      },
+      {
+        "image": "media/tiggo8-1.jpg",
+        "caption": "Chery Tiggo 8 Pro Max"
+      }
+    ],
+    "phone": null,
+    "address": "30.021826, 31.424131, New Cairo",
+    "instagram": "https://www.instagram.com/autogarage.eg/",
+    "facebook": "https://www.facebook.com/profile.php?id=100075908842409",
+    "maps": "https://maps.app.goo.gl/hFZ961yS1K9MrroC9"
   }
 ]
