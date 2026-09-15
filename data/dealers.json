@@ -3,7 +3,7 @@
     "slug": "one-of-one",
     "dealerName": "One of One Automotive",
     "tagline": "Cairo's finest selection of luxury & sports cars",
-    "logo": null,
+    "logo": "media/logo.jpg",
     "palette": { "background": "#08080a", "ink": "#edeae4", "accent": "#c08a4e" },
     "heroImage": "media/car-02.webp",
     "aboutText": "We hand-pick every car that enters the showroom: Mercedes, Porsche, Range Rover, BMW and Audi, selected for condition, specification and character, not just for stock. Delivery is immediate and finance flexible, with every step from the first walk-around to the handover built to feel as considered as the cars themselves.",
