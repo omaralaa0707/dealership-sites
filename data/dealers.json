@@ -10,42 +10,40 @@
       "accent": "#c08a4e"
     },
     "heroImage": "media/car-02.webp",
-    "aboutText": "We hand-pick every car that enters the showroom: Mercedes, Porsche, Range Rover, BMW and Audi, selected for condition, specification and character, not just for stock. Delivery is immediate and finance flexible, with every step from the first walk-around to the handover built to feel as considered as the cars themselves.",
     "gallery": [
       {
-        "image": "media/car-11.webp",
-        "caption": "Mercedes-Benz"
+        "image": "media/car-11.webp"
       },
       {
-        "image": "media/car-23.webp",
-        "caption": "Audi"
+        "image": "media/car-23.webp"
       },
       {
-        "image": "media/car-13.webp",
-        "caption": "BMW"
+        "image": "media/car-13.webp"
       },
       {
-        "image": "media/car-17.webp",
-        "caption": "Range Rover"
+        "image": "media/car-17.webp"
       },
       {
-        "image": "media/car-07.webp",
-        "caption": "Porsche"
+        "image": "media/car-07.webp"
       },
       {
-        "image": "media/car-21.webp",
-        "caption": "MINI"
+        "image": "media/car-21.webp"
       },
       {
-        "image": "media/car-26.webp",
-        "caption": "Skoda"
+        "image": "media/car-26.webp"
       }
     ],
     "phone": "010 0055 8557 / 011 5822 0052 / 011 5941 0137",
     "address": "151 El Sayed El Merghany, Almazah, Heliopolis, Cairo",
     "instagram": "https://www.instagram.com/oneofone.automotive/",
     "facebook": "https://www.facebook.com/oneofonecars/",
-    "maps": "https://www.google.com/maps/search/?api=1&query=One+of+One+Automotive+151+El+Sayed+El+Merghany+Heliopolis+Cairo"
+    "maps": "https://www.google.com/maps/search/?api=1&query=One+of+One+Automotive+151+El+Sayed+El+Merghany+Heliopolis+Cairo",
+    "aboutParagraphs": [
+      "One of One Automotive is a Heliopolis showroom built around a small, hand-picked selection of luxury and sports cars, carrying marques such as Mercedes-Benz, Porsche, Range Rover, BMW and Audi alongside a rotating cast of others. Every car earns its spot on the floor through condition, specification and character rather than simply being in stock, so the collection stays tight rather than sprawling.",
+      "The showroom sits at 151 El Sayed El Merghany in Almazah, Heliopolis, and is open daily, giving visitors room to walk the floor and look closely at a car before deciding anything. Reaching the team is straightforward too, with three phone lines and an active Instagram and Facebook presence for anyone who wants a look at the collection before making the trip.",
+      "Once a car is chosen, delivery is immediate rather than something to wait weeks for, and the finance side is handled with flexible instalment options worked out around the buyer. The dealership also welcomes trade-ins, valuing a visitor's current car honestly and setting it against whatever comes next, so the whole process from walk-around to handover stays in one place."
+    ],
+    "heroText": "A tightly curated Heliopolis showroom of hand-picked luxury and sports cars, with immediate delivery and flexible finance on every one of them."
   },
   {
     "slug": "el-basma-motors",
@@ -58,42 +56,40 @@
       "accent": "#C97A32"
     },
     "heroImage": "media/tiguan-2023-1.jpg",
-    "aboutText": "El Basma Motors is a showroom for used SUVs, brought in from marques such as Volkswagen, Toyota, Kia, Skoda and Hyundai. There are two branches: one in New Damietta on the Delta coast, and one in Nasr City, Cairo.",
     "gallery": [
       {
-        "image": "media/tiguan-2023-1.jpg",
-        "caption": "Volkswagen Tiguan"
+        "image": "media/tiguan-2023-1.jpg"
       },
       {
-        "image": "media/tiguan-2024-1.jpg",
-        "caption": "Volkswagen Tiguan"
+        "image": "media/tiguan-2024-1.jpg"
       },
       {
-        "image": "media/fortuner-1.jpg",
-        "caption": "Toyota Fortuner"
+        "image": "media/fortuner-1.jpg"
       },
       {
-        "image": "media/sportage-gt-1.jpg",
-        "caption": "Kia Sportage"
+        "image": "media/sportage-gt-1.jpg"
       },
       {
-        "image": "media/sportage-2021-2.jpg",
-        "caption": "Kia Sportage"
+        "image": "media/sportage-2021-2.jpg"
       },
       {
-        "image": "media/kodiaq-1.jpg",
-        "caption": "Skoda Kodiaq"
+        "image": "media/kodiaq-1.jpg"
       },
       {
-        "image": "media/tucson-1.jpg",
-        "caption": "Hyundai Tucson"
+        "image": "media/tucson-1.jpg"
       }
     ],
     "phone": "01005887575 / 01000153845 / 01004833375",
     "address": "New Damietta: Sohbagiya Street, next to Cedar Cafe; Cairo: Nasr City, Tenth District, Shinzo Abe Axis",
     "instagram": "https://www.instagram.com/elbasmamotors/",
     "facebook": "https://www.facebook.com/ElbasmaMotors",
-    "maps": "https://www.google.com/maps/place/Al+Basma+Motors/data=!4m2!3m1!1s0x0:0x97e277271e17f458"
+    "maps": "https://www.google.com/maps/place/Al+Basma+Motors/data=!4m2!3m1!1s0x0:0x97e277271e17f458",
+    "aboutParagraphs": [
+      "El Basma Motors is a showroom for used SUVs, bringing in established marques including Volkswagen, Toyota, Kia, Skoda and Hyundai. Models on the floor include the Volkswagen Tiguan, Toyota Fortuner, Kia Sportage, Skoda Kodiaq and Hyundai Tucson, giving visitors a straightforward line of mid-size and family SUVs to compare in one place.",
+      "The dealership runs two branches: one in New Damietta on the Delta coast, on Sohbagiya Street next to Cedar Cafe, and another in Nasr City, Cairo, on the Tenth District's Shinzo Abe Axis. Having a foothold in both the Delta and the capital means a buyer in either region has a branch within reach.",
+      "Each SUV that comes through the showroom is photographed from multiple angles, exterior, rear and dashboard, so a visitor gets a clear look at a car's condition and interior before ever stepping onto the floor. The team can be reached through either branch's phone lines or through Instagram and Facebook, where the current lineup is kept up to date."
+    ],
+    "heroText": "Two branches, in New Damietta and Nasr City, carrying a straightforward lineup of used SUVs from Volkswagen, Toyota, Kia, Skoda and Hyundai."
   },
   {
     "slug": "golf-star-motors",
@@ -106,50 +102,46 @@
       "accent": "#d4a537"
     },
     "heroImage": "media/hero-road.jpg",
-    "aboutText": "Golf Star opened in 1975 and has been one of the longest-standing car houses in Nasr City ever since. An authorised distributor, buying, selling and financing across every major make. The idea is simple: get you into your car without running between showrooms. No inquiry, no insurance requirement, no bank fees buried in the paperwork.",
     "gallery": [
       {
-        "image": "media/car-mg-zs.jpg",
-        "caption": "MG ZS"
+        "image": "media/car-mg-zs.jpg"
       },
       {
-        "image": "media/car-peugeot-408.jpg",
-        "caption": "Peugeot 408"
+        "image": "media/car-peugeot-408.jpg"
       },
       {
-        "image": "media/car-nissan-sunny.jpg",
-        "caption": "Nissan Sunny"
+        "image": "media/car-nissan-sunny.jpg"
       },
       {
-        "image": "media/car-mg-hs.jpg",
-        "caption": "MG HS"
+        "image": "media/car-mg-hs.jpg"
       },
       {
-        "image": "media/car-fiat-tipo.jpg",
-        "caption": "Fiat Tipo"
+        "image": "media/car-fiat-tipo.jpg"
       },
       {
-        "image": "media/car-citroen-c4.jpg",
-        "caption": "Citroën C4"
+        "image": "media/car-citroen-c4.jpg"
       },
       {
-        "image": "media/car-kia-xceed.jpg",
-        "caption": "Kia XCeed"
+        "image": "media/car-kia-xceed.jpg"
       },
       {
-        "image": "media/car-mg-5.jpg",
-        "caption": "MG 5"
+        "image": "media/car-mg-5.jpg"
       },
       {
-        "image": "media/car-byd-f3.jpg",
-        "caption": "BYD F3"
+        "image": "media/car-byd-f3.jpg"
       }
     ],
     "phone": "010 1217 7600 / 010 0859 2692 / 010 0509 0102 / 02 2414 5567",
     "address": "7 Shahid Mohamed Abdel Moneim St, off Nabil El Wakkad, Ard El Golf, Nasr City, Cairo",
     "instagram": "https://www.instagram.com/golf.star.motors/",
     "facebook": "https://www.facebook.com/golfstarmotors/",
-    "maps": "https://www.google.com/maps/place/%D8%AC%D9%88%D9%84%D9%81+%D8%B3%D8%AA%D8%A7%D8%B1%E2%80%AD/data=!4m2!3m1!1s0x0:0x678fcac3b2cab5e2"
+    "maps": "https://www.google.com/maps/place/%D8%AC%D9%88%D9%84%D9%81+%D8%B3%D8%AA%D8%A7%D8%B1%E2%80%AD/data=!4m2!3m1!1s0x0:0x678fcac3b2cab5e2",
+    "aboutParagraphs": [
+      "Golf Star Motors is an authorised distributor in Nasr City, working across buying, selling and financing for a wide range of major makes, so a visitor can handle the whole exchange, trade-in included, without shuttling between separate showrooms.",
+      "The showroom is at 7 Shahid Mohamed Abdel Moneim Street, off Nabil El Wakkad in Ard El Golf, Nasr City, and stands as one of the longest-standing car houses in the neighbourhood, buying, selling and financing across every major make under one roof.",
+      "The finance side is kept deliberately simple: instalment plans are sized around a buyer's income, arranged without a bank credit inquiry, hidden insurance requirement or additional fees buried in the paperwork, and government employees, doctors, university professors, business owners and homemakers are offered their own terms."
+    ],
+    "heroText": "One of the longest-standing car houses in Nasr City, offering straightforward instalment plans across a wide range of major makes without a credit inquiry or hidden fees."
   },
   {
     "slug": "al-ahmady-motors",
@@ -162,34 +154,34 @@
       "accent": "#d21f26"
     },
     "heroImage": "media/showroom-wide.jpg",
-    "aboutText": "Al Ahmady Motors is an authorised distributor for the world's major makes in Egypt, working across sales, instalments and after-sales service. The relationship doesn't end when the key changes hands: maintenance, parts and follow-up keep the car the way you took delivery of it.",
     "gallery": [
       {
-        "image": "media/marque-chery.jpg",
-        "caption": "Chery"
+        "image": "media/marque-chery.jpg"
       },
       {
-        "image": "media/marque-mg.jpg",
-        "caption": "MG"
+        "image": "media/marque-mg.jpg"
       },
       {
-        "image": "media/marque-citroen.jpg",
-        "caption": "Citroën"
+        "image": "media/marque-citroen.jpg"
       },
       {
-        "image": "media/marque-opel.jpg",
-        "caption": "Opel"
+        "image": "media/marque-opel.jpg"
       },
       {
-        "image": "media/marque-forthing.jpg",
-        "caption": "Forthing"
+        "image": "media/marque-forthing.jpg"
       }
     ],
     "phone": "16208 / 0121 190 1190",
     "address": "13 Ramu Buildings, Omar Ibn El Khattab, Nasr City, Cairo 11786",
     "instagram": "https://www.instagram.com/alahmady_motors/",
     "facebook": "https://www.facebook.com/Al.Ahmady.Motors/",
-    "maps": "https://www.google.com/maps/search/?api=1&query=Al+Ahmady+Motors+Nasr+City+Cairo"
+    "maps": "https://www.google.com/maps/search/?api=1&query=Al+Ahmady+Motors+Nasr+City+Cairo",
+    "aboutParagraphs": [
+      "Al Ahmady Motors is an authorised distributor for a range of major makes in Egypt, including Chery, MG, Citroën, Opel and Forthing, working across sales, instalments and after-sales service under one roof.",
+      "The dealership operates across Fifth Settlement, Sheraton, Nasr City and Heliopolis, with its head office at 13 Ramu Buildings on Omar Ibn El Khattab Street in Nasr City, so a buyer in several parts of Cairo has a branch within reach.",
+      "The relationship continues after the sale: genuine maintenance and spare parts keep a car the way it was delivered, and the dealership can be reached through its hotline or by WhatsApp for anyone who wants a question answered before visiting."
+    ],
+    "heroText": "Four Cairo branches back one authorised distributor, with maintenance and parts support that carries on well after the sale."
   },
   {
     "slug": "el-emam-motors",
@@ -202,46 +194,43 @@
       "accent": "#b6893c"
     },
     "heroImage": "media/car-33.webp",
-    "aboutText": "El Emam Motors has been trading in Egypt for fifty-one years, an authorised dealer for more than fifteen makes, with branches in Maadi, Manial and Nasr City. The method is plain: the deposit and the instalment are on the table from the start, and you pick the pairing that suits your income. Nothing appears after the signature.",
     "gallery": [
       {
-        "image": "media/car-22.webp",
-        "caption": "MG5 Luxury 2026"
+        "image": "media/car-22.webp"
       },
       {
-        "image": "media/car-32.webp",
-        "caption": "MG ONE"
+        "image": "media/car-32.webp"
       },
       {
-        "image": "media/car-09.webp",
-        "caption": "MG ZS 2027"
+        "image": "media/car-09.webp"
       },
       {
-        "image": "media/car-14.webp",
-        "caption": "Chery Arrizo 5"
+        "image": "media/car-14.webp"
       },
       {
-        "image": "media/car-27.webp",
-        "caption": "Chery Arrizo"
+        "image": "media/car-27.webp"
       },
       {
-        "image": "media/car-11.webp",
-        "caption": "Nissan Magnite"
+        "image": "media/car-11.webp"
       },
       {
-        "image": "media/car-06.webp",
-        "caption": "Opel Grandland Top Line 2026"
+        "image": "media/car-06.webp"
       },
       {
-        "image": "media/car-38.webp",
-        "caption": "Kaiyi X3"
+        "image": "media/car-38.webp"
       }
     ],
     "phone": "0122 555 5853",
     "address": "Maadi · Manial · Nasr City, Cairo",
     "instagram": "https://www.instagram.com/elemammotors/",
     "facebook": "https://www.facebook.com/ElEmamforCars/",
-    "maps": "https://www.google.com/maps/search/?api=1&query=El+Emam+Motors+Nasr+City+Cairo"
+    "maps": "https://www.google.com/maps/search/?api=1&query=El+Emam+Motors+Nasr+City+Cairo",
+    "aboutParagraphs": [
+      "El Emam Motors is an authorised dealer for more than fifteen makes, including MG, Chery, Nissan, Opel and Kaiyi, giving visitors a wide spread of models to choose from without having to check multiple showrooms.",
+      "With branches in Maadi, Manial and Nasr City, the dealership puts a showroom within reach across several parts of Cairo, so seeing a car in person rarely means a long trip.",
+      "The deposit and the instalment are set out from the start, and a buyer chooses the pairing that suits their income before anything is signed, so nothing changes once the paperwork is done."
+    ],
+    "heroText": "An authorised dealer for more than fifteen makes across three Cairo branches, with the deposit and instalment laid out plainly before anything is signed."
   },
   {
     "slug": "wheels-automotive",
@@ -254,34 +243,34 @@
       "accent": "#c8a25a"
     },
     "heroImage": "media/car-11.jpg",
-    "aboutText": "We work out of Heliopolis with a deliberately short list: cars we know, rather than a long row with histories we don't. Every car carries a full spec card: engine, output, rims, audio, and everything fitted inside. What you read here is what stands in the hall.",
     "gallery": [
       {
-        "image": "media/car-03.jpg",
-        "caption": "BYD Leopard 5"
+        "image": "media/car-03.jpg"
       },
       {
-        "image": "media/car-04.jpg",
-        "caption": "Audi Q7 S-line"
+        "image": "media/car-04.jpg"
       },
       {
-        "image": "media/car-11.jpg",
-        "caption": "Mercedes-Benz E200"
+        "image": "media/car-11.jpg"
       },
       {
-        "image": "media/car-15.jpg",
-        "caption": "Range Rover Velar"
+        "image": "media/car-15.jpg"
       },
       {
-        "image": "media/car-09.jpg",
-        "caption": "Mercedes-Benz C180"
+        "image": "media/car-09.jpg"
       }
     ],
     "phone": "01070719678",
     "address": "46 El-Thawra Street, Heliopolis, Cairo",
     "instagram": "https://www.instagram.com/wheels.eg/",
     "facebook": null,
-    "maps": "https://maps.app.goo.gl/H2eot5QANGHGi2Fd8"
+    "maps": "https://maps.app.goo.gl/H2eot5QANGHGi2Fd8",
+    "aboutParagraphs": [
+      "Wheels Automotive keeps a deliberately short list in Heliopolis, cars the team knows well rather than a long row with histories they don't. Marques on the floor have included Audi, Mercedes-Benz, Range Rover and BYD, chosen a handful at a time rather than stocked deep.",
+      "Every car is inspected by the team before it enters the hall, and each one carries a full spec card covering engine, output, rims, audio and everything fitted inside, so what's on the card is what actually stands in front of a visitor.",
+      "Handover happens in the Heliopolis hall itself, at 46 El-Thawra Street, rather than from a separate lock-up across town, so the car a buyer inspects is the one they drive away in."
+    ],
+    "heroText": "A short, hand-inspected list of cars in the Heliopolis hall, each one carrying a full spec card so nothing about it is left to guesswork."
   },
   {
     "slug": "vision-auto",
@@ -294,38 +283,37 @@
       "accent": "#e2b571"
     },
     "heroImage": "media/havalh6-ext-01.jpg",
-    "aboutText": "Vision Auto is a new-car showroom in Maadi, carrying Hyundai, Chery, Changan, Haval, Nissan and Fiat in a single hall. Cars are available for immediate delivery, with flexible instalment plans and registration handled by the showroom.",
     "gallery": [
       {
-        "image": "media/tiggo8-ext-01.jpg",
-        "caption": "Chery Tiggo 8 Pro Max"
+        "image": "media/tiggo8-ext-01.jpg"
       },
       {
-        "image": "media/tucson-ext-01.jpg",
-        "caption": "Hyundai Tucson"
+        "image": "media/tucson-ext-01.jpg"
       },
       {
-        "image": "media/cs55-ext-01.jpg",
-        "caption": "Changan CS55 Plus"
+        "image": "media/cs55-ext-01.jpg"
       },
       {
-        "image": "media/eado-ext-01.jpg",
-        "caption": "Changan Eado Plus"
+        "image": "media/eado-ext-01.jpg"
       },
       {
-        "image": "media/arrizo6-ext-01.jpg",
-        "caption": "Chery Arrizo 6 GT"
+        "image": "media/arrizo6-ext-01.jpg"
       },
       {
-        "image": "media/havalh6-ext-01.jpg",
-        "caption": "Haval H6"
+        "image": "media/havalh6-ext-01.jpg"
       }
     ],
     "phone": "012 2382 8222 / 010 4422 7744",
     "address": "Maadi, Cairo",
     "instagram": "https://www.instagram.com/vision_auto.eg/",
     "facebook": "https://www.facebook.com/profile.php?id=61572401109702",
-    "maps": "https://www.google.com/maps/search/?api=1&query=Vision+Auto+Maadi+Cairo"
+    "maps": "https://www.google.com/maps/search/?api=1&query=Vision+Auto+Maadi+Cairo",
+    "aboutParagraphs": [
+      "Vision Auto is a new-car showroom in Maadi, keeping a single lit hall that carries Hyundai, Chery, Changan, Haval, Nissan and Fiat side by side, so visitors can compare several marques of brand-new cars under one roof rather than crossing the city.",
+      "The hall has a distinct identity: a rough stone wall lit from below, with cars standing against it by day and the forecourt taking over after dark when the sign lights up over the front row.",
+      "Cars are available for immediate delivery rather than on order, with flexible instalment plans and registration handled by the showroom, so a buyer can walk out with the paperwork largely settled."
+    ],
+    "heroText": "A single Maadi showroom carrying six new-car marques side by side, with immediate delivery and registration handled in house."
   },
   {
     "slug": "khaled-aboud",
@@ -338,46 +326,43 @@
       "accent": "#57c8e8"
     },
     "heroImage": "media/m5-ext-03.jpg",
-    "aboutText": "Khaled Aboud Automotive keep their cars inside the Auto Hub & Museum in New Cairo, and present each one with a detailed specification: the exterior colour, interior leather, veneer, engine and wheels. The collection covers luxury and exotic marques, including BMW, Mercedes-Benz, Range Rover, Hummer, Jeep and Exeed.",
     "gallery": [
       {
-        "image": "media/760i-ext-01.jpg",
-        "caption": "BMW 760i xDrive"
+        "image": "media/760i-ext-01.jpg"
       },
       {
-        "image": "media/m5-ext-01.jpg",
-        "caption": "BMW M5"
+        "image": "media/m5-ext-01.jpg"
       },
       {
-        "image": "media/hummer-ext-01.jpg",
-        "caption": "Hummer H EV 3X"
+        "image": "media/hummer-ext-01.jpg"
       },
       {
-        "image": "media/gls-ext-01.jpg",
-        "caption": "Mercedes-Benz GLS 580 AMG"
+        "image": "media/gls-ext-01.jpg"
       },
       {
-        "image": "media/velar-ext-01.jpg",
-        "caption": "Range Rover Velar P250 Dynamic HSE"
+        "image": "media/velar-ext-01.jpg"
       },
       {
-        "image": "media/jeep-ext-01.jpg",
-        "caption": "Jeep Grand Cherokee Limited 4×4"
+        "image": "media/jeep-ext-01.jpg"
       },
       {
-        "image": "media/exeed-ext-01.jpg",
-        "caption": "Exeed VX Flagship"
+        "image": "media/exeed-ext-01.jpg"
       },
       {
-        "image": "media/x1-ext-01.jpg",
-        "caption": "BMW X1 M Sport"
+        "image": "media/x1-ext-01.jpg"
       }
     ],
     "phone": "011 0206 9606 / 010 1001 0644 / 011 4136 0680",
     "address": "Maxim Mall, Auto Hub & Museum (A204), New Cairo",
     "instagram": "https://www.instagram.com/khaledaboudauto/",
     "facebook": "https://www.facebook.com/khaledabouuto/",
-    "maps": "https://www.google.com/maps/search/?api=1&query=Auto+Hub+%26+Museum+Maxim+Mall+New+Cairo"
+    "maps": "https://www.google.com/maps/search/?api=1&query=Auto+Hub+%26+Museum+Maxim+Mall+New+Cairo",
+    "aboutParagraphs": [
+      "Khaled Aboud Automotive is a showroom for luxury and exotic cars, with marques on the floor including BMW, Mercedes-Benz, Range Rover, Hummer, Jeep and Exeed.",
+      "The collection is kept inside the Auto Hub & Museum in New Cairo, a glass and concrete hall with even light down both sides, dark columns and a floor that throws just enough reflection to set a car against, at unit A204 in Maxim Mall.",
+      "Each car is catalogued in detail rather than simply listed, with the factory name of its exterior colour recorded alongside the interior leather, veneer, engine and wheels, so a visitor knows exactly what they are looking at before they arrive."
+    ],
+    "heroText": "A New Cairo collection of luxury and exotic marques, each car catalogued down to its factory paint name, interior leather and specification."
   },
   {
     "slug": "phantom-auto",
@@ -390,54 +375,49 @@
       "accent": "#d2b569"
     },
     "heroImage": "media/hero-wide.jpg",
-    "aboutText": "Phantom Auto is a new-energy vehicle dealership on the Suez road, east of Cairo, authorized to sell Rox, Zeekr, IM Motors, DFSK, Geely, Baic, Fiat and Arcfox. Additional marques, including BYD, Changan and DEEPAL, are also available on the floor.",
     "gallery": [
       {
-        "image": "media/changan-q05-ext-01.jpg",
-        "caption": "Changan Q05"
+        "image": "media/changan-q05-ext-01.jpg"
       },
       {
-        "image": "media/deepal-g318-ext-01.jpg",
-        "caption": "DEEPAL G318"
+        "image": "media/deepal-g318-ext-01.jpg"
       },
       {
-        "image": "media/dfsk-e5-plus-ext-01.jpg",
-        "caption": "DFSK E5 Plus"
+        "image": "media/dfsk-e5-plus-ext-01.jpg"
       },
       {
-        "image": "media/im5-ext-01.jpg",
-        "caption": "IM Motors IM5"
+        "image": "media/im5-ext-01.jpg"
       },
       {
-        "image": "media/rox-adamas-ext-01.jpg",
-        "caption": "ROX Adamas"
+        "image": "media/rox-adamas-ext-01.jpg"
       },
       {
-        "image": "media/byd-han-l-ext-01.jpg",
-        "caption": "BYD Han L DM-i"
+        "image": "media/byd-han-l-ext-01.jpg"
       },
       {
-        "image": "media/dfsk-e5-ext-01.jpg",
-        "caption": "DFSK E5"
+        "image": "media/dfsk-e5-ext-01.jpg"
       },
       {
-        "image": "media/byd-tang-ext-01.jpg",
-        "caption": "BYD Tang DM-i"
+        "image": "media/byd-tang-ext-01.jpg"
       },
       {
-        "image": "media/byd-sealion-06-ext-01.jpg",
-        "caption": "BYD Sealion 06 DM-i"
+        "image": "media/byd-sealion-06-ext-01.jpg"
       },
       {
-        "image": "media/im6-ext-01.jpg",
-        "caption": "IM Motors IM6"
+        "image": "media/im6-ext-01.jpg"
       }
     ],
     "phone": "01080888329",
     "address": "A1, Chillout Gardenia, Suez Road",
     "instagram": "https://www.instagram.com/phantomauto.egypt/",
     "facebook": null,
-    "maps": "https://www.google.com/maps/search/?api=1&query=Phantom+Auto+Chillout+Gardenia+Suez+Road+Cairo"
+    "maps": "https://www.google.com/maps/search/?api=1&query=Phantom+Auto+Chillout+Gardenia+Suez+Road+Cairo",
+    "aboutParagraphs": [
+      "Phantom Auto is a new-energy vehicle dealership on the Suez road, east of Cairo, authorized to sell Rox, Zeekr, IM Motors, DFSK, Geely, Baic, Fiat and Arcfox. Beyond the authorized franchises, marques including BYD, Changan and DEEPAL are also available on the floor.",
+      "The showroom sits at A1, Chillout Gardenia, on the Suez road, giving it a straightforward footprint for anyone travelling out from New Cairo or further along the route.",
+      "Cars across the lineup are consistently photographed on the same stretch of road, against the same green verge and palms, giving the whole floor a unified look whether the car on show is a compact sedan or a full-size SUV."
+    ],
+    "heroText": "An authorized new-energy dealer on the Suez road carrying eight franchised marques alongside additional brands like BYD, Changan and DEEPAL."
   },
   {
     "slug": "st4matic",
