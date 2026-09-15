@@ -4,17 +4,42 @@
     "dealerName": "One of One Automotive",
     "tagline": "Cairo's finest selection of luxury & sports cars",
     "logo": "media/logo.jpg",
-    "palette": { "background": "#08080a", "ink": "#edeae4", "accent": "#c08a4e" },
+    "palette": {
+      "background": "#08080a",
+      "ink": "#edeae4",
+      "accent": "#c08a4e"
+    },
     "heroImage": "media/car-02.webp",
     "aboutText": "We hand-pick every car that enters the showroom: Mercedes, Porsche, Range Rover, BMW and Audi, selected for condition, specification and character, not just for stock. Delivery is immediate and finance flexible, with every step from the first walk-around to the handover built to feel as considered as the cars themselves.",
     "gallery": [
-      { "image": "media/car-11.webp", "caption": "Mercedes-Benz" },
-      { "image": "media/car-23.webp", "caption": "Audi" },
-      { "image": "media/car-13.webp", "caption": "BMW" },
-      { "image": "media/car-17.webp", "caption": "Range Rover" },
-      { "image": "media/car-07.webp", "caption": "Porsche" },
-      { "image": "media/car-21.webp", "caption": "MINI" },
-      { "image": "media/car-26.webp", "caption": "Skoda" }
+      {
+        "image": "media/car-11.webp",
+        "caption": "Mercedes-Benz"
+      },
+      {
+        "image": "media/car-23.webp",
+        "caption": "Audi"
+      },
+      {
+        "image": "media/car-13.webp",
+        "caption": "BMW"
+      },
+      {
+        "image": "media/car-17.webp",
+        "caption": "Range Rover"
+      },
+      {
+        "image": "media/car-07.webp",
+        "caption": "Porsche"
+      },
+      {
+        "image": "media/car-21.webp",
+        "caption": "MINI"
+      },
+      {
+        "image": "media/car-26.webp",
+        "caption": "Skoda"
+      }
     ],
     "phone": "010 0055 8557 / 011 5822 0052 / 011 5941 0137",
     "address": "151 El Sayed El Merghany, Almazah, Heliopolis, Cairo",
@@ -27,17 +52,42 @@
     "dealerName": "El Basma Motors",
     "tagline": "New Damietta and Cairo",
     "logo": null,
-    "palette": { "background": "#93A5B4", "ink": "#14181C", "accent": "#C97A32" },
+    "palette": {
+      "background": "#93A5B4",
+      "ink": "#14181C",
+      "accent": "#C97A32"
+    },
     "heroImage": "media/tiguan-2023-1.jpg",
     "aboutText": "El Basma Motors is a showroom for used SUVs, brought in from marques such as Volkswagen, Toyota, Kia, Skoda and Hyundai. There are two branches: one in New Damietta on the Delta coast, and one in Nasr City, Cairo.",
     "gallery": [
-      { "image": "media/tiguan-2023-1.jpg", "caption": "Volkswagen Tiguan" },
-      { "image": "media/tiguan-2024-1.jpg", "caption": "Volkswagen Tiguan" },
-      { "image": "media/fortuner-1.jpg", "caption": "Toyota Fortuner" },
-      { "image": "media/sportage-gt-1.jpg", "caption": "Kia Sportage" },
-      { "image": "media/sportage-2021-2.jpg", "caption": "Kia Sportage" },
-      { "image": "media/kodiaq-1.jpg", "caption": "Skoda Kodiaq" },
-      { "image": "media/tucson-1.jpg", "caption": "Hyundai Tucson" }
+      {
+        "image": "media/tiguan-2023-1.jpg",
+        "caption": "Volkswagen Tiguan"
+      },
+      {
+        "image": "media/tiguan-2024-1.jpg",
+        "caption": "Volkswagen Tiguan"
+      },
+      {
+        "image": "media/fortuner-1.jpg",
+        "caption": "Toyota Fortuner"
+      },
+      {
+        "image": "media/sportage-gt-1.jpg",
+        "caption": "Kia Sportage"
+      },
+      {
+        "image": "media/sportage-2021-2.jpg",
+        "caption": "Kia Sportage"
+      },
+      {
+        "image": "media/kodiaq-1.jpg",
+        "caption": "Skoda Kodiaq"
+      },
+      {
+        "image": "media/tucson-1.jpg",
+        "caption": "Hyundai Tucson"
+      }
     ],
     "phone": "01005887575 / 01000153845 / 01004833375",
     "address": "New Damietta: Sohbagiya Street, next to Cedar Cafe; Cairo: Nasr City, Tenth District, Shinzo Abe Axis",
@@ -50,19 +100,50 @@
     "dealerName": "Golf Star Motors",
     "tagline": "Authorised distributor, since 1975",
     "logo": "media/logo.jpg",
-    "palette": { "background": "#0a0906", "ink": "#f4efe3", "accent": "#d4a537" },
+    "palette": {
+      "background": "#0a0906",
+      "ink": "#f4efe3",
+      "accent": "#d4a537"
+    },
     "heroImage": "media/hero-road.jpg",
     "aboutText": "Golf Star opened in 1975 and has been one of the longest-standing car houses in Nasr City ever since. An authorised distributor, buying, selling and financing across every major make. The idea is simple: get you into your car without running between showrooms. No inquiry, no insurance requirement, no bank fees buried in the paperwork.",
     "gallery": [
-      { "image": "media/car-mg-zs.jpg", "caption": "MG ZS" },
-      { "image": "media/car-peugeot-408.jpg", "caption": "Peugeot 408" },
-      { "image": "media/car-nissan-sunny.jpg", "caption": "Nissan Sunny" },
-      { "image": "media/car-mg-hs.jpg", "caption": "MG HS" },
-      { "image": "media/car-fiat-tipo.jpg", "caption": "Fiat Tipo" },
-      { "image": "media/car-citroen-c4.jpg", "caption": "Citroën C4" },
-      { "image": "media/car-kia-xceed.jpg", "caption": "Kia XCeed" },
-      { "image": "media/car-mg-5.jpg", "caption": "MG 5" },
-      { "image": "media/car-byd-f3.jpg", "caption": "BYD F3" }
+      {
+        "image": "media/car-mg-zs.jpg",
+        "caption": "MG ZS"
+      },
+      {
+        "image": "media/car-peugeot-408.jpg",
+        "caption": "Peugeot 408"
+      },
+      {
+        "image": "media/car-nissan-sunny.jpg",
+        "caption": "Nissan Sunny"
+      },
+      {
+        "image": "media/car-mg-hs.jpg",
+        "caption": "MG HS"
+      },
+      {
+        "image": "media/car-fiat-tipo.jpg",
+        "caption": "Fiat Tipo"
+      },
+      {
+        "image": "media/car-citroen-c4.jpg",
+        "caption": "Citroën C4"
+      },
+      {
+        "image": "media/car-kia-xceed.jpg",
+        "caption": "Kia XCeed"
+      },
+      {
+        "image": "media/car-mg-5.jpg",
+        "caption": "MG 5"
+      },
+      {
+        "image": "media/car-byd-f3.jpg",
+        "caption": "BYD F3"
+      }
     ],
     "phone": "010 1217 7600 / 010 0859 2692 / 010 0509 0102 / 02 2414 5567",
     "address": "7 Shahid Mohamed Abdel Moneim St, off Nabil El Wakkad, Ard El Golf, Nasr City, Cairo",
@@ -75,15 +156,34 @@
     "dealerName": "Al Ahmady Motors",
     "tagline": "Authorised distributor for the world's major makes",
     "logo": "media/logo.jpg",
-    "palette": { "background": "#f7f6f4", "ink": "#14110f", "accent": "#d21f26" },
+    "palette": {
+      "background": "#f7f6f4",
+      "ink": "#14110f",
+      "accent": "#d21f26"
+    },
     "heroImage": "media/showroom-wide.jpg",
     "aboutText": "Al Ahmady Motors is an authorised distributor for the world's major makes in Egypt, working across sales, instalments and after-sales service. The relationship doesn't end when the key changes hands: maintenance, parts and follow-up keep the car the way you took delivery of it.",
     "gallery": [
-      { "image": "media/marque-chery.jpg", "caption": "Chery" },
-      { "image": "media/marque-mg.jpg", "caption": "MG" },
-      { "image": "media/marque-citroen.jpg", "caption": "Citroën" },
-      { "image": "media/marque-opel.jpg", "caption": "Opel" },
-      { "image": "media/marque-forthing.jpg", "caption": "Forthing" }
+      {
+        "image": "media/marque-chery.jpg",
+        "caption": "Chery"
+      },
+      {
+        "image": "media/marque-mg.jpg",
+        "caption": "MG"
+      },
+      {
+        "image": "media/marque-citroen.jpg",
+        "caption": "Citroën"
+      },
+      {
+        "image": "media/marque-opel.jpg",
+        "caption": "Opel"
+      },
+      {
+        "image": "media/marque-forthing.jpg",
+        "caption": "Forthing"
+      }
     ],
     "phone": "16208 / 0121 190 1190",
     "address": "13 Ramu Buildings, Omar Ibn El Khattab, Nasr City, Cairo 11786",
@@ -96,18 +196,46 @@
     "dealerName": "El Emam Motors",
     "tagline": "51 years behind you",
     "logo": null,
-    "palette": { "background": "#f6f2e9", "ink": "#10192c", "accent": "#b6893c" },
+    "palette": {
+      "background": "#f6f2e9",
+      "ink": "#10192c",
+      "accent": "#b6893c"
+    },
     "heroImage": "media/car-33.webp",
     "aboutText": "El Emam Motors has been trading in Egypt for fifty-one years, an authorised dealer for more than fifteen makes, with branches in Maadi, Manial and Nasr City. The method is plain: the deposit and the instalment are on the table from the start, and you pick the pairing that suits your income. Nothing appears after the signature.",
     "gallery": [
-      { "image": "media/car-22.webp", "caption": "MG5 Luxury 2026" },
-      { "image": "media/car-32.webp", "caption": "MG ONE" },
-      { "image": "media/car-09.webp", "caption": "MG ZS 2027" },
-      { "image": "media/car-14.webp", "caption": "Chery Arrizo 5" },
-      { "image": "media/car-27.webp", "caption": "Chery Arrizo" },
-      { "image": "media/car-11.webp", "caption": "Nissan Magnite" },
-      { "image": "media/car-06.webp", "caption": "Opel Grandland Top Line 2026" },
-      { "image": "media/car-38.webp", "caption": "Kaiyi X3" }
+      {
+        "image": "media/car-22.webp",
+        "caption": "MG5 Luxury 2026"
+      },
+      {
+        "image": "media/car-32.webp",
+        "caption": "MG ONE"
+      },
+      {
+        "image": "media/car-09.webp",
+        "caption": "MG ZS 2027"
+      },
+      {
+        "image": "media/car-14.webp",
+        "caption": "Chery Arrizo 5"
+      },
+      {
+        "image": "media/car-27.webp",
+        "caption": "Chery Arrizo"
+      },
+      {
+        "image": "media/car-11.webp",
+        "caption": "Nissan Magnite"
+      },
+      {
+        "image": "media/car-06.webp",
+        "caption": "Opel Grandland Top Line 2026"
+      },
+      {
+        "image": "media/car-38.webp",
+        "caption": "Kaiyi X3"
+      }
     ],
     "phone": "0122 555 5853",
     "address": "Maadi · Manial · Nasr City, Cairo",
@@ -120,15 +248,34 @@
     "dealerName": "Wheels Automotive",
     "tagline": "Two move the body, four move the soul",
     "logo": null,
-    "palette": { "background": "#0d0f12", "ink": "#f2f5f7", "accent": "#c8a25a" },
+    "palette": {
+      "background": "#0d0f12",
+      "ink": "#f2f5f7",
+      "accent": "#c8a25a"
+    },
     "heroImage": "media/car-11.jpg",
     "aboutText": "We work out of Heliopolis with a deliberately short list: cars we know, rather than a long row with histories we don't. Every car carries a full spec card: engine, output, rims, audio, and everything fitted inside. What you read here is what stands in the hall.",
     "gallery": [
-      { "image": "media/car-03.jpg", "caption": "BYD Leopard 5" },
-      { "image": "media/car-04.jpg", "caption": "Audi Q7 S-line" },
-      { "image": "media/car-11.jpg", "caption": "Mercedes-Benz E200" },
-      { "image": "media/car-15.jpg", "caption": "Range Rover Velar" },
-      { "image": "media/car-09.jpg", "caption": "Mercedes-Benz C180" }
+      {
+        "image": "media/car-03.jpg",
+        "caption": "BYD Leopard 5"
+      },
+      {
+        "image": "media/car-04.jpg",
+        "caption": "Audi Q7 S-line"
+      },
+      {
+        "image": "media/car-11.jpg",
+        "caption": "Mercedes-Benz E200"
+      },
+      {
+        "image": "media/car-15.jpg",
+        "caption": "Range Rover Velar"
+      },
+      {
+        "image": "media/car-09.jpg",
+        "caption": "Mercedes-Benz C180"
+      }
     ],
     "phone": "01070719678",
     "address": "46 El-Thawra Street, Heliopolis, Cairo",
@@ -141,16 +288,38 @@
     "dealerName": "Vision Auto",
     "tagline": "Your vision, our drive",
     "logo": null,
-    "palette": { "background": "#efe8dc", "ink": "#17150f", "accent": "#e2b571" },
+    "palette": {
+      "background": "#efe8dc",
+      "ink": "#17150f",
+      "accent": "#e2b571"
+    },
     "heroImage": "media/havalh6-ext-01.jpg",
     "aboutText": "Vision Auto keeps a single lit hall in Maadi and fills it with cars that have not been driven. Hyundai, Chery, Changan, Haval, Nissan and Fiat stand along the same stone wall, so you compare them in one light instead of across six showrooms. The part most people come for is the plan. Every car on this page carries the deposit and the monthly instalment exactly as Vision Auto published it, most in two versions, so you can pay more now and less each month, or the other way round.",
     "gallery": [
-      { "image": "media/tiggo8-ext-01.jpg", "caption": "Chery Tiggo 8 Pro Max" },
-      { "image": "media/tucson-ext-01.jpg", "caption": "Hyundai Tucson" },
-      { "image": "media/cs55-ext-01.jpg", "caption": "Changan CS55 Plus" },
-      { "image": "media/eado-ext-01.jpg", "caption": "Changan Eado Plus" },
-      { "image": "media/arrizo6-ext-01.jpg", "caption": "Chery Arrizo 6 GT" },
-      { "image": "media/havalh6-ext-01.jpg", "caption": "Haval H6" }
+      {
+        "image": "media/tiggo8-ext-01.jpg",
+        "caption": "Chery Tiggo 8 Pro Max"
+      },
+      {
+        "image": "media/tucson-ext-01.jpg",
+        "caption": "Hyundai Tucson"
+      },
+      {
+        "image": "media/cs55-ext-01.jpg",
+        "caption": "Changan CS55 Plus"
+      },
+      {
+        "image": "media/eado-ext-01.jpg",
+        "caption": "Changan Eado Plus"
+      },
+      {
+        "image": "media/arrizo6-ext-01.jpg",
+        "caption": "Chery Arrizo 6 GT"
+      },
+      {
+        "image": "media/havalh6-ext-01.jpg",
+        "caption": "Haval H6"
+      }
     ],
     "phone": "012 2382 8222 / 010 4422 7744",
     "address": "Maadi, Cairo",
@@ -163,18 +332,46 @@
     "dealerName": "Khaled Aboud Automotive",
     "tagline": "Luxury & Exotics",
     "logo": null,
-    "palette": { "background": "#0b0b0d", "ink": "#f4f5f7", "accent": "#57c8e8" },
+    "palette": {
+      "background": "#0b0b0d",
+      "ink": "#f4f5f7",
+      "accent": "#57c8e8"
+    },
     "heroImage": "media/m5-ext-03.jpg",
     "aboutText": "Khaled Aboud Automotive keep their cars inside the Auto Hub & Museum in New Cairo, and they photograph them the way a museum photographs an exhibit: the badge, the sill plate, the switchgear, the weave of the trim. They publish the same plate for every car: the factory name of the exterior colour, the interior leather, the veneer, the engine, the acceleration, the wheels. This page reproduces those plates exactly as posted.",
     "gallery": [
-      { "image": "media/760i-ext-01.jpg", "caption": "BMW 760i xDrive" },
-      { "image": "media/m5-ext-01.jpg", "caption": "BMW M5" },
-      { "image": "media/hummer-ext-01.jpg", "caption": "Hummer H EV 3X" },
-      { "image": "media/gls-ext-01.jpg", "caption": "Mercedes-Benz GLS 580 AMG" },
-      { "image": "media/velar-ext-01.jpg", "caption": "Range Rover Velar P250 Dynamic HSE" },
-      { "image": "media/jeep-ext-01.jpg", "caption": "Jeep Grand Cherokee Limited 4×4" },
-      { "image": "media/exeed-ext-01.jpg", "caption": "Exeed VX Flagship" },
-      { "image": "media/x1-ext-01.jpg", "caption": "BMW X1 M Sport" }
+      {
+        "image": "media/760i-ext-01.jpg",
+        "caption": "BMW 760i xDrive"
+      },
+      {
+        "image": "media/m5-ext-01.jpg",
+        "caption": "BMW M5"
+      },
+      {
+        "image": "media/hummer-ext-01.jpg",
+        "caption": "Hummer H EV 3X"
+      },
+      {
+        "image": "media/gls-ext-01.jpg",
+        "caption": "Mercedes-Benz GLS 580 AMG"
+      },
+      {
+        "image": "media/velar-ext-01.jpg",
+        "caption": "Range Rover Velar P250 Dynamic HSE"
+      },
+      {
+        "image": "media/jeep-ext-01.jpg",
+        "caption": "Jeep Grand Cherokee Limited 4×4"
+      },
+      {
+        "image": "media/exeed-ext-01.jpg",
+        "caption": "Exeed VX Flagship"
+      },
+      {
+        "image": "media/x1-ext-01.jpg",
+        "caption": "BMW X1 M Sport"
+      }
     ],
     "phone": "011 0206 9606 / 010 1001 0644 / 011 4136 0680",
     "address": "Maxim Mall, Auto Hub & Museum (A204), New Cairo",
@@ -187,20 +384,54 @@
     "dealerName": "Phantom Auto",
     "tagline": "Drive your dream",
     "logo": null,
-    "palette": { "background": "#e8ecee", "ink": "#0e1215", "accent": "#d2b569" },
+    "palette": {
+      "background": "#e8ecee",
+      "ink": "#0e1215",
+      "accent": "#d2b569"
+    },
     "heroImage": "media/hero-wide.jpg",
     "aboutText": "Phantom Auto is a verified new-energy dealership on the Suez road, east of Cairo. Their bio names eight marques they are authorized to sell, and their feed is one long, unbroken run of the same shoot: a car on the same asphalt, the same green verge, the same palms, the same half-hour of light. That consistency is the whole identity. Nothing here is a stock render: every frame on this page is theirs.",
     "gallery": [
-      { "image": "media/changan-q05-ext-01.jpg", "caption": "Changan Q05" },
-      { "image": "media/deepal-g318-ext-01.jpg", "caption": "DEEPAL G318" },
-      { "image": "media/dfsk-e5-plus-ext-01.jpg", "caption": "DFSK E5 Plus" },
-      { "image": "media/im5-ext-01.jpg", "caption": "IM Motors IM5" },
-      { "image": "media/rox-adamas-ext-01.jpg", "caption": "ROX Adamas" },
-      { "image": "media/byd-han-l-ext-01.jpg", "caption": "BYD Han L DM-i" },
-      { "image": "media/dfsk-e5-ext-01.jpg", "caption": "DFSK E5" },
-      { "image": "media/byd-tang-ext-01.jpg", "caption": "BYD Tang DM-i" },
-      { "image": "media/byd-sealion-06-ext-01.jpg", "caption": "BYD Sealion 06 DM-i" },
-      { "image": "media/im6-ext-01.jpg", "caption": "IM Motors IM6" }
+      {
+        "image": "media/changan-q05-ext-01.jpg",
+        "caption": "Changan Q05"
+      },
+      {
+        "image": "media/deepal-g318-ext-01.jpg",
+        "caption": "DEEPAL G318"
+      },
+      {
+        "image": "media/dfsk-e5-plus-ext-01.jpg",
+        "caption": "DFSK E5 Plus"
+      },
+      {
+        "image": "media/im5-ext-01.jpg",
+        "caption": "IM Motors IM5"
+      },
+      {
+        "image": "media/rox-adamas-ext-01.jpg",
+        "caption": "ROX Adamas"
+      },
+      {
+        "image": "media/byd-han-l-ext-01.jpg",
+        "caption": "BYD Han L DM-i"
+      },
+      {
+        "image": "media/dfsk-e5-ext-01.jpg",
+        "caption": "DFSK E5"
+      },
+      {
+        "image": "media/byd-tang-ext-01.jpg",
+        "caption": "BYD Tang DM-i"
+      },
+      {
+        "image": "media/byd-sealion-06-ext-01.jpg",
+        "caption": "BYD Sealion 06 DM-i"
+      },
+      {
+        "image": "media/im6-ext-01.jpg",
+        "caption": "IM Motors IM6"
+      }
     ],
     "phone": "01080888329",
     "address": "A1, Chillout Gardenia, Suez Road",
@@ -213,15 +444,34 @@
     "dealerName": "ST4Matic",
     "tagline": "Drive the Elite",
     "logo": null,
-    "palette": { "background": "#0a0b0d", "ink": "#f2f0ec", "accent": "#a06bff" },
+    "palette": {
+      "background": "#0a0b0d",
+      "ink": "#f2f0ec",
+      "accent": "#a06bff"
+    },
     "heroImage": "media/hero-wide.jpg",
     "aboutText": "ST4Matic is a reconditioned-car showroom on Fareed Semeika Street in El Nozha, Cairo, dealing in petrol and electric cars, zero-mileage and used.",
     "gallery": [
-      { "image": "media/ambient-01.jpg", "caption": "520i · door trim, violet mode" },
-      { "image": "media/ambient-02.jpg", "caption": "520i · cluster, Comfort" },
-      { "image": "media/ambient-03.jpg", "caption": "520i · cluster, Sport" },
-      { "image": "media/ambient-04.jpg", "caption": "X4 · dash vents, violet mode" },
-      { "image": "media/ambient-05.jpg", "caption": "C180 · cluster, red" }
+      {
+        "image": "media/ambient-01.jpg",
+        "caption": "520i · door trim, violet mode"
+      },
+      {
+        "image": "media/ambient-02.jpg",
+        "caption": "520i · cluster, Comfort"
+      },
+      {
+        "image": "media/ambient-03.jpg",
+        "caption": "520i · cluster, Sport"
+      },
+      {
+        "image": "media/ambient-04.jpg",
+        "caption": "X4 · dash vents, violet mode"
+      },
+      {
+        "image": "media/ambient-05.jpg",
+        "caption": "C180 · cluster, red"
+      }
     ],
     "phone": "01097949330 / 01008890184 / 01147369408",
     "address": "86 Fareed Semeika St, Al Matar, El Nozha, Cairo",
@@ -234,15 +484,34 @@
     "dealerName": "A Class Automotive",
     "tagline": "A luxurious car for your elegant personality",
     "logo": null,
-    "palette": { "background": "#e3e0db", "ink": "#121110", "accent": "#8f0002" },
+    "palette": {
+      "background": "#e3e0db",
+      "ink": "#121110",
+      "accent": "#8f0002"
+    },
     "heroImage": "media/hero-wide.jpg",
     "aboutText": "A Class Automotive is an exotics gallery at City Park in Sheikh Zayed. Every car they publish is photographed in the same room, against the same pale stone wall, under their own sign, so the room is the constant and the car is the only thing that changes.",
     "gallery": [
-      { "image": "media/lamborghini-temerario-ext-01.jpg", "caption": "Lamborghini Temerario" },
-      { "image": "media/mercedes-g63-ext-01.jpg", "caption": "Mercedes-Benz G63 AMG" },
-      { "image": "media/porsche-cayenne-gts-ext-01.jpg", "caption": "Porsche Cayenne GTS Coupe" },
-      { "image": "media/mercedes-gls580-ext-01.jpg", "caption": "Mercedes-Benz GLS580" },
-      { "image": "media/toyota-land-cruiser-ext-01.jpg", "caption": "Toyota Land Cruiser VX" }
+      {
+        "image": "media/lamborghini-temerario-ext-01.jpg",
+        "caption": "Lamborghini Temerario"
+      },
+      {
+        "image": "media/mercedes-g63-ext-01.jpg",
+        "caption": "Mercedes-Benz G63 AMG"
+      },
+      {
+        "image": "media/porsche-cayenne-gts-ext-01.jpg",
+        "caption": "Porsche Cayenne GTS Coupe"
+      },
+      {
+        "image": "media/mercedes-gls580-ext-01.jpg",
+        "caption": "Mercedes-Benz GLS580"
+      },
+      {
+        "image": "media/toyota-land-cruiser-ext-01.jpg",
+        "caption": "Toyota Land Cruiser VX"
+      }
     ],
     "phone": "01112512251 / 01030115118 / 01005856644",
     "address": "City Park, Sheikh Zayed City, Giza",
@@ -255,19 +524,50 @@
     "dealerName": "Middle East Motors",
     "tagline": "Used cars, every model, on the lowest deposit",
     "logo": null,
-    "palette": { "background": "#1b1712", "ink": "#e8dcc8", "accent": "#faa65e" },
+    "palette": {
+      "background": "#1b1712",
+      "ink": "#e8dcc8",
+      "accent": "#faa65e"
+    },
     "heroImage": "media/hero-wide.jpg",
     "aboutText": "Middle East Motors work in selling and financing used cars, in every model, on the lowest deposit, through bank finance. That is their own description of the business, and it is the whole business.",
     "gallery": [
-      { "image": "media/mercedes-e200-ext-01.jpg", "caption": "Mercedes-Benz E200, exterior" },
-      { "image": "media/mercedes-e200-rear-01.jpg", "caption": "Mercedes-Benz E200, rear" },
-      { "image": "media/mercedes-e200-int-01.jpg", "caption": "Mercedes-Benz E200, cabin" },
-      { "image": "media/mercedes-e200-det-01.jpg", "caption": "Mercedes-Benz E200, detail" },
-      { "image": "media/renault-sandero-ext-01.jpg", "caption": "Renault Sandero Stepway, exterior" },
-      { "image": "media/renault-sandero-int-01.jpg", "caption": "Renault Sandero Stepway, cabin" },
-      { "image": "media/renault-sandero-det-01.jpg", "caption": "Renault Sandero Stepway, detail" },
-      { "image": "media/fiat-500x-ext-01.jpg", "caption": "Fiat 500X, exterior" },
-      { "image": "media/fiat-500x-int-01.jpg", "caption": "Fiat 500X, cabin" }
+      {
+        "image": "media/mercedes-e200-ext-01.jpg",
+        "caption": "Mercedes-Benz E200, exterior"
+      },
+      {
+        "image": "media/mercedes-e200-rear-01.jpg",
+        "caption": "Mercedes-Benz E200, rear"
+      },
+      {
+        "image": "media/mercedes-e200-int-01.jpg",
+        "caption": "Mercedes-Benz E200, cabin"
+      },
+      {
+        "image": "media/mercedes-e200-det-01.jpg",
+        "caption": "Mercedes-Benz E200, detail"
+      },
+      {
+        "image": "media/renault-sandero-ext-01.jpg",
+        "caption": "Renault Sandero Stepway, exterior"
+      },
+      {
+        "image": "media/renault-sandero-int-01.jpg",
+        "caption": "Renault Sandero Stepway, cabin"
+      },
+      {
+        "image": "media/renault-sandero-det-01.jpg",
+        "caption": "Renault Sandero Stepway, detail"
+      },
+      {
+        "image": "media/fiat-500x-ext-01.jpg",
+        "caption": "Fiat 500X, exterior"
+      },
+      {
+        "image": "media/fiat-500x-int-01.jpg",
+        "caption": "Fiat 500X, cabin"
+      }
     ],
     "phone": "01116686454 / 01145003500",
     "address": "4 Ahmed Mohamed Ali St, off Abdel Hamid Badawi, behind KFC Nadi El Shams, Heliopolis",
@@ -280,14 +580,30 @@
     "dealerName": "Bedawy Automotive",
     "tagline": "Experience more than 20 years in car dealership",
     "logo": null,
-    "palette": { "background": "#0b0b0c", "ink": "#e0cfb7", "accent": "#638eea" },
+    "palette": {
+      "background": "#0b0b0c",
+      "ink": "#e0cfb7",
+      "accent": "#638eea"
+    },
     "heroImage": "media/hero.jpg",
     "aboutText": "Every car they publish is photographed in the same bay: a black room with a stone feature wall and their gold crest above the car. The framing barely changes from one post to the next, which is what makes the roster, rather than the room, the thing worth looking at.",
     "gallery": [
-      { "image": "media/bmw-x6-01.jpg", "caption": "BMW X6 M50i" },
-      { "image": "media/mercedes-gla-2025-01.jpg", "caption": "Mercedes-Benz GLA 200, 2025" },
-      { "image": "media/mercedes-gla-2024-01.jpg", "caption": "Mercedes-Benz GLA 200, 2024" },
-      { "image": "media/avatr-01.jpg", "caption": "AVATR" }
+      {
+        "image": "media/bmw-x6-01.jpg",
+        "caption": "BMW X6 M50i"
+      },
+      {
+        "image": "media/mercedes-gla-2025-01.jpg",
+        "caption": "Mercedes-Benz GLA 200, 2025"
+      },
+      {
+        "image": "media/mercedes-gla-2024-01.jpg",
+        "caption": "Mercedes-Benz GLA 200, 2024"
+      },
+      {
+        "image": "media/avatr-01.jpg",
+        "caption": "AVATR"
+      }
     ],
     "phone": "01098699699",
     "address": "Building 15 Ideal, Al-Nasr Road, Cairo",
@@ -300,12 +616,22 @@
     "dealerName": "Al Rowad Auto",
     "tagline": "No waiting, just driving",
     "logo": null,
-    "palette": { "background": "#f2efe9", "ink": "#12141a", "accent": "#b8261f" },
+    "palette": {
+      "background": "#f2efe9",
+      "ink": "#12141a",
+      "accent": "#b8261f"
+    },
     "heroImage": "media/showroom-actyon.jpg",
     "aboutText": "Al Rowad Auto Group run three branches, two in Cairo, one in Fayoum, and publish the same block at the foot of every post: the addresses, a bank of numbers per branch, and the words for immediate delivery.",
     "gallery": [
-      { "image": "media/showroom-actyon.jpg", "caption": "KGM Actyon" },
-      { "image": "media/showroom-venucia.jpg", "caption": "Venucia 260T" }
+      {
+        "image": "media/showroom-actyon.jpg",
+        "caption": "KGM Actyon"
+      },
+      {
+        "image": "media/showroom-venucia.jpg",
+        "caption": "Venucia 260T"
+      }
     ],
     "phone": "01140000174 / 01121111280 / 01121111282 / 01121111283 / 01121111284 / 01121111281 / 01121111285 / 01121111286 / 01121111287 / 01159000096",
     "address": "Maadi Autostrad Road, lower entrance of Al-Meraj City, inside the A1 station; Showroom S5–S6, Shahid Axis Road, Nasr City; Al-Hassan Tower, opposite the Fayoum Culture Palace",
@@ -318,15 +644,34 @@
     "dealerName": "Auto Gate",
     "tagline": "Your gate to elevate",
     "logo": null,
-    "palette": { "background": "#0b0d12", "ink": "#eceff4", "accent": "#ffda75" },
+    "palette": {
+      "background": "#0b0d12",
+      "ink": "#eceff4",
+      "accent": "#ffda75"
+    },
     "heroImage": "media/hero.jpg",
     "aboutText": "Auto Gate describe themselves as a luxury automobile seller based in Egypt, and they work from one address: 64 El-Nozha Street, next to the Mobil station in Heliopolis.",
     "gallery": [
-      { "image": "media/challenger-front.jpg", "caption": "A blue Dodge Challenger head-on, halo headlights doubled in the wet ground." },
-      { "image": "media/lineup-gate.jpg", "caption": "A line-up under the illuminated AUTO GATE sign: Challenger, a white Aston Martin, a black BMW." },
-      { "image": "media/mercedes-night.jpg", "caption": "A black Mercedes on the wet forecourt at night." },
-      { "image": "media/challenger-side.jpg", "caption": "The Challenger from the side, its reflection running the length of the frame." },
-      { "image": "media/lineup-mercedes.jpg", "caption": "A row of Mercedes saloons under the sign." }
+      {
+        "image": "media/challenger-front.jpg",
+        "caption": "A blue Dodge Challenger head-on, halo headlights doubled in the wet ground."
+      },
+      {
+        "image": "media/lineup-gate.jpg",
+        "caption": "A line-up under the illuminated AUTO GATE sign: Challenger, a white Aston Martin, a black BMW."
+      },
+      {
+        "image": "media/mercedes-night.jpg",
+        "caption": "A black Mercedes on the wet forecourt at night."
+      },
+      {
+        "image": "media/challenger-side.jpg",
+        "caption": "The Challenger from the side, its reflection running the length of the frame."
+      },
+      {
+        "image": "media/lineup-mercedes.jpg",
+        "caption": "A row of Mercedes saloons under the sign."
+      }
     ],
     "phone": "01222271878 / 01000358999",
     "address": "64 El-Nozha Street, Heliopolis, next to the Mobil station",
@@ -339,20 +684,54 @@
     "dealerName": "Auto Dynamics",
     "tagline": "Reimagining luxury, redefining excellence",
     "logo": null,
-    "palette": { "background": "#efede8", "ink": "#1a1917", "accent": "#6b3a22" },
+    "palette": {
+      "background": "#efede8",
+      "ink": "#1a1917",
+      "accent": "#6b3a22"
+    },
     "heroImage": "media/composite.jpg",
     "aboutText": "Auto Dynamics have been trading since 1994 and describe what they do as curating world-class cars. Their listings are the most complete of any dealership in this series: sectioned specification sheets covering drivetrain, interior, technology, exterior and safety, with an exact odometer reading on every pre-owned car.",
     "gallery": [
-      { "image": "media/jaguar-f-type.jpg", "caption": "Jaguar F-Type R-Dynamic" },
-      { "image": "media/alfa-tonale.jpg", "caption": "Alfa Romeo Tonale" },
-      { "image": "media/mercedes-e200.jpg", "caption": "Mercedes-Benz E-200" },
-      { "image": "media/porsche-macan-s.jpg", "caption": "Porsche Macan S" },
-      { "image": "media/range-rover-sport.jpg", "caption": "Land Rover Range Rover Sport HSE 3.0L" },
-      { "image": "media/mercedes-gls580.jpg", "caption": "Mercedes-Benz GLS 580 AMG" },
-      { "image": "media/mercedes-gle450.jpg", "caption": "Mercedes-Benz GLE 450 AMG" },
-      { "image": "media/mazda-mx5.jpg", "caption": "Mazda MX-5 Miata" },
-      { "image": "media/mercedes-glc300.jpg", "caption": "Mercedes-Benz GLC 300 AMG Coupé" },
-      { "image": "media/mercedes-v300.jpg", "caption": "Mercedes-Benz V300 Avantgarde" }
+      {
+        "image": "media/jaguar-f-type.jpg",
+        "caption": "Jaguar F-Type R-Dynamic"
+      },
+      {
+        "image": "media/alfa-tonale.jpg",
+        "caption": "Alfa Romeo Tonale"
+      },
+      {
+        "image": "media/mercedes-e200.jpg",
+        "caption": "Mercedes-Benz E-200"
+      },
+      {
+        "image": "media/porsche-macan-s.jpg",
+        "caption": "Porsche Macan S"
+      },
+      {
+        "image": "media/range-rover-sport.jpg",
+        "caption": "Land Rover Range Rover Sport HSE 3.0L"
+      },
+      {
+        "image": "media/mercedes-gls580.jpg",
+        "caption": "Mercedes-Benz GLS 580 AMG"
+      },
+      {
+        "image": "media/mercedes-gle450.jpg",
+        "caption": "Mercedes-Benz GLE 450 AMG"
+      },
+      {
+        "image": "media/mazda-mx5.jpg",
+        "caption": "Mazda MX-5 Miata"
+      },
+      {
+        "image": "media/mercedes-glc300.jpg",
+        "caption": "Mercedes-Benz GLC 300 AMG Coupé"
+      },
+      {
+        "image": "media/mercedes-v300.jpg",
+        "caption": "Mercedes-Benz V300 Avantgarde"
+      }
     ],
     "phone": null,
     "address": "Cairo, Egypt",
@@ -365,13 +744,26 @@
     "dealerName": "Zayed Auto",
     "tagline": "Beverly Hills, Sheikh Zayed",
     "logo": null,
-    "palette": { "background": "#17181a", "ink": "#eef0f2", "accent": "#e0b64a" },
+    "palette": {
+      "background": "#17181a",
+      "ink": "#eef0f2",
+      "accent": "#e0b64a"
+    },
     "heroImage": "media/forecourt.jpg",
     "aboutText": "One shopfront on a parade in Beverly Hills, Sheikh Zayed, next to a bank branch. Six or so cars on the pavement outside, a hand-lettered sign above the door, and a phone number.",
     "gallery": [
-      { "image": "media/merc-c180.jpg", "caption": "Mercedes-Benz C180 AMG" },
-      { "image": "media/mini-countryman.jpg", "caption": "MINI Cooper Countryman" },
-      { "image": "media/hyundai-creta.jpg", "caption": "Hyundai Creta" }
+      {
+        "image": "media/merc-c180.jpg",
+        "caption": "Mercedes-Benz C180 AMG"
+      },
+      {
+        "image": "media/mini-countryman.jpg",
+        "caption": "MINI Cooper Countryman"
+      },
+      {
+        "image": "media/hyundai-creta.jpg",
+        "caption": "Hyundai Creta"
+      }
     ],
     "phone": "01156888848",
     "address": "Beverly Hills, Sheikh Zayed",
@@ -384,14 +776,30 @@
     "dealerName": "Mansy Automotive",
     "tagline": "Specifications, and nothing else",
     "logo": null,
-    "palette": { "background": "#f0ecea", "ink": "#191718", "accent": "#a4142d" },
+    "palette": {
+      "background": "#f0ecea",
+      "ink": "#191718",
+      "accent": "#a4142d"
+    },
     "heroImage": "media/showroom.jpg",
     "aboutText": "Four cars from four different places, a German coupé, a Chinese hatch and two Spanish CUPRAs, photographed in the same showroom in front of the same gold fluted column, with the same red branded mat in every interior shot.",
     "gallery": [
-      { "image": "media/mercedes-cle-01.jpg", "caption": "Mercedes-Benz CLE 200 Premium Plus" },
-      { "image": "media/mg-gt-01.jpg", "caption": "MG GT" },
-      { "image": "media/cupra-leon-01.jpg", "caption": "CUPRA Leon" },
-      { "image": "media/cupra-formentor-01.jpg", "caption": "CUPRA Formentor" }
+      {
+        "image": "media/mercedes-cle-01.jpg",
+        "caption": "Mercedes-Benz CLE 200 Premium Plus"
+      },
+      {
+        "image": "media/mg-gt-01.jpg",
+        "caption": "MG GT"
+      },
+      {
+        "image": "media/cupra-leon-01.jpg",
+        "caption": "CUPRA Leon"
+      },
+      {
+        "image": "media/cupra-formentor-01.jpg",
+        "caption": "CUPRA Formentor"
+      }
     ],
     "phone": "01070002272 / 01080851915",
     "address": "Cairo, Egypt",
@@ -404,11 +812,18 @@
     "dealerName": "Motor Zone",
     "tagline": "Where quality meets trust",
     "logo": null,
-    "palette": { "background": "#0d0e10", "ink": "#f4f2ef", "accent": "#f4121a" },
+    "palette": {
+      "background": "#0d0e10",
+      "ink": "#f4f2ef",
+      "accent": "#f4121a"
+    },
     "heroImage": "media/plain-background.svg",
     "aboutText": "A shop on Sayed Zakaria Street in Sheraton, Heliopolis, next to Al-Siddiq Mosque, selling new Chinese and European models on finance.",
     "gallery": [
-      { "image": "media/plain-background.svg", "caption": "No photography published" }
+      {
+        "image": "media/plain-background.svg",
+        "caption": "No photography published"
+      }
     ],
     "phone": "01271741111",
     "address": "Sayed Zakaria St, Sheraton, Morabaa El-Wozara, next to Al-Siddiq Mosque",
@@ -421,16 +836,38 @@
     "dealerName": "K.auto",
     "tagline": "for unique cars",
     "logo": null,
-    "palette": { "background": "#e4dbd9", "ink": "#2b2721", "accent": "#b99065" },
+    "palette": {
+      "background": "#e4dbd9",
+      "ink": "#2b2721",
+      "accent": "#b99065"
+    },
     "heroImage": "media/rotunda.jpg",
     "aboutText": "A showroom at Waslet Dahshour beside Cairo University, and a second at Beverly Hills. Run by Mahmoud Kosba, and, as they write on every post, since 1985.",
     "gallery": [
-      { "image": "media/bmw-x5-01.jpg", "caption": "BMW X5 M60i" },
-      { "image": "media/bmw-x5-02.jpg", "caption": "BMW X5 M60i" },
-      { "image": "media/bmw-x5-03.jpg", "caption": "BMW X5 M60i" },
-      { "image": "media/land-cruiser-01.jpg", "caption": "Toyota Land Cruiser VXR" },
-      { "image": "media/land-cruiser-02.jpg", "caption": "Toyota Land Cruiser VXR" },
-      { "image": "media/land-cruiser-03.jpg", "caption": "Toyota Land Cruiser VXR" }
+      {
+        "image": "media/bmw-x5-01.jpg",
+        "caption": "BMW X5 M60i"
+      },
+      {
+        "image": "media/bmw-x5-02.jpg",
+        "caption": "BMW X5 M60i"
+      },
+      {
+        "image": "media/bmw-x5-03.jpg",
+        "caption": "BMW X5 M60i"
+      },
+      {
+        "image": "media/land-cruiser-01.jpg",
+        "caption": "Toyota Land Cruiser VXR"
+      },
+      {
+        "image": "media/land-cruiser-02.jpg",
+        "caption": "Toyota Land Cruiser VXR"
+      },
+      {
+        "image": "media/land-cruiser-03.jpg",
+        "caption": "Toyota Land Cruiser VXR"
+      }
     ],
     "phone": "01113385553 / 01117581599",
     "address": "Waslet Dahshour, beside Cairo University, Jumeirah Plaza Walk; Beverly Hills Gate 8, 9, Mall 23",
@@ -443,20 +880,54 @@
     "dealerName": "Auto Hub",
     "tagline": "Brand-new & pre-owned",
     "logo": null,
-    "palette": { "background": "#14161a", "ink": "#e9e7e2", "accent": "#e9e7e2" },
+    "palette": {
+      "background": "#14161a",
+      "ink": "#e9e7e2",
+      "accent": "#e9e7e2"
+    },
     "heroImage": "media/e200-1.jpg",
     "aboutText": "Our goal is to provide the market with the best & lowest prices for Brand-New & Pre-Owned Vehicles.",
     "gallery": [
-      { "image": "media/c180-1.jpg", "caption": "Mercedes C180 Avantgarde" },
-      { "image": "media/520i-1.jpg", "caption": "BMW 520i" },
-      { "image": "media/520-1.jpg", "caption": "BMW 520" },
-      { "image": "media/e200-1.jpg", "caption": "Mercedes E200 Sport / Avantgarde" },
-      { "image": "media/leon-1.jpg", "caption": "SEAT Leon FR" },
-      { "image": "media/rx5-1.jpg", "caption": "MG RX5 Luxury" },
-      { "image": "media/cla-1.jpg", "caption": "Mercedes CLA Luxury" },
-      { "image": "media/sandero-1.jpg", "caption": "Renault Sandero" },
-      { "image": "media/karoq-1.jpg", "caption": "Skoda Karoq" },
-      { "image": "media/a5-1.jpg", "caption": "Audi A5 S-Line" }
+      {
+        "image": "media/c180-1.jpg",
+        "caption": "Mercedes C180 Avantgarde"
+      },
+      {
+        "image": "media/520i-1.jpg",
+        "caption": "BMW 520i"
+      },
+      {
+        "image": "media/520-1.jpg",
+        "caption": "BMW 520"
+      },
+      {
+        "image": "media/e200-1.jpg",
+        "caption": "Mercedes E200 Sport / Avantgarde"
+      },
+      {
+        "image": "media/leon-1.jpg",
+        "caption": "SEAT Leon FR"
+      },
+      {
+        "image": "media/rx5-1.jpg",
+        "caption": "MG RX5 Luxury"
+      },
+      {
+        "image": "media/cla-1.jpg",
+        "caption": "Mercedes CLA Luxury"
+      },
+      {
+        "image": "media/sandero-1.jpg",
+        "caption": "Renault Sandero"
+      },
+      {
+        "image": "media/karoq-1.jpg",
+        "caption": "Skoda Karoq"
+      },
+      {
+        "image": "media/a5-1.jpg",
+        "caption": "Audi A5 S-Line"
+      }
     ],
     "phone": "01226515617",
     "address": "64 Nehru St, off Al Sebaq St, behind Merryland Park, Heliopolis, Cairo",
@@ -469,20 +940,54 @@
     "dealerName": "Teacher Motors",
     "tagline": "Fastest Growing Automotive Lending Centre in Egypt",
     "logo": null,
-    "palette": { "background": "#f2efe8", "ink": "#17171a", "accent": "#c79a3e" },
+    "palette": {
+      "background": "#f2efe8",
+      "ink": "#17171a",
+      "accent": "#c79a3e"
+    },
     "heroImage": "media/brabus-1.jpg",
     "aboutText": "Teacher Motors is the Fastest Growing Automotive Lending Centre in Egypt. We have thousands of new and used vehicles for you to choose from!",
     "gallery": [
-      { "image": "media/brabus-1.jpg", "caption": "Brabus 930" },
-      { "image": "media/cullinan-1.jpg", "caption": "Rolls-Royce Cullinan" },
-      { "image": "media/boxster-1.jpg", "caption": "Porsche 718 Boxster" },
-      { "image": "media/gle450-1.jpg", "caption": "Mercedes-Benz GLE 450" },
-      { "image": "media/cherokee-1.jpg", "caption": "Jeep Grand Cherokee" },
-      { "image": "media/cla200-1.jpg", "caption": "Mercedes-Benz CLA 200 AMG" },
-      { "image": "media/silverado-1.jpg", "caption": "Chevrolet Silverado" },
-      { "image": "media/modelx-1.jpg", "caption": "Tesla Model X Plaid" },
-      { "image": "media/velar-zero-1.jpg", "caption": "Range Rover Velar Zero" },
-      { "image": "media/velar-1.jpg", "caption": "Range Rover Velar" }
+      {
+        "image": "media/brabus-1.jpg",
+        "caption": "Brabus 930"
+      },
+      {
+        "image": "media/cullinan-1.jpg",
+        "caption": "Rolls-Royce Cullinan"
+      },
+      {
+        "image": "media/boxster-1.jpg",
+        "caption": "Porsche 718 Boxster"
+      },
+      {
+        "image": "media/gle450-1.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/cherokee-1.jpg",
+        "caption": "Jeep Grand Cherokee"
+      },
+      {
+        "image": "media/cla200-1.jpg",
+        "caption": "Mercedes-Benz CLA 200 AMG"
+      },
+      {
+        "image": "media/silverado-1.jpg",
+        "caption": "Chevrolet Silverado"
+      },
+      {
+        "image": "media/modelx-1.jpg",
+        "caption": "Tesla Model X Plaid"
+      },
+      {
+        "image": "media/velar-zero-1.jpg",
+        "caption": "Range Rover Velar Zero"
+      },
+      {
+        "image": "media/velar-1.jpg",
+        "caption": "Range Rover Velar"
+      }
     ],
     "phone": "01148924070 / 01061037530 / 01004759207 / 01127854453 / 01092762502 / 01011399095",
     "address": "Cairo–Alexandria Desert Road, Sheikh Zayed, Giza",
@@ -495,18 +1000,46 @@
     "dealerName": "Melegy Auto",
     "tagline": "used, with us, is zero",
     "logo": null,
-    "palette": { "background": "#1c1a17", "ink": "#ece7dc", "accent": "#dd7057" },
+    "palette": {
+      "background": "#1c1a17",
+      "ink": "#ece7dc",
+      "accent": "#dd7057"
+    },
     "heroImage": "media/ibiza-1.jpg",
     "aboutText": "A showroom in Nasr City and a second in Ismailia, posting used and nearly-new cars to one fixed template, the same eight questions answered every time, and nothing published once a car is gone.",
     "gallery": [
-      { "image": "media/ibiza-1.jpg", "caption": "SEAT Ibiza" },
-      { "image": "media/508-1.jpg", "caption": "Peugeot 508" },
-      { "image": "media/500x-1.jpg", "caption": "Fiat 500X" },
-      { "image": "media/tiggo8-av-1.jpg", "caption": "Chery Tiggo 8" },
-      { "image": "media/tiggo8-sold-1.jpg", "caption": "Chery Tiggo 8" },
-      { "image": "media/qashqai-1.jpg", "caption": "Nissan Qashqai" },
-      { "image": "media/c180-1.jpg", "caption": "Mercedes-Benz C180" },
-      { "image": "media/tiggo3-1.jpg", "caption": "Chery Tiggo 3" }
+      {
+        "image": "media/ibiza-1.jpg",
+        "caption": "SEAT Ibiza"
+      },
+      {
+        "image": "media/508-1.jpg",
+        "caption": "Peugeot 508"
+      },
+      {
+        "image": "media/500x-1.jpg",
+        "caption": "Fiat 500X"
+      },
+      {
+        "image": "media/tiggo8-av-1.jpg",
+        "caption": "Chery Tiggo 8"
+      },
+      {
+        "image": "media/tiggo8-sold-1.jpg",
+        "caption": "Chery Tiggo 8"
+      },
+      {
+        "image": "media/qashqai-1.jpg",
+        "caption": "Nissan Qashqai"
+      },
+      {
+        "image": "media/c180-1.jpg",
+        "caption": "Mercedes-Benz C180"
+      },
+      {
+        "image": "media/tiggo3-1.jpg",
+        "caption": "Chery Tiggo 3"
+      }
     ],
     "phone": "01227174125 / 01270000169 / 01271578303",
     "address": "Nasr City, Mehwar El Shaheed; Fox Square, Ard El Gam3iyat",
@@ -519,16 +1052,38 @@
     "dealerName": "Vroom Automotive",
     "tagline": "Fifth Settlement, New Cairo",
     "logo": null,
-    "palette": { "background": "#1b1613", "ink": "#ede6dd", "accent": "#e8935e" },
+    "palette": {
+      "background": "#1b1613",
+      "ink": "#ede6dd",
+      "accent": "#e8935e"
+    },
     "heroImage": "media/urus-1.jpg",
     "aboutText": "A showroom at Bank Center, 70th Street, Fifth Settlement, New Cairo, recognisable in almost every one of their posts by the same terracotta timber wall and faceted marble panel behind the car.",
     "gallery": [
-      { "image": "media/urus-1.jpg", "caption": "Lamborghini Urus" },
-      { "image": "media/ferrari-1.jpg", "caption": "Ferrari 12Cilindri" },
-      { "image": "media/cla180-1.jpg", "caption": "Mercedes-Benz CLA 180" },
-      { "image": "media/rox01-a-1.jpg", "caption": "Rox 01" },
-      { "image": "media/escalade-1.jpg", "caption": "Cadillac Escalade" },
-      { "image": "media/kodiaq-a-1.jpg", "caption": "Skoda Kodiaq" }
+      {
+        "image": "media/urus-1.jpg",
+        "caption": "Lamborghini Urus"
+      },
+      {
+        "image": "media/ferrari-1.jpg",
+        "caption": "Ferrari 12Cilindri"
+      },
+      {
+        "image": "media/cla180-1.jpg",
+        "caption": "Mercedes-Benz CLA 180"
+      },
+      {
+        "image": "media/rox01-a-1.jpg",
+        "caption": "Rox 01"
+      },
+      {
+        "image": "media/escalade-1.jpg",
+        "caption": "Cadillac Escalade"
+      },
+      {
+        "image": "media/kodiaq-a-1.jpg",
+        "caption": "Skoda Kodiaq"
+      }
     ],
     "phone": "01156664445 / 01097796677",
     "address": "Unit G06, Plot 128, 70th Street, Bank Center, Fifth Settlement, New Cairo",
@@ -541,18 +1096,46 @@
     "dealerName": "Goda Motors",
     "tagline": "A line before a spec",
     "logo": null,
-    "palette": { "background": "#e6e4e1", "ink": "#1b1918", "accent": "#8a2a19" },
+    "palette": {
+      "background": "#e6e4e1",
+      "ink": "#1b1918",
+      "accent": "#8a2a19"
+    },
     "heroImage": "media/sl55-1.jpg",
     "aboutText": "A showroom in Cairo, photographed in one consistent studio bay under a single suspended ring light, the same fixture in every post they publish.",
     "gallery": [
-      { "image": "media/sl55-1.jpg", "caption": "Mercedes-AMG SL 55" },
-      { "image": "media/sl55-2.jpg", "caption": "Mercedes-AMG SL 55" },
-      { "image": "media/e180-exclusive-1.jpg", "caption": "Mercedes-Benz E180 Exclusive" },
-      { "image": "media/e180-exclusive-2.jpg", "caption": "Mercedes-Benz E180 Exclusive" },
-      { "image": "media/x5-1.jpg", "caption": "BMW X5 M40i" },
-      { "image": "media/x5-2.jpg", "caption": "BMW X5 M40i" },
-      { "image": "media/e180-avantgarde-1.jpg", "caption": "Mercedes-Benz E180 Avantgarde" },
-      { "image": "media/e180-avantgarde-2.jpg", "caption": "Mercedes-Benz E180 Avantgarde" }
+      {
+        "image": "media/sl55-1.jpg",
+        "caption": "Mercedes-AMG SL 55"
+      },
+      {
+        "image": "media/sl55-2.jpg",
+        "caption": "Mercedes-AMG SL 55"
+      },
+      {
+        "image": "media/e180-exclusive-1.jpg",
+        "caption": "Mercedes-Benz E180 Exclusive"
+      },
+      {
+        "image": "media/e180-exclusive-2.jpg",
+        "caption": "Mercedes-Benz E180 Exclusive"
+      },
+      {
+        "image": "media/x5-1.jpg",
+        "caption": "BMW X5 M40i"
+      },
+      {
+        "image": "media/x5-2.jpg",
+        "caption": "BMW X5 M40i"
+      },
+      {
+        "image": "media/e180-avantgarde-1.jpg",
+        "caption": "Mercedes-Benz E180 Avantgarde"
+      },
+      {
+        "image": "media/e180-avantgarde-2.jpg",
+        "caption": "Mercedes-Benz E180 Avantgarde"
+      }
     ],
     "phone": "01002929326 / 01202226606 / 0100 0011016 / 01000166476",
     "address": "Cairo, Egypt",
@@ -565,20 +1148,54 @@
     "dealerName": "El Togary Auto",
     "tagline": "City Stars Mall, Nasr City",
     "logo": null,
-    "palette": { "background": "#121110", "ink": "#eeece9", "accent": "#c7c9cc" },
+    "palette": {
+      "background": "#121110",
+      "ink": "#eeece9",
+      "accent": "#c7c9cc"
+    },
     "heroImage": "media/c180-1.jpg",
     "aboutText": "A showroom trading from inside City Stars Mall, Nasr City, the only dealership sourced for this series that sits in a shopping centre rather than a forecourt or a standalone building.",
     "gallery": [
-      { "image": "media/c180-1.jpg", "caption": "Mercedes-Benz C180" },
-      { "image": "media/ftype-1.jpg", "caption": "Jaguar F-Type" },
-      { "image": "media/cayman-1.jpg", "caption": "Porsche 718 Cayman" },
-      { "image": "media/roma-1.jpg", "caption": "Ferrari Roma" },
-      { "image": "media/evoque-1.jpg", "caption": "Range Rover Evoque R-Dynamic HSE P300E" },
-      { "image": "media/408-1.jpg", "caption": "Peugeot 408 GT-Line" },
-      { "image": "media/cayenne-1.jpg", "caption": "Porsche Cayenne" },
-      { "image": "media/xc90-1.jpg", "caption": "Volvo XC90" },
-      { "image": "media/superb-1.jpg", "caption": "Skoda Superb" },
-      { "image": "media/kodiaq-1.jpg", "caption": "Skoda Kodiaq" }
+      {
+        "image": "media/c180-1.jpg",
+        "caption": "Mercedes-Benz C180"
+      },
+      {
+        "image": "media/ftype-1.jpg",
+        "caption": "Jaguar F-Type"
+      },
+      {
+        "image": "media/cayman-1.jpg",
+        "caption": "Porsche 718 Cayman"
+      },
+      {
+        "image": "media/roma-1.jpg",
+        "caption": "Ferrari Roma"
+      },
+      {
+        "image": "media/evoque-1.jpg",
+        "caption": "Range Rover Evoque R-Dynamic HSE P300E"
+      },
+      {
+        "image": "media/408-1.jpg",
+        "caption": "Peugeot 408 GT-Line"
+      },
+      {
+        "image": "media/cayenne-1.jpg",
+        "caption": "Porsche Cayenne"
+      },
+      {
+        "image": "media/xc90-1.jpg",
+        "caption": "Volvo XC90"
+      },
+      {
+        "image": "media/superb-1.jpg",
+        "caption": "Skoda Superb"
+      },
+      {
+        "image": "media/kodiaq-1.jpg",
+        "caption": "Skoda Kodiaq"
+      }
     ],
     "phone": "01030061000 / 01001651118 / 01004047226 / 01022595315 / 01016926286 / 01001346777 / 01050848555 / 01030445841 / 01146007710 / 01006626078 / 01050848000 / 01028701766 / 01019341443 / 01008699938 / 01027535048",
     "address": "Inside City Stars Mall, Nasr City, Cairo",
@@ -591,18 +1208,46 @@
     "dealerName": "Moataz El Hawi Auto",
     "tagline": "Nasr City, Cairo",
     "logo": null,
-    "palette": { "background": "#16223a", "ink": "#ececec", "accent": "#d61428" },
+    "palette": {
+      "background": "#16223a",
+      "ink": "#ececec",
+      "accent": "#d61428"
+    },
     "heroImage": "media/g500-1.jpg",
     "aboutText": "Moataz El Hawi Auto photograph every car in the same spot: a navy fascia reading their name, a steel monogram on the canopy above it, two floodlights raking it, and a pair of fluted columns painted signal red on either side of the doorway. It shows up behind a black Mercedes G-Wagon, a black Jeep with an SRT kit, a silver Jaguar F-Type and a black BMW 3 Series alike, and in more than one frame, other stock cars are parked in the background of the shot, waiting their turn at the same address.",
     "gallery": [
-      { "image": "media/g500-1.jpg", "caption": "Mercedes-Benz G500" },
-      { "image": "media/g500-2.jpg", "caption": "Mercedes-Benz G500" },
-      { "image": "media/grandcherokee-1.jpg", "caption": "Jeep Grand Cherokee Limited" },
-      { "image": "media/grandcherokee-2.jpg", "caption": "Jeep Grand Cherokee Limited" },
-      { "image": "media/ftype-1.jpg", "caption": "Jaguar F-Type P300" },
-      { "image": "media/ftype-2.jpg", "caption": "Jaguar F-Type P300" },
-      { "image": "media/320msport-1.jpg", "caption": "BMW 320 M-Sport" },
-      { "image": "media/320msport-2.jpg", "caption": "BMW 320 M-Sport" }
+      {
+        "image": "media/g500-1.jpg",
+        "caption": "Mercedes-Benz G500"
+      },
+      {
+        "image": "media/g500-2.jpg",
+        "caption": "Mercedes-Benz G500"
+      },
+      {
+        "image": "media/grandcherokee-1.jpg",
+        "caption": "Jeep Grand Cherokee Limited"
+      },
+      {
+        "image": "media/grandcherokee-2.jpg",
+        "caption": "Jeep Grand Cherokee Limited"
+      },
+      {
+        "image": "media/ftype-1.jpg",
+        "caption": "Jaguar F-Type P300"
+      },
+      {
+        "image": "media/ftype-2.jpg",
+        "caption": "Jaguar F-Type P300"
+      },
+      {
+        "image": "media/320msport-1.jpg",
+        "caption": "BMW 320 M-Sport"
+      },
+      {
+        "image": "media/320msport-2.jpg",
+        "caption": "BMW 320 M-Sport"
+      }
     ],
     "phone": "01285933330",
     "address": "Nasr City, Ninth District, Shinzo Abe Axis, opposite Al-Masrawy Mosque",
@@ -615,17 +1260,42 @@
     "dealerName": "Al Mounir Motors",
     "tagline": "Excellence in Motion",
     "logo": null,
-    "palette": { "background": "#0f1013", "ink": "#ededed", "accent": "#b8934a" },
+    "palette": {
+      "background": "#0f1013",
+      "ink": "#ededed",
+      "accent": "#b8934a"
+    },
     "heroImage": "media/x5-1.jpg",
     "aboutText": "Every poster in the sample shares the same devices: a gold car-silhouette mark, a herringbone chevron band that also runs as a real architectural strip across their showroom canopy, a pictogram row for engine, transmission, drivetrain and power, a \"PREMIUM SELECTION\" tier badge, and a WhatsApp-only call to action. The real photography lives inside that template as embedded tiles: an interior shot, a wheel, a rear three-quarter, a side profile, set into a gold-bordered grid beneath the big composited hero shot.",
     "gallery": [
-      { "image": "media/x5-1.jpg", "caption": "BMW X5 M40i" },
-      { "image": "media/g63-1.jpg", "caption": "Mercedes-AMG G63" },
-      { "image": "media/z4-1.jpg", "caption": "BMW Z4 Roadster sDrive20i" },
-      { "image": "media/evoque-1.jpg", "caption": "Range Rover Evoque" },
-      { "image": "media/v300-1.jpg", "caption": "Mercedes-Benz V300 VIP" },
-      { "image": "media/c180-1.jpg", "caption": "Mercedes-Benz C180" },
-      { "image": "media/gls580-1.jpg", "caption": "Mercedes-Benz GLS 580 4MATIC" }
+      {
+        "image": "media/x5-1.jpg",
+        "caption": "BMW X5 M40i"
+      },
+      {
+        "image": "media/g63-1.jpg",
+        "caption": "Mercedes-AMG G63"
+      },
+      {
+        "image": "media/z4-1.jpg",
+        "caption": "BMW Z4 Roadster sDrive20i"
+      },
+      {
+        "image": "media/evoque-1.jpg",
+        "caption": "Range Rover Evoque"
+      },
+      {
+        "image": "media/v300-1.jpg",
+        "caption": "Mercedes-Benz V300 VIP"
+      },
+      {
+        "image": "media/c180-1.jpg",
+        "caption": "Mercedes-Benz C180"
+      },
+      {
+        "image": "media/gls580-1.jpg",
+        "caption": "Mercedes-Benz GLS 580 4MATIC"
+      }
     ],
     "phone": "01111176687 / 01001447014 / 01017742146",
     "address": "Sheikh Zayed, Giza",
@@ -638,18 +1308,46 @@
     "dealerName": "Gravity Auto",
     "tagline": "Drive The Future, Today",
     "logo": null,
-    "palette": { "background": "#26282d", "ink": "#eeeeec", "accent": "#a8aeb6" },
+    "palette": {
+      "background": "#26282d",
+      "ink": "#eeeeec",
+      "accent": "#a8aeb6"
+    },
     "heroImage": "media/sealion-1.jpg",
     "aboutText": "Their fleet is four cars: a BYD, a Volvo, a BMW and a Mercedes, every one under a year old or newly imported. Every listing carries a real spec line, and every car in the sample is a 2024 or later model with under 5,000 km on it.",
     "gallery": [
-      { "image": "media/sealion-1.jpg", "caption": "BYD Sealion 06" },
-      { "image": "media/sealion-2.jpg", "caption": "BYD Sealion 06" },
-      { "image": "media/xc60-1.jpg", "caption": "Volvo XC60" },
-      { "image": "media/xc60-2.jpg", "caption": "Volvo XC60" },
-      { "image": "media/bmw235-1.jpg", "caption": "BMW 235 Gran Coupe" },
-      { "image": "media/bmw235-2.jpg", "caption": "BMW 235 Gran Coupe" },
-      { "image": "media/c180-1.jpg", "caption": "Mercedes-Benz C180 AMG Line" },
-      { "image": "media/c180-2.jpg", "caption": "Mercedes-Benz C180 AMG Line" }
+      {
+        "image": "media/sealion-1.jpg",
+        "caption": "BYD Sealion 06"
+      },
+      {
+        "image": "media/sealion-2.jpg",
+        "caption": "BYD Sealion 06"
+      },
+      {
+        "image": "media/xc60-1.jpg",
+        "caption": "Volvo XC60"
+      },
+      {
+        "image": "media/xc60-2.jpg",
+        "caption": "Volvo XC60"
+      },
+      {
+        "image": "media/bmw235-1.jpg",
+        "caption": "BMW 235 Gran Coupe"
+      },
+      {
+        "image": "media/bmw235-2.jpg",
+        "caption": "BMW 235 Gran Coupe"
+      },
+      {
+        "image": "media/c180-1.jpg",
+        "caption": "Mercedes-Benz C180 AMG Line"
+      },
+      {
+        "image": "media/c180-2.jpg",
+        "caption": "Mercedes-Benz C180 AMG Line"
+      }
     ],
     "phone": "01066666162",
     "address": "Chill Out, Waslet Dahshour, opposite the Zayed 3 entrance, Sheikh Zayed",
@@ -662,20 +1360,367 @@
     "dealerName": "Trust Motors",
     "tagline": "Trust Motors · Alexandria",
     "logo": null,
-    "palette": { "background": "#f4f3f0", "ink": "#1b1a19", "accent": "#c21414" },
+    "palette": {
+      "background": "#f4f3f0",
+      "ink": "#1b1a19",
+      "accent": "#c21414"
+    },
     "heroImage": "media/ciaz-2.jpg",
     "aboutText": "Their shopfront sign in Ibrahimiya, Alexandria reads TRUST MOTORS, listing sale, purchase and consignment trade-in, with a circular seal reading TRUST MOTORS · ALEXANDRIA · 03/4282000. The shop sits on a residential street across from the Fathallah supermarket's Riviera branch. Their own line on a poster reads: your trust, our priority.",
     "gallery": [
-      { "image": "media/ciaz-1.jpg", "caption": "Suzuki Ciaz" },
-      { "image": "media/ciaz-2.jpg", "caption": "Suzuki Ciaz" },
-      { "image": "media/sportage-1.jpg", "caption": "Kia Sportage" },
-      { "image": "media/sportage-2.jpg", "caption": "Kia Sportage" },
-      { "image": "media/shopfront.jpg", "caption": "Trust Motors shopfront" }
+      {
+        "image": "media/ciaz-1.jpg",
+        "caption": "Suzuki Ciaz"
+      },
+      {
+        "image": "media/ciaz-2.jpg",
+        "caption": "Suzuki Ciaz"
+      },
+      {
+        "image": "media/sportage-1.jpg",
+        "caption": "Kia Sportage"
+      },
+      {
+        "image": "media/sportage-2.jpg",
+        "caption": "Kia Sportage"
+      },
+      {
+        "image": "media/shopfront.jpg",
+        "caption": "Trust Motors shopfront"
+      }
     ],
     "phone": "01223240801 / 01144606008 / 03/4282000",
     "address": "Ibrahimiya, opposite Fathallah Riviera, Alexandria",
     "instagram": "https://www.instagram.com/trustmotorscars/",
     "facebook": null,
     "maps": "https://maps.app.goo.gl/9yGoPQcoCmCug9gF8"
+  },
+  {
+    "slug": "macan-automotive",
+    "dealerName": "Macan Automotive",
+    "tagline": "Own the way",
+    "logo": null,
+    "palette": {
+      "background": "#5a2418",
+      "ink": "#f6efe6",
+      "accent": "#fdb915"
+    },
+    "heroImage": "media/sealion-grey-front.jpg",
+    "aboutText": "Macan photograph every car dead-centre in one recessed portal: walnut piers, a red-lit fluted lintel, and their own amber sign on the black wall behind. What changes is not the room but the audience: 121K followers on Instagram, in English, with no price on any post; 272K on Facebook, in Arabic as well as English, quoting down payments in pounds from a different address.",
+    "gallery": [
+      {
+        "image": "media/sealion-grey-front.jpg",
+        "caption": "BYD Sealion 06 EV"
+      },
+      {
+        "image": "media/sealion-white-front.jpg",
+        "caption": "BYD Sealion 06 EV"
+      },
+      {
+        "image": "media/sealion-grey-rear.jpg",
+        "caption": "BYD Sealion 06 EV"
+      },
+      {
+        "image": "media/sealion-grey-cabin.jpg",
+        "caption": "BYD Sealion 06 EV"
+      },
+      {
+        "image": "media/evoque-front.jpg",
+        "caption": "Range Rover Evoque P160"
+      },
+      {
+        "image": "media/evoque-cabin.jpg",
+        "caption": "Range Rover Evoque P160"
+      },
+      {
+        "image": "media/gle-front.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/gle-cabin.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      }
+    ],
+    "phone": "0109 833 3971",
+    "address": "39 Rabia al-Adawiyya Buildings, El Nozha Street, Nasr City, Cairo",
+    "instagram": "https://www.instagram.com/macan_automotive/",
+    "facebook": "https://www.facebook.com/MACAN.Automotive11/",
+    "maps": "https://maps.app.goo.gl/Gx8QCf4dAk981ska6"
+  },
+  {
+    "slug": "drive-in-motors",
+    "dealerName": "Drive In Motors",
+    "tagline": "Drive your dream",
+    "logo": null,
+    "palette": {
+      "background": "#131a20",
+      "ink": "#eaf0f6",
+      "accent": "#f0a32a"
+    },
+    "heroImage": "media/lent-1.jpg",
+    "aboutText": "Four cars, every one of them a 2026 model, every one of them described as available now in our showroom. Three are marques that barely existed in Egypt five years ago: Jetour, Kaiyi, Changan. All three were photographed at the kerb outside their own sign, two of them after dark with the lamps lit. There is no used stock here and no mileage anywhere in the account.",
+    "gallery": [
+      {
+        "image": "media/jetour-front.jpg",
+        "caption": "Jetour X70 Plus"
+      },
+      {
+        "image": "media/jetour-wheel.jpg",
+        "caption": "Jetour X70 Plus"
+      },
+      {
+        "image": "media/changan-front.jpg",
+        "caption": "Changan Eado Plus"
+      },
+      {
+        "image": "media/changan-door.jpg",
+        "caption": "Changan Eado Plus"
+      },
+      {
+        "image": "media/kaiyi-front.jpg",
+        "caption": "Kaiyi 3 Pro"
+      },
+      {
+        "image": "media/kaiyi-lamp.jpg",
+        "caption": "Kaiyi 3 Pro"
+      }
+    ],
+    "phone": "012 252 11119 / 012 027 44484 / 012 013 19994 / 02 22751769 / 010 09339084",
+    "address": "6 Negaty Serag Street, Nasr City, next to El Serag Mall, Cairo",
+    "instagram": "https://www.instagram.com/drivein.motors/",
+    "facebook": "https://www.facebook.com/DriveInMotors1/",
+    "maps": "https://maps.app.goo.gl/4sB41X4f43QK4AFa8"
+  },
+  {
+    "slug": "exotica-automotive",
+    "dealerName": "Exotica Automotive",
+    "tagline": "The Key of Luxury",
+    "logo": null,
+    "palette": {
+      "background": "#bdbdbd",
+      "ink": "#242424",
+      "accent": "#242424"
+    },
+    "heroImage": "media/gmc-yukon-denali-00.jpg",
+    "aboutText": "Every car they sell is shot from the same eleven fixed positions, in the same grey room, in the same order, and published with a rule that never breaks: the outside is black and white, the inside is in colour. The densest specification sheet in the account: displacement, power, torque, 0-100, transmission, drivetrain, mileage. Most cars carry six or seven of nine fields, and the one field all eight share is the model year.",
+    "gallery": [
+      {
+        "image": "media/gmc-yukon-denali-00.jpg",
+        "caption": "GMC Yukon Denali, Black Edition"
+      },
+      {
+        "image": "media/bmw-320i-00.jpg",
+        "caption": "BMW 320i"
+      },
+      {
+        "image": "media/bmw-x7-m60i-00.jpg",
+        "caption": "BMW X7 M60i xDrive"
+      },
+      {
+        "image": "media/bmw-x1-18i-00.jpg",
+        "caption": "BMW X1 sDrive 18i"
+      },
+      {
+        "image": "media/mercedes-gle-450-00.jpg",
+        "caption": "Mercedes-Benz GLE 450 4MATIC"
+      },
+      {
+        "image": "media/range-rover-p530-00.jpg",
+        "caption": "Range Rover Vogue P530 Long Wheelbase"
+      },
+      {
+        "image": "media/mercedes-glc-43-00.jpg",
+        "caption": "Mercedes-Benz GLC 43 AMG"
+      }
+    ],
+    "phone": "+20 120 429 9993",
+    "address": "ChillOut AUC – South Teseen, New Cairo",
+    "instagram": "https://www.instagram.com/exoticaautomotive/",
+    "facebook": null,
+    "maps": "https://www.google.com/maps/search/?api=1&query=ChillOut%20AUC%20South%20Teseen%20New%20Cairo%20Exotica%20Automotive"
+  },
+  {
+    "slug": "body-car",
+    "dealerName": "Body Car",
+    "tagline": "Ahmed Mostafa",
+    "logo": null,
+    "palette": {
+      "background": "#0d0c0a",
+      "ink": "#f3ede3",
+      "accent": "#fdc941"
+    },
+    "heroImage": "media/gle-20.jpg",
+    "aboutText": "Every financing plan they publish quotes two options: a lower down payment against a higher instalment, or the reverse. It comes out to the same number, to within a rounding error, on five different cars and six separate posts: 42 months. That word appears in none of their captions.",
+    "gallery": [
+      {
+        "image": "media/gle-20.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/gle-21.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/gle-22.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/gle-06.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/gle-09.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/gle-12.jpg",
+        "caption": "Mercedes-Benz GLE 450"
+      },
+      {
+        "image": "media/aclass-30.jpg",
+        "caption": "Mercedes-Benz A-Class"
+      },
+      {
+        "image": "media/aclass-24.jpg",
+        "caption": "Mercedes-Benz A-Class"
+      },
+      {
+        "image": "media/aclass-26.jpg",
+        "caption": "Mercedes-Benz A-Class"
+      },
+      {
+        "image": "media/aclass-27.jpg",
+        "caption": "Mercedes-Benz A-Class"
+      }
+    ],
+    "phone": "01277718184",
+    "address": "306 Street 306, El-Basatin Sharkeya, El Basatin, Cairo",
+    "instagram": "https://www.instagram.com/bodycar_am/",
+    "facebook": "https://www.facebook.com/bodycar.ahmedmostafa/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=306%20Street%20306%20El%20Basatin%20Sharkeya%20Cairo%20Body%20Car"
+  },
+  {
+    "slug": "new-star-automotive",
+    "dealerName": "New Star Automotive",
+    "tagline": "New Vision",
+    "logo": null,
+    "palette": {
+      "background": "#0e0e0e",
+      "ink": "#eeeeea",
+      "accent": "#eeeeea"
+    },
+    "heroImage": "media/x5-real-0.jpg",
+    "aboutText": "Every photograph in this account is made in the same recessed bay: a stepped, backlit ceiling coffer, dark fluted side walls, and a light tile floor. Measured off their own frames, all three surfaces are exactly neutral: R, G and B equal, to the pixel. So is every car they have photographed here: white, black, or grey. Nothing sourced from this account has a hue.",
+    "gallery": [
+      {
+        "image": "media/x5-real-0.jpg",
+        "caption": "BMW X5 40i"
+      },
+      {
+        "image": "media/x5-real-1.jpg",
+        "caption": "BMW X5 40i"
+      },
+      {
+        "image": "media/glc-a-0.jpg",
+        "caption": "Mercedes-Benz GLC"
+      },
+      {
+        "image": "media/glc-b-0.jpg",
+        "caption": "Mercedes-Benz GLC"
+      },
+      {
+        "image": "media/x3-a-0.jpg",
+        "caption": "BMW X3"
+      },
+      {
+        "image": "media/x3-b-0.jpg",
+        "caption": "BMW X3"
+      },
+      {
+        "image": "media/stelvio-0.jpg",
+        "caption": "Alfa Romeo Stelvio"
+      },
+      {
+        "image": "media/stelvio-1.jpg",
+        "caption": "Alfa Romeo Stelvio"
+      },
+      {
+        "image": "media/stelvio-2.jpg",
+        "caption": "Alfa Romeo Stelvio"
+      }
+    ],
+    "phone": "+20 122 222 5502",
+    "address": "18 Hafez Ramadan, Nasr City, Cairo",
+    "instagram": "https://www.instagram.com/newstarautomotive/",
+    "facebook": null,
+    "maps": "https://maps.app.goo.gl/U5BdTBtXizqK889G8"
+  },
+  {
+    "slug": "kasrawy-group",
+    "dealerName": "Kasrawy Group",
+    "tagline": "Multi-brand automotive distributor",
+    "logo": null,
+    "palette": {
+      "background": "#131417",
+      "ink": "#f1ede4",
+      "accent": "#d9a15c"
+    },
+    "heroImage": "media/jetour-service.jpg",
+    "aboutText": "Of the eleven posts sourced from this account, not one is an individual car with a price. Kasrawy Group is a multi-brand distributor, not a used-car dealer, and its feed reads that way: seasonal service-centre openings, national holidays, a brand-launch signing, a magazine's coverage of a test-drive event.",
+    "gallery": [
+      {
+        "image": "media/jetour-service.jpg",
+        "caption": "JETOUR Service Center, North Coast"
+      },
+      {
+        "image": "media/jac-service.jpg",
+        "caption": "JAC Service Center, North Coast"
+      },
+      {
+        "image": "media/citroen-service.jpg",
+        "caption": "Citroën service, North Coast"
+      },
+      {
+        "image": "media/c5-aircross.jpg",
+        "caption": "Citroën C5 Aircross Extended launch"
+      }
+    ],
+    "phone": null,
+    "address": "Cairo, Egypt",
+    "instagram": "https://www.instagram.com/kasrawygroup/",
+    "facebook": null,
+    "maps": "https://maps.app.goo.gl/Gnuew25xfyhqXzYg7"
+  },
+  {
+    "slug": "hamidou-motors",
+    "dealerName": "Hamedo Motors",
+    "tagline": "Authorized distributor, since 1980",
+    "logo": null,
+    "palette": {
+      "background": "#0d1114",
+      "ink": "#eeefec",
+      "accent": "#e3212f"
+    },
+    "heroImage": "media/showroom-tiggo.jpg",
+    "aboutText": "A.H.Y Hamedo Motors has been trading since 1980. Its Facebook bio names seven brands it's an authorized distributor for; its own poster art advertises an eighth it never lists, plus a product that only looks like a car. It runs four real branches, three of them minutes apart and one almost two hundred kilometres up the coast. Its Instagram captions and its Facebook \"About\" panel don't even agree on which phone number to call.",
+    "gallery": [
+      {
+        "image": "media/showroom-tiggo.jpg",
+        "caption": "Chery Tiggo"
+      },
+      {
+        "image": "media/golf-cart.jpg",
+        "caption": "\"DODGE - RAM\" golf cart"
+      },
+      {
+        "image": "media/map-teaser.jpg",
+        "caption": "A real aerial frame of Cairo, roads lit and radiating from a dropped pin."
+      }
+    ],
+    "phone": "012-88-333-633 / 012 11 01 22 34",
+    "address": "Dokki: 16 El Tahrir St, near Buhouth Metro; Sheikh Zayed: Sheikh Zayed City, Giza; October: 91 Central Axis, 3rd District, 6th of October; North Coast: Before the Marina 6 gate, North Coast",
+    "instagram": "https://www.instagram.com/hamedomotors/",
+    "facebook": "https://www.facebook.com/HamedoMotors/",
+    "maps": "https://maps.app.goo.gl/WeMwEUPKee898Cik8"
   }
 ]
