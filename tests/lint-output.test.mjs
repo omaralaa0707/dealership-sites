@@ -44,3 +44,19 @@ test("lintSite reports a missing referenced image file", async () => {
 
   await rm(sitesDir, { recursive: true, force: true });
 });
+
+test("lintSite reports a missing hero background image referenced via url('...')", async () => {
+  const sitesDir = path.join(process.cwd(), "tests", "tmp-lint-hero-sites");
+  await rm(sitesDir, { recursive: true, force: true });
+  await mkdir(path.join(sitesDir, "broken-hero-dealer"), { recursive: true });
+  await writeFile(
+    path.join(sitesDir, "broken-hero-dealer", "index.html"),
+    '<header class="hero" style="background-image: linear-gradient(180deg, rgba(0,0,0,0.30), rgba(0,0,0,0.68)), url(\'media/missing-hero.webp\');"></header>',
+    "utf8"
+  );
+
+  const problems = await lintSite(sitesDir);
+  assert.ok(problems.some((p) => p.includes("missing image file media/missing-hero.webp")));
+
+  await rm(sitesDir, { recursive: true, force: true });
+});
