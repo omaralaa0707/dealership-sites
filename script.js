@@ -1,3 +1,5 @@
+document.documentElement.classList.add("js");
+
 (function revealOnScroll() {
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var targets = document.querySelectorAll(".reveal");
@@ -92,6 +94,7 @@
     if (document.hidden) {
       cancelAnimationFrame(frameId);
     } else {
+      cancelAnimationFrame(frameId);
       animate();
     }
   });
