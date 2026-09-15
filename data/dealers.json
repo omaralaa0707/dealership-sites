@@ -841,27 +841,27 @@
     "gallery": [
       {
         "image": "media/bmw-x5-01.jpg",
-        "caption": "BMW X5 M60i"
+        "caption": "BMW X5 M60i, front three-quarter"
       },
       {
         "image": "media/bmw-x5-02.jpg",
-        "caption": "BMW X5 M60i"
+        "caption": "BMW X5 M60i, rear"
       },
       {
         "image": "media/bmw-x5-03.jpg",
-        "caption": "BMW X5 M60i"
+        "caption": "BMW X5 M60i, interior"
       },
       {
         "image": "media/land-cruiser-01.jpg",
-        "caption": "Toyota Land Cruiser VXR"
+        "caption": "Toyota Land Cruiser VXR, front three-quarter"
       },
       {
         "image": "media/land-cruiser-02.jpg",
-        "caption": "Toyota Land Cruiser VXR"
+        "caption": "Toyota Land Cruiser VXR, rear"
       },
       {
         "image": "media/land-cruiser-03.jpg",
-        "caption": "Toyota Land Cruiser VXR"
+        "caption": "Toyota Land Cruiser VXR, rear seats"
       }
     ],
     "phone": "01113385553 / 01117581599",
@@ -1405,7 +1405,7 @@
     "gallery": [
       {
         "image": "media/sealion-grey-front.jpg",
-        "caption": "BYD Sealion 06 EV, grey"
+        "caption": "BYD Sealion 06 EV, grey, front"
       },
       {
         "image": "media/sealion-white-front.jpg",
@@ -1413,11 +1413,11 @@
       },
       {
         "image": "media/sealion-grey-rear.jpg",
-        "caption": "BYD Sealion 06 EV, grey"
+        "caption": "BYD Sealion 06 EV, grey, rear"
       },
       {
         "image": "media/sealion-grey-cabin.jpg",
-        "caption": "BYD Sealion 06 EV, grey"
+        "caption": "BYD Sealion 06 EV, grey, cabin"
       },
       {
         "image": "media/evoque-front.jpg",
@@ -1549,43 +1549,43 @@
     "gallery": [
       {
         "image": "media/gle-20.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023"
+        "caption": "Mercedes-Benz GLE 450, 2023, front"
       },
       {
         "image": "media/gle-21.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023"
+        "caption": "Mercedes-Benz GLE 450, 2023, rear"
       },
       {
         "image": "media/gle-22.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023"
+        "caption": "Mercedes-Benz GLE 450, 2023, rear three-quarter"
       },
       {
         "image": "media/gle-06.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023"
+        "caption": "Mercedes-Benz GLE 450, 2023, rear seats"
       },
       {
         "image": "media/gle-09.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023"
+        "caption": "Mercedes-Benz GLE 450, 2023, dashboard"
       },
       {
         "image": "media/gle-12.jpg",
-        "caption": "Mercedes-Benz GLE 450, 2023"
+        "caption": "Mercedes-Benz GLE 450, 2023, taillight detail"
       },
       {
         "image": "media/aclass-30.jpg",
-        "caption": "Mercedes-Benz A-Class"
+        "caption": "Mercedes-Benz A-Class, headlight detail"
       },
       {
         "image": "media/aclass-24.jpg",
-        "caption": "Mercedes-Benz A-Class"
+        "caption": "Mercedes-Benz A-Class, steering wheel"
       },
       {
         "image": "media/aclass-26.jpg",
-        "caption": "Mercedes-Benz A-Class"
+        "caption": "Mercedes-Benz A-Class, dashboard"
       },
       {
         "image": "media/aclass-27.jpg",
-        "caption": "Mercedes-Benz A-Class"
+        "caption": "Mercedes-Benz A-Class, air vents"
       }
     ],
     "phone": "01277718184",
@@ -1633,15 +1633,15 @@
       },
       {
         "image": "media/stelvio-0.jpg",
-        "caption": "Alfa Romeo Stelvio"
+        "caption": "Alfa Romeo Stelvio, front"
       },
       {
         "image": "media/stelvio-1.jpg",
-        "caption": "Alfa Romeo Stelvio"
+        "caption": "Alfa Romeo Stelvio, front, close crop"
       },
       {
         "image": "media/stelvio-2.jpg",
-        "caption": "Alfa Romeo Stelvio"
+        "caption": "Alfa Romeo Stelvio, front three-quarter, headlights on"
       }
     ],
     "phone": "+20 122 222 5502",
@@ -1949,7 +1949,7 @@
       },
       {
         "image": "media/trendy-front-1.jpg",
-        "caption": "Audi Q3, Trendy Motors frontage"
+        "caption": "Audi Q3, Trendy Motors frontage, three-quarter, grey car alongside"
       },
       {
         "image": "media/q3-rear-1.jpg",
@@ -1961,11 +1961,11 @@
       },
       {
         "image": "media/trendy-front-2.jpg",
-        "caption": "Audi Q3, Trendy Motors frontage"
+        "caption": "Audi Q3, Trendy Motors frontage, three-quarter, red car alongside"
       },
       {
         "image": "media/trendy-front-3.jpg",
-        "caption": "Audi Q3, Trendy Motors frontage"
+        "caption": "Audi Q3, Trendy Motors frontage, straight-on, El Saadany Motors placard on the grille"
       },
       {
         "image": "media/q3-grey.jpg",
