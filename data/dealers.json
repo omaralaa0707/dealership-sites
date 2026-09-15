@@ -725,19 +725,21 @@
       "accent": "#e0b64a"
     },
     "heroImage": "media/forecourt.jpg",
-    "aboutText": "One shopfront on a parade in Beverly Hills, Sheikh Zayed, next to a bank branch. Six or so cars on the pavement outside, a hand-lettered sign above the door, and a phone number.",
+    "aboutParagraphs": [
+      "Zayed Auto is a small, owner-run dealership on a parade in Beverly Hills, Sheikh Zayed, where Eslam Zayed sells a handful of used cars directly off the pavement outside his shopfront. Recent stock has included a Mercedes-Benz C180 AMG, a MINI Cooper Countryman and a Hyundai Creta.",
+      "The shop sits next to a bank branch on the parade, with around half a dozen cars parked on the pavement outside and a hand-lettered sign marking the door. It is a compact, street-level operation rather than an indoor showroom, with every car visible to passersby before they step inside.",
+      "Buyers can reach Eslam directly by phone or WhatsApp, or follow the dealership on Instagram to see what is currently on the pavement. Listings are also unusually specific about condition: on one Hyundai Creta, the seller noted exactly which two body panels had been repainted rather than simply describing the whole car as factory-original."
+    ],
+    "heroText": "One forecourt, one seller: every car at Zayed Auto is sold and driven personally by Eslam Zayed rather than passed between salespeople.",
     "gallery": [
       {
-        "image": "media/merc-c180.jpg",
-        "caption": "Mercedes-Benz C180 AMG"
+        "image": "media/merc-c180.jpg"
       },
       {
-        "image": "media/mini-countryman.jpg",
-        "caption": "MINI Cooper Countryman"
+        "image": "media/mini-countryman.jpg"
       },
       {
-        "image": "media/hyundai-creta.jpg",
-        "caption": "Hyundai Creta"
+        "image": "media/hyundai-creta.jpg"
       }
     ],
     "phone": "01156888848",
@@ -757,23 +759,24 @@
       "accent": "#a4142d"
     },
     "heroImage": "media/showroom.jpg",
-    "aboutText": "Mansy Automotive is a car showroom in Cairo, built around a gold fluted column that stands behind every car on the floor. The dealership publishes a detailed specification for each car it sells, including engine, power, torque, transmission and drivetrain, and carries marques including Mercedes-Benz, MG and CUPRA.",
+    "aboutParagraphs": [
+      "Mansy Automotive is a car showroom in Cairo carrying marques including Mercedes-Benz, MG and CUPRA, with cars on the floor including a Mercedes-Benz CLE 200, an MG GT, and two CUPRA models, the Leon and the Formentor. Every listing is built from hard figures alone: engine size, power, torque, transmission and drivetrain, rather than descriptive language.",
+      "Every car on the floor is photographed in the same showroom, in front of a gold fluted column that stands behind each one, and every interior shot includes the same red branded mat in the footwell. Outside, the cars sit under a plain white sign bearing the dealership's name in black capitals, with no strapline beneath it.",
+      "Buyers can reach the showroom by phone, through its Instagram and Facebook pages, or in person via the address on Maps. The consistency of the photography and the detail published for each car make it straightforward to compare one listing against another before a visit."
+    ],
+    "heroText": "Mansy Automotive's floor spans everything from a Mercedes-Benz CLE to a CUPRA Formentor offered across three different powertrains, mild hybrid, turbo petrol and plug-in hybrid, each one listed by the numbers rather than a sales pitch.",
     "gallery": [
       {
-        "image": "media/mercedes-cle-01.jpg",
-        "caption": "Mercedes-Benz CLE 200 Premium Plus"
+        "image": "media/mercedes-cle-01.jpg"
       },
       {
-        "image": "media/mg-gt-01.jpg",
-        "caption": "MG GT"
+        "image": "media/mg-gt-01.jpg"
       },
       {
-        "image": "media/cupra-leon-01.jpg",
-        "caption": "CUPRA Leon"
+        "image": "media/cupra-leon-01.jpg"
       },
       {
-        "image": "media/cupra-formentor-01.jpg",
-        "caption": "CUPRA Formentor"
+        "image": "media/cupra-formentor-01.jpg"
       }
     ],
     "phone": "01070002272 / 01080851915",
@@ -793,7 +796,12 @@
       "accent": "#f4121a"
     },
     "heroImage": null,
-    "aboutText": "A shop on Sayed Zakaria Street in Sheraton, Heliopolis, next to Al-Siddiq Mosque, selling new Chinese and European models on finance.",
+    "aboutParagraphs": [
+      "Motor Zone is a car dealership in Heliopolis selling new Chinese and European vehicles on finance. The dealership carries a mix of models, including SUVs and saloons, each offered with a stated deposit and monthly payment, along with the interest rate its financing plans start from.",
+      "The shop is on Sayed Zakaria Street in Sheraton, Heliopolis, next to Al-Siddiq Mosque in the Morabaa El-Wozara area. It is a straightforward storefront operation focused on new-vehicle sales rather than a large indoor showroom.",
+      "Buyers can reach the dealership by phone, or follow its Instagram and Facebook pages for current models and terms. Because each plan is published with clear deposit and monthly figures rather than a placeholder, it is straightforward to compare one model against another before visiting the shop."
+    ],
+    "heroText": "Motor Zone publishes exact deposit and monthly payment terms for each car it sells, a level of transparency most dealerships in Cairo leave to a phone call.",
     "gallery": [],
     "phone": "01271741111",
     "address": "Sayed Zakaria St, Sheraton, Morabaa El-Wozara, next to Al-Siddiq Mosque",
@@ -812,31 +820,30 @@
       "accent": "#b99065"
     },
     "heroImage": "media/rotunda.jpg",
-    "aboutText": "A showroom at Waslet Dahshour beside Cairo University, and a second at Beverly Hills. Run by Mahmoud Kosba since 1985, carrying marques including Mercedes-Benz, Porsche, BMW, Audi, Lamborghini and Toyota.",
+    "aboutParagraphs": [
+      "K.auto is a long-established car showroom run by Mahmoud Kosba, carrying marques that include Mercedes-Benz, Porsche, BMW, Audi, Lamborghini and Toyota. Recent cars on the floor have included a BMW X5 M60i and a Toyota Land Cruiser VXR.",
+      "The showroom operates from two addresses: Waslet Dahshour, beside Cairo University at Jumeirah Plaza Walk, and a second location at Beverly Hills, Gate 8 and 9, Mall 23. Cars are displayed on a circular dais under a domed ceiling, with a light running the rim of the floor, rather than parked in a conventional row.",
+      "Buyers can reach the showroom by phone at either address, or follow its Instagram and Facebook pages to see what is currently on the dais. The BMW X5 recently on the floor was listed with a detailed specification covering mileage, exterior and interior colour, engine and power output, supplied through the local agency."
+    ],
+    "heroText": "Two showroom addresses, at Waslet Dahshour and Beverly Hills, put K.auto's roster of marques within reach across both Cairo and Giza.",
     "gallery": [
       {
-        "image": "media/bmw-x5-01.jpg",
-        "caption": "BMW X5 M60i, front three-quarter"
+        "image": "media/bmw-x5-01.jpg"
       },
       {
-        "image": "media/bmw-x5-02.jpg",
-        "caption": "BMW X5 M60i, rear"
+        "image": "media/bmw-x5-02.jpg"
       },
       {
-        "image": "media/bmw-x5-03.jpg",
-        "caption": "BMW X5 M60i, interior"
+        "image": "media/bmw-x5-03.jpg"
       },
       {
-        "image": "media/land-cruiser-01.jpg",
-        "caption": "Toyota Land Cruiser VXR, front three-quarter"
+        "image": "media/land-cruiser-01.jpg"
       },
       {
-        "image": "media/land-cruiser-02.jpg",
-        "caption": "Toyota Land Cruiser VXR, rear"
+        "image": "media/land-cruiser-02.jpg"
       },
       {
-        "image": "media/land-cruiser-03.jpg",
-        "caption": "Toyota Land Cruiser VXR, rear seats"
+        "image": "media/land-cruiser-03.jpg"
       }
     ],
     "phone": "01113385553 / 01117581599",
@@ -856,47 +863,42 @@
       "accent": "#e9e7e2"
     },
     "heroImage": "media/e200-1.jpg",
-    "aboutText": "Our goal is to provide the market with the best & lowest prices for Brand-New & Pre-Owned Vehicles.",
+    "aboutParagraphs": [
+      "Auto Hub is a car dealership in Heliopolis selling brand-new and pre-owned vehicles, with stock spanning marques including Mercedes-Benz, BMW, Audi, SEAT, Skoda, MG and Renault. German saloons on the lot are often labelled by their factory chassis code, such as W205 or G30, the same shorthand a workshop or owner would use rather than a sales floor.",
+      "The dealership is at 64 Nehru Street, off Al Sebaq Street, behind Merryland Park in Heliopolis, Cairo. Cars are typically photographed from multiple angles before being listed, giving buyers a clear view of each one ahead of a visit.",
+      "Buyers can reach the dealership by phone or email, or follow its Instagram and Facebook pages to see current stock and what has already sold. Instalment financing is advertised across the range, appearing consistently throughout the dealership's posts."
+    ],
+    "heroText": "Auto Hub keeps its full sales history visible, marking each car sold rather than removing the listing, so buyers can see exactly what has moved through the door.",
     "gallery": [
       {
-        "image": "media/c180-1.jpg",
-        "caption": "Mercedes C180 Avantgarde"
+        "image": "media/c180-1.jpg"
       },
       {
-        "image": "media/520i-1.jpg",
-        "caption": "BMW 520i"
+        "image": "media/520i-1.jpg"
       },
       {
-        "image": "media/520-1.jpg",
-        "caption": "BMW 520"
+        "image": "media/520-1.jpg"
       },
       {
-        "image": "media/e200-1.jpg",
-        "caption": "Mercedes E200 Sport / Avantgarde"
+        "image": "media/e200-1.jpg"
       },
       {
-        "image": "media/leon-1.jpg",
-        "caption": "SEAT Leon FR"
+        "image": "media/leon-1.jpg"
       },
       {
-        "image": "media/rx5-1.jpg",
-        "caption": "MG RX5 Luxury"
+        "image": "media/rx5-1.jpg"
       },
       {
-        "image": "media/cla-1.jpg",
-        "caption": "Mercedes CLA Luxury"
+        "image": "media/cla-1.jpg"
       },
       {
-        "image": "media/sandero-1.jpg",
-        "caption": "Renault Sandero"
+        "image": "media/sandero-1.jpg"
       },
       {
-        "image": "media/karoq-1.jpg",
-        "caption": "Skoda Karoq"
+        "image": "media/karoq-1.jpg"
       },
       {
-        "image": "media/a5-1.jpg",
-        "caption": "Audi A5 S-Line"
+        "image": "media/a5-1.jpg"
       }
     ],
     "phone": "01226515617",
@@ -916,47 +918,42 @@
       "accent": "#c79a3e"
     },
     "heroImage": "media/brabus-1.jpg",
-    "aboutText": "Teacher Motors is the Fastest Growing Automotive Lending Centre in Egypt. We have thousands of new and used vehicles for you to choose from!",
+    "aboutParagraphs": [
+      "Teacher Motors is an automotive lending centre and dealership based on the Cairo-Alexandria Desert Road in Sheikh Zayed, Giza. Recent stock has ranged from a Rolls-Royce Cullinan and a Brabus 930 to a Jeep Grand Cherokee, a Mercedes-Benz GLE 450 and a Chevrolet Silverado, spanning everyday SUVs to some of the most exclusive names on the road.",
+      "The dealership fields a large bank of phone lines rather than a single number, so buyers calling in are rarely left waiting for someone to pick up. It also maintains its own website alongside active Instagram and Facebook pages, giving buyers several ways to check current stock before calling.",
+      "Instalment financing is available across the range, and several listings include real performance figures such as power, torque and acceleration for cars sold on their specification rather than on financing terms alone. Buyers can reach Teacher Motors by phone, email or through its Instagram and Facebook pages to see what is currently in stock."
+    ],
+    "heroText": "From Rolls-Royce and Brabus to Porsche and Tesla, Teacher Motors backs an unusually wide span of new and used vehicles with instalment financing options.",
     "gallery": [
       {
-        "image": "media/brabus-1.jpg",
-        "caption": "Brabus 930"
+        "image": "media/brabus-1.jpg"
       },
       {
-        "image": "media/cullinan-1.jpg",
-        "caption": "Rolls-Royce Cullinan"
+        "image": "media/cullinan-1.jpg"
       },
       {
-        "image": "media/boxster-1.jpg",
-        "caption": "Porsche 718 Boxster"
+        "image": "media/boxster-1.jpg"
       },
       {
-        "image": "media/gle450-1.jpg",
-        "caption": "Mercedes-Benz GLE 450"
+        "image": "media/gle450-1.jpg"
       },
       {
-        "image": "media/cherokee-1.jpg",
-        "caption": "Jeep Grand Cherokee"
+        "image": "media/cherokee-1.jpg"
       },
       {
-        "image": "media/cla200-1.jpg",
-        "caption": "Mercedes-Benz CLA 200 AMG"
+        "image": "media/cla200-1.jpg"
       },
       {
-        "image": "media/silverado-1.jpg",
-        "caption": "Chevrolet Silverado"
+        "image": "media/silverado-1.jpg"
       },
       {
-        "image": "media/modelx-1.jpg",
-        "caption": "Tesla Model X Plaid"
+        "image": "media/modelx-1.jpg"
       },
       {
-        "image": "media/velar-zero-1.jpg",
-        "caption": "Range Rover Velar Zero"
+        "image": "media/velar-zero-1.jpg"
       },
       {
-        "image": "media/velar-1.jpg",
-        "caption": "Range Rover Velar"
+        "image": "media/velar-1.jpg"
       }
     ],
     "phone": "01148924070 / 01061037530 / 01004759207 / 01127854453 / 01092762502 / 01011399095",
@@ -976,39 +973,36 @@
       "accent": "#dd7057"
     },
     "heroImage": "media/ibiza-1.jpg",
-    "aboutText": "Melegy Auto runs a showroom in Nasr City and a second in Ismailia, selling used and nearly-new cars. Instalment financing is available through banks and finance companies.",
+    "aboutParagraphs": [
+      "Melegy Auto is a car dealership selling used and nearly-new vehicles, with recent stock including a SEAT Ibiza, a Peugeot 508, a Fiat 500X, a Nissan Qashqai and a Mercedes-Benz C180, among others.",
+      "The dealership operates two showrooms: one in Nasr City, on Mehwar El Shaheed, and a second in Ismailia, at Fox Square, Ard El Gam3iyat. Both branches keep the same hours, open six days a week from midday until 1am.",
+      "Every available car is listed against the same set of details: year, trim, whether the paintwork is entirely factory-original, mileage, service history and licence status, with a full equipment list included. Instalment financing is available through banks and finance companies, and buyers can reach either branch by phone or through the dealership's Instagram and Facebook pages."
+    ],
+    "heroText": "Every available car at Melegy Auto is listed against the same fixed checklist, so buyers can compare condition and history in the same terms from one listing to the next.",
     "gallery": [
       {
-        "image": "media/ibiza-1.jpg",
-        "caption": "SEAT Ibiza"
+        "image": "media/ibiza-1.jpg"
       },
       {
-        "image": "media/508-1.jpg",
-        "caption": "Peugeot 508"
+        "image": "media/508-1.jpg"
       },
       {
-        "image": "media/500x-1.jpg",
-        "caption": "Fiat 500X"
+        "image": "media/500x-1.jpg"
       },
       {
-        "image": "media/tiggo8-av-1.jpg",
-        "caption": "Chery Tiggo 8"
+        "image": "media/tiggo8-av-1.jpg"
       },
       {
-        "image": "media/tiggo8-sold-1.jpg",
-        "caption": "Chery Tiggo 8"
+        "image": "media/tiggo8-sold-1.jpg"
       },
       {
-        "image": "media/qashqai-1.jpg",
-        "caption": "Nissan Qashqai"
+        "image": "media/qashqai-1.jpg"
       },
       {
-        "image": "media/c180-1.jpg",
-        "caption": "Mercedes-Benz C180"
+        "image": "media/c180-1.jpg"
       },
       {
-        "image": "media/tiggo3-1.jpg",
-        "caption": "Chery Tiggo 3"
+        "image": "media/tiggo3-1.jpg"
       }
     ],
     "phone": "01227174125 / 01270000169 / 01271578303",
