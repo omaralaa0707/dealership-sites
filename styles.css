@@ -34,6 +34,7 @@ a {
   min-height: 100svh;
   display: flex;
   align-items: flex-end;
+  background-color: var(--background);
   background-size: cover;
   background-position: center;
   padding: 6vw 6vw 8vw;
@@ -139,7 +140,7 @@ main {
   font-weight: 500;
   text-decoration: none;
   font-size: 0.9rem;
-  border: 1px solid color-mix(in srgb, var(--ink) 35%, transparent);
+  border: 1px solid var(--ink);
 }
 
 .site-footer {
@@ -163,7 +164,7 @@ main {
   html {
     scroll-behavior: auto;
   }
-  .reveal {
+  .js .reveal {
     opacity: 1;
     transform: none;
     transition: none;
