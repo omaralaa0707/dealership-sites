@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "one-of-one",
+    "dealerName": "One of One Automotive",
+    "tagline": "Cairo's finest selection of luxury & sports cars",
+    "logo": null,
+    "palette": { "background": "#08080a", "ink": "#edeae4", "accent": "#c08a4e" },
+    "heroImage": "media/car-02.webp",
+    "aboutText": "We hand-pick every car that enters the showroom.",
+    "gallery": [
+      { "image": "media/car-11.webp", "caption": "Mercedes-Benz" },
+      { "image": "media/car-07.webp", "caption": "Porsche" }
+    ],
+    "phone": "010 0055 8557",
+    "address": "151 El Sayed El Merghany, Almazah, Heliopolis, Cairo",
+    "instagram": "https://www.instagram.com/oneofone.automotive/",
+    "facebook": "https://www.facebook.com/oneofonecars/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=One+of+One"
+  },
+  {
+    "slug": "el-basma-motors",
+    "dealerName": "El Basma Motors",
+    "tagline": "New Damietta and Cairo",
+    "logo": null,
+    "palette": { "background": "#93A5B4", "ink": "#14181C", "accent": "#C97A32" },
+    "heroImage": "media/tiguan-2023-1.jpg",
+    "aboutText": "A showroom for used SUVs from Volkswagen, Toyota, Kia, Skoda and Hyundai.",
+    "gallery": [
+      { "image": "media/fortuner-1.jpg", "caption": "Toyota Fortuner" }
+    ],
+    "phone": null,
+    "address": null,
+    "instagram": null,
+    "facebook": null,
+    "maps": null
+  }
+]
