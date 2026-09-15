@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir, cp, rm } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 import { validateDealer, DealerValidationError } from "../lib/validate-dealer.mjs";
 import { meetsAA, pickReadableText } from "../lib/contrast.mjs";
 import { renderTemplate } from "./render.mjs";
@@ -16,6 +16,14 @@ export function checkPaletteContrast(dealer) {
       "palette.ink on palette.background fails WCAG AA"
     );
   }
+
+  const accentText = pickReadableText(dealer.palette.accent);
+  if (!meetsAA(accentText, dealer.palette.accent, true)) {
+    throw new DealerValidationError(
+      dealer.slug,
+      "accent color has no readable text option (neither black nor white passes AA against it)"
+    );
+  }
 }
 
 export function buildDealerView(dealer) {
@@ -28,6 +36,7 @@ export function buildDealerView(dealer) {
     hasFacebook: dealer.facebook !== null && dealer.facebook !== undefined,
     hasMaps: dealer.maps !== null && dealer.maps !== undefined,
     accentText: pickReadableText(dealer.palette.accent),
+    currentYear: new Date().getFullYear(),
   };
 }
 
@@ -59,14 +68,17 @@ export async function buildSite({ dataPath, templatePath, outDir, mediaSourceRoo
   return dealers.map((dealer) => dealer.slug);
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   buildSite({
     dataPath: path.join(ROOT, "data", "dealers.json"),
     templatePath: path.join(ROOT, "template.html"),
-    outDir: path.join(ROOT, "sites"),
+    outDir: path.join(ROOT, "dist", "sites"),
     mediaSourceRoot: path.join(ROOT, "media"),
   })
-    .then((slugs) => {
+    .then(async (slugs) => {
+      for (const file of ["index.html", "styles.css", "script.js"]) {
+        await cp(path.join(ROOT, file), path.join(ROOT, "dist", file));
+      }
       console.log(`Built ${slugs.length} site(s).`);
     })
     .catch((err) => {
