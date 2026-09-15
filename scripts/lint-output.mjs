@@ -3,7 +3,7 @@ import path from "node:path";
 
 const FORBIDDEN_PATTERNS = [
   { name: "em dash", pattern: /—/ },
-  { name: "Arabic script", pattern: /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-﻿]/ },
+  { name: "Arabic script", pattern: /[؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-ﻼ]/ },
   { name: "Claude/Anthropic mention", pattern: /claude|anthropic/i },
   {
     name: "disclaimer language",
@@ -48,7 +48,7 @@ export async function lintSite(sitesDir) {
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const sitesDir = path.resolve(process.argv[2] || "sites");
+  const sitesDir = path.resolve(process.argv[2] || "dist/sites");
   lintSite(sitesDir)
     .then((problems) => {
       if (problems.length === 0) {

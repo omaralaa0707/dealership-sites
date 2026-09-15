@@ -68,7 +68,7 @@ export async function buildSite({ dataPath, templatePath, outDir, mediaSourceRoo
   return dealers.map((dealer) => dealer.slug);
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) {
+if (import.meta.url === (process.argv[1] && pathToFileURL(process.argv[1]).href)) {
   buildSite({
     dataPath: path.join(ROOT, "data", "dealers.json"),
     templatePath: path.join(ROOT, "template.html"),

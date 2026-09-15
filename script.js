@@ -1,4 +1,6 @@
-document.documentElement.classList.add("js");
+// document.documentElement.classList.add("js") now runs inline in
+// template.html's <head>, before first paint, to avoid a flash of
+// hidden-then-visible content on slow connections.
 
 (function revealOnScroll() {
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
