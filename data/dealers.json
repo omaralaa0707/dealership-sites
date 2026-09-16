@@ -1669,19 +1669,21 @@
       "accent": "#ed1a3b"
     },
     "heroImage": "media/hero-sportage.jpg",
-    "aboutText": "El Rawas Motors is an authorized distributor of Peugeot, MG and Opel in Egypt, with branches in Madinaty, the Fifth Settlement, Ramsis Street in Qasr El Nil, and Hoda Shaarawy Street in Downtown Cairo.",
+    "aboutParagraphs": [
+      "El Rawas Motors is an authorized distributor in Egypt for Peugeot, MG and Opel, and its published lineup also names Soueast. Cars such as the Peugeot 408 Facelift, the MG RX9, the Opel Frontera and the Soueast S08 DM give a sense of the range: family saloons, compact crossovers and larger SUVs from mainstream European and Asian marques rather than a narrow specialist selection.",
+      "The dealership operates four branches across Cairo, so buyers rarely have to cross the city to reach one. There is a showroom in Madinaty, another in the Fifth Settlement, one on Ramsis Street in Qasr El Nil, and one on Hoda Shaarawy Street in Downtown Cairo, with the flagship pinned on Maps for anyone making the trip.",
+      "Buying does not have to mean paying in full on the day. Instalment structures have been published for individual cars, the Kia Sportage among them, pairing a deposit up front with the balance spread over a fixed term. A national hotline and a Cairo landline both reach the sales side directly."
+    ],
+    "heroText": "Beyond the marques it distributes, the floor has also carried Kia, Nissan, Smart and Kaiyi cars.",
     "gallery": [
       {
-        "image": "media/event-poster.jpg",
-        "caption": "Auto Center Point exhibition poster, six marques"
+        "image": "media/event-poster.jpg"
       },
       {
-        "image": "media/port-said.jpg",
-        "caption": "El Rawas Motors"
+        "image": "media/port-said.jpg"
       },
       {
-        "image": "media/sportage-financing.jpg",
-        "caption": "Kia Sportage"
+        "image": "media/sportage-financing.jpg"
       }
     ],
     "phone": "19618 / 02 25783302",
@@ -1701,27 +1703,27 @@
       "accent": "#e63328"
     },
     "heroImage": "media/bmw740.jpg",
-    "aboutText": "Elite Auto is more than just a top-notch Class A auto showroom. We are further keen on providing you with various valuable car purchasing options, including trading, installment & exchanging your old vehicle with more flexible terms and less time wasted.",
+    "aboutParagraphs": [
+      "Elite Auto is a Class A showroom in New Cairo dealing in premium European cars. German marques dominate what it offers, with Mercedes-Benz, BMW and Audi across saloons, convertibles and SUVs, and Alfa Romeo bringing an Italian counterpoint. Both pre-owned imports and brand-new cars sit on the same floor.",
+      "The showroom is on El-Tesin El-Ganouby Street, beside the Dusit Thani hotel in New Cairo, and it is pinned on Maps. Cars are kept and photographed indoors, on a polished floor against a dark wall lit in gold, which is how visitors see them rather than on an open forecourt.",
+      "By its own description, Elite Auto is more than a showroom: it is geared toward flexible ways of buying, including trade-ins, instalments and taking a customer's existing car in exchange, with the aim of less time lost to paperwork. Individual pre-owned listings carry their own condition notes as well, such as the Alfa Romeo Stelvio Q4, described as full original body paint with all maintenance done."
+    ],
+    "heroText": "Every car is listed with its engine capacity, power output, colour combination and country of origin, so the basics are on the table before you call.",
     "gallery": [
       {
-        "image": "media/c200.jpg",
-        "caption": "Mercedes C200 Convertible"
+        "image": "media/c200.jpg"
       },
       {
-        "image": "media/c180.jpg",
-        "caption": "Mercedes C180 Avantgarde Plus"
+        "image": "media/c180.jpg"
       },
       {
-        "image": "media/a5.jpg",
-        "caption": "Audi A5 (all-new)"
+        "image": "media/a5.jpg"
       },
       {
-        "image": "media/stelvio.jpg",
-        "caption": "Alfa Romeo Stelvio Q4"
+        "image": "media/stelvio.jpg"
       },
       {
-        "image": "media/glc.jpg",
-        "caption": "Mercedes GLC 300 AMG 4Matic"
+        "image": "media/glc.jpg"
       }
     ],
     "phone": "01224242084",
@@ -1741,39 +1743,36 @@
       "accent": "#e1ba5f"
     },
     "heroImage": "media/e200.jpg",
-    "aboutText": "East Gate Auto is a luxury vehicle dealership with showrooms in Al-Rehab and Madinaty, New Cairo, offering Mercedes-Benz, Range Rover and ROX vehicles available for reservation, on the floor now, or pre-owned.",
+    "aboutParagraphs": [
+      "East Gate Auto is a luxury and multi-brand dealership in New Cairo. Mercedes-Benz makes up the bulk of what it offers, from compact saloons and coupes through to the GLB, GLC and E-Class families and AMG variants, and it also handles Range Rover and the newer ROX marque alongside them.",
+      "It trades from two branches, both at Chillout stations on the eastern side of Cairo: one in Al-Rehab 2 opposite Gate 20 at Building No. 4, and one in Madinaty, in the Chillout Madinaty Extension beside Gate 1. The Al-Rehab storefront is easy to recognise, with gunmetal cladding, the gold EG mark above the glass, and a candy-striped floodlight mast standing on the forecourt.",
+      "Every car is filed under one of three states, and the dealership keeps them strictly apart. A car is either available for reservation, meaning it is configured and ordered in rather than standing on the floor, available now as ready stock, or pre-owned. A buyer therefore knows where a given car actually stands before making the trip."
+    ],
+    "heroText": "The team works in both Arabic and English, and a single number reaches the dealership for either branch.",
     "gallery": [
       {
-        "image": "media/c200-2027.jpg",
-        "caption": "Mercedes-Benz C200 2027"
+        "image": "media/c200-2027.jpg"
       },
       {
-        "image": "media/glc300-2027.jpg",
-        "caption": "Mercedes-Benz GLC 300 2027"
+        "image": "media/glc300-2027.jpg"
       },
       {
-        "image": "media/cla200-2.jpg",
-        "caption": "Mercedes-Benz CLA 200 2027"
+        "image": "media/cla200-2.jpg"
       },
       {
-        "image": "media/rox.jpg",
-        "caption": "ROX Adamas 2026"
+        "image": "media/rox.jpg"
       },
       {
-        "image": "media/glc200-imsa.jpg",
-        "caption": "Mercedes-Benz GLC 200 AMG IMSA Edition"
+        "image": "media/glc200-imsa.jpg"
       },
       {
-        "image": "media/glc43-1.jpg",
-        "caption": "Mercedes-Benz GLC 43 AMG 2026"
+        "image": "media/glc43-1.jpg"
       },
       {
-        "image": "media/glb200.jpg",
-        "caption": "Mercedes-Benz GLB 200"
+        "image": "media/glb200.jpg"
       },
       {
-        "image": "media/rangerover.jpg",
-        "caption": "Range Rover Sport P400e 2022"
+        "image": "media/rangerover.jpg"
       }
     ],
     "phone": "01013037777",
@@ -1793,39 +1792,36 @@
       "accent": "#E8C878"
     },
     "heroImage": "media/sl63-1.jpg",
-    "aboutText": "Bespoke Automotive sells high-end cars out of a single room in C-Park Mall, on South 90 Street in the Fifth Settlement, New Cairo. The showroom carries a rotating selection of German performance marques, including BMW, Porsche and Mercedes-AMG, each presented with a full specification covering engine, power, torque and transmission.",
+    "aboutParagraphs": [
+      "Bespoke Automotive is a luxury car dealership, in its own words shaping unparalleled experience in the world of high-end automobiles. What it offers is tightly focused: German performance machinery from three marques, BMW, Porsche and Mercedes-AMG, running from M saloons and cabriolets through GT3 sports cars to AMG roadsters and SUVs.",
+      "It works from a single room in C-Park Mall, on South 90 Street in the Fifth Settlement, New Cairo. The room is a set piece in itself: black vertically fluted wall panels, a pale polished tile floor, an illuminated Bespoke Automotive sign, and long linear LED bars suspended at crossing angles overhead, which lay warm gold streaks down the flank of every car beneath them.",
+      "Cars are presented with their full specification rather than a headline figure: engine capacity and cylinder layout, power, torque, acceleration, aspiration, transmission, top speed and fuel tank capacity, and then an itemised run of interior and infotainment equipment. A bank of sales lines takes enquiries, so a caller is not queued behind one number."
+    ],
+    "heroText": "Its cars are photographed by an outside studio, AMA Creative Studio, whose credit sits on each image beside the dealership's own mark.",
     "gallery": [
       {
-        "image": "media/m3-competition-1.jpg",
-        "caption": "BMW M3 Competition, Skyscraper Grey"
+        "image": "media/m3-competition-1.jpg"
       },
       {
-        "image": "media/gt3-natoo-olive-2.jpg",
-        "caption": "Porsche 911 GT3, Natoo Olive Green"
+        "image": "media/gt3-natoo-olive-2.jpg"
       },
       {
-        "image": "media/gt3-oak-green-1.jpg",
-        "caption": "Porsche 911 GT3, Oak Green"
+        "image": "media/gt3-oak-green-1.jpg"
       },
       {
-        "image": "media/m4-cabriolet-3.jpg",
-        "caption": "BMW M4 Competition Cabriolet, Toronto Red"
+        "image": "media/m4-cabriolet-3.jpg"
       },
       {
-        "image": "media/sl63-2.jpg",
-        "caption": "Mercedes-AMG SL 63, Obsidian Black"
+        "image": "media/sl63-2.jpg"
       },
       {
-        "image": "media/glc43-4.jpg",
-        "caption": "Mercedes-AMG GLC 43"
+        "image": "media/glc43-4.jpg"
       },
       {
-        "image": "media/m-town-1.jpg",
-        "caption": "BMW M performance cars"
+        "image": "media/m-town-1.jpg"
       },
       {
-        "image": "media/m-town-5.jpg",
-        "caption": "Bespoke Automotive showroom signage"
+        "image": "media/m-town-5.jpg"
       }
     ],
     "phone": "01000979097 / 01001616989 / 01008298401 / 01018000507 / 01028190608 / 01030067421 / 01050776633 / 01061460610 / 01113119902 / 01147331022 / 01055777708",
@@ -1845,15 +1841,18 @@
       "accent": "#C99A62"
     },
     "heroImage": "media/frontage-wide.jpg",
-    "aboutText": "GBR Auto is a car showroom at District 90 Mall, on 90th Street in New Cairo. They deal in Mercedes-Benz and other premium marques, including electric models.",
+    "aboutParagraphs": [
+      "GBR Auto is a car showroom in New Cairo dealing in Mercedes-Benz and other premium marques, electric models included. It keeps its remit plain: premium cars, sold from one floor, without a long list of side businesses attached.",
+      "The showroom sits at District 90 Mall, on 90th Street in the North Teseen district of New Cairo, and it is pinned on Maps for anyone making the trip. It is a straightforward drive-up location rather than a unit tucked away on an industrial road.",
+      "The approach to buying is equally direct. There is a single sales line to call ahead on, and visitors are welcome to come and look over the cars in person before any conversation about a deal begins."
+    ],
+    "heroText": "Its frontage stays lit after dark, with cars drawn up along the forecourt in front of the showroom entrance.",
     "gallery": [
       {
-        "image": "media/frontage-wide.jpg",
-        "caption": "GBR Auto showroom frontage, New Cairo"
+        "image": "media/frontage-wide.jpg"
       },
       {
-        "image": "media/cover-render.jpg",
-        "caption": "GBR Auto brand artwork"
+        "image": "media/cover-render.jpg"
       }
     ],
     "phone": "01222278858",
@@ -1873,47 +1872,42 @@
       "accent": "#E4D2A8"
     },
     "heroImage": "media/saadany-front-1.jpg",
-    "aboutText": "El Saadany Motors is based in Alexandria, trading from two shopfronts: one lettered ElSaadany Motors, the other Trendy Motors. The showrooms carry saloons and SUVs, including Mercedes-Benz, Hyundai and Audi models.",
+    "aboutParagraphs": [
+      "El Saadany Motors is a car dealer based in Alexandria, working in saloons and SUVs from established marques. Mercedes-Benz saloons, the Hyundai Tucson and the Audi Q3 are among the cars it has offered, which places it in the mainstream premium bracket rather than the exotic end of the market.",
+      "It trades from two shopfronts rather than one. The first sits under a dark arched fascia lettered ElSaadany Motors in a light serif, lit from above after dark. The second is a pale travertine arch carrying a black and orange board reading Trendy Motors, with an orange car silhouette cut into it. Both put a car directly under the arch, at street level, where passers-by meet it first.",
+      "The cars themselves are shown plainly and at close range: front and rear, from more than one angle, and the cabin through an open driver's door. A buyer sees the actual car standing on the street, in daylight, rather than a manufacturer photograph standing in for it."
+    ],
+    "heroText": "Compact premium SUVs feature strongly in what it carries, the Audi Q3 most of all.",
     "gallery": [
       {
-        "image": "media/saadany-front-1.jpg",
-        "caption": "Mercedes-Benz saloon and a Hyundai Tucson, side by side"
+        "image": "media/saadany-front-1.jpg"
       },
       {
-        "image": "media/saadany-front-2.jpg",
-        "caption": "Mercedes-Benz saloon and Hyundai Tucson, under the ElSaadany Motors sign"
+        "image": "media/saadany-front-2.jpg"
       },
       {
-        "image": "media/q3-detail.jpg",
-        "caption": "Audi Q3, street level"
+        "image": "media/q3-detail.jpg"
       },
       {
-        "image": "media/trendy-front-1.jpg",
-        "caption": "Audi Q3, Trendy Motors frontage, three-quarter, grey car alongside"
+        "image": "media/trendy-front-1.jpg"
       },
       {
-        "image": "media/q3-rear-1.jpg",
-        "caption": "Audi Q3, rear"
+        "image": "media/q3-rear-1.jpg"
       },
       {
-        "image": "media/q3-rear-2.jpg",
-        "caption": "Audi Q3, rear three-quarter"
+        "image": "media/q3-rear-2.jpg"
       },
       {
-        "image": "media/trendy-front-2.jpg",
-        "caption": "Audi Q3, Trendy Motors frontage, three-quarter, red car alongside"
+        "image": "media/trendy-front-2.jpg"
       },
       {
-        "image": "media/trendy-front-3.jpg",
-        "caption": "Audi Q3, Trendy Motors frontage, straight-on, El Saadany Motors placard on the grille"
+        "image": "media/trendy-front-3.jpg"
       },
       {
-        "image": "media/q3-grey.jpg",
-        "caption": "Audi Q3, grey"
+        "image": "media/q3-grey.jpg"
       },
       {
-        "image": "media/q3-interior.jpg",
-        "caption": "Audi Q3, khaki"
+        "image": "media/q3-interior.jpg"
       }
     ],
     "phone": null,
@@ -1933,31 +1927,30 @@
       "accent": "#C9A227"
     },
     "heroImage": "media/ferrari-f8-1.jpg",
-    "aboutText": "Golden Auto is a showroom in Heliopolis, presenting cars on a circular patterned floor under lit columns. The floor carries luxury and exotic marques, including Ferrari, Lamborghini, Bentley, Mercedes-Benz, BMW and Audi.",
+    "aboutParagraphs": [
+      "Golden Auto deals in luxury and exotic cars in Cairo. Ferrari, Lamborghini, Bentley, Mercedes-Benz, BMW and Audi have all stood on its floor, and the wider list of marques it advertises adds Rolls-Royce, Range Rover, Jaguar, Jeep and Ford.",
+      "Everything is sold from one room in Heliopolis, at 30 Al Andalos Street in Misr El-Gedida. The space is built for display: a circular patterned floor, columns lit from below, and the same walls behind every car, so each one is seen under identical light rather than in a yard.",
+      "The dealership is precise about where a car has come from and what has been done to it. It distinguishes cars imported through the marque's authorised agent in Egypt from other routes, publishes the odometer reading on pre-owned cars, and notes where the paintwork carries full body protection. Individual listings add their own terms, such as the Audi Q8 S-Line Plus, which is stated to carry a local warranty valid in Egypt."
+    ],
+    "heroText": "Each car comes with its own specification set out in full: engine, power, torque, transmission, acceleration and wheels.",
     "gallery": [
       {
-        "image": "media/ferrari-f8-1.jpg",
-        "caption": "Ferrari F8 Spider"
+        "image": "media/ferrari-f8-1.jpg"
       },
       {
-        "image": "media/urus-1.jpg",
-        "caption": "Lamborghini Urus Capsule"
+        "image": "media/urus-1.jpg"
       },
       {
-        "image": "media/bentley-1.jpg",
-        "caption": "Bentley Flying Continental GT W12"
+        "image": "media/bentley-1.jpg"
       },
       {
-        "image": "media/gls580-1.jpg",
-        "caption": "Mercedes GLS 580 AMG"
+        "image": "media/gls580-1.jpg"
       },
       {
-        "image": "media/m850i-1.jpg",
-        "caption": "BMW M850I Convertible XDrive"
+        "image": "media/m850i-1.jpg"
       },
       {
-        "image": "media/audi-q8-1.jpg",
-        "caption": "Audi Q8 S-Line Plus"
+        "image": "media/audi-q8-1.jpg"
       }
     ],
     "phone": "01111988931 / 01112107676",
@@ -1977,43 +1970,39 @@
       "accent": "#C9A24B"
     },
     "heroImage": "media/kodiaq-1.jpg",
-    "aboutText": "AM Automotive sells out of a showroom in Heliopolis, inside Chillout Auto Service, opposite the Military Academy at Gate 7. The floor carries both new and used vehicles, including Mercedes-Benz, BMW, Nissan and Skoda models.",
+    "aboutParagraphs": [
+      "AM Automotive deals in used and brand-new premium cars in Cairo. Mercedes-Benz and BMW make up most of what it carries, from saloons and coupes to the X5 and X6, and Nissan and Skoda appear alongside them. The badges on its own shopfront banner add Audi, Porsche and Land Rover to the list.",
+      "The showroom is housed unusually: rather than taking its own street frontage, it sits inside Chillout Auto Service, a working car service centre in Heliopolis opposite the Military Academy at Gate 7. It is registered as its own place on Maps, and cars are photographed where they stand, in a building set up for mechanical work rather than for display.",
+      "Its listings are built around disclosure rather than atmosphere. Every car is published with its odometer reading, whatever that figure happens to be, and the notes beside it say what the car has had done: original factory paintwork with no panel resprayed, servicing carried out at the marque's authorised agent in Egypt, scheduled service up to date, or a fresh set of tyres. Three sales lines take enquiries."
+    ],
+    "heroText": "The floor deliberately spans both ends of the market, from older, well-travelled saloons to barely run-in SUVs, with no attempt to sort them into separate lanes.",
     "gallery": [
       {
-        "image": "media/s500-1.jpg",
-        "caption": "Mercedes-Benz S500"
+        "image": "media/s500-1.jpg"
       },
       {
-        "image": "media/e200-1.jpg",
-        "caption": "Mercedes-Benz E200 Avantgarde"
+        "image": "media/e200-1.jpg"
       },
       {
-        "image": "media/cla180-1.jpg",
-        "caption": "Mercedes-Benz CLA 180 Urban"
+        "image": "media/cla180-1.jpg"
       },
       {
-        "image": "media/x5-1.jpg",
-        "caption": "BMW X5"
+        "image": "media/x5-1.jpg"
       },
       {
-        "image": "media/x6-1.jpg",
-        "caption": "BMW X6 M Sport"
+        "image": "media/x6-1.jpg"
       },
       {
-        "image": "media/bmw320i-1.jpg",
-        "caption": "BMW 320i"
+        "image": "media/bmw320i-1.jpg"
       },
       {
-        "image": "media/c200-1.jpg",
-        "caption": "Mercedes-Benz C200"
+        "image": "media/c200-1.jpg"
       },
       {
-        "image": "media/rogue-1.jpg",
-        "caption": "Nissan Rogue S"
+        "image": "media/rogue-1.jpg"
       },
       {
-        "image": "media/kodiaq-1.jpg",
-        "caption": "Skoda Kodiaq Sport Line"
+        "image": "media/kodiaq-1.jpg"
       }
     ],
     "phone": "01100449583 / 01025977046 / 01112115862",
@@ -2033,39 +2022,36 @@
       "accent": "#2FA8AB"
     },
     "heroImage": "media/wraith-1.jpg",
-    "aboutText": "Auto Garage is a showroom in New Cairo, carrying luxury and premium SUVs, including Rolls-Royce, Range Rover, Lamborghini, Maserati, BMW, Mercedes-Benz, MINI and Chery models. The current stock list is available on request by direct message.",
+    "aboutParagraphs": [
+      "Auto Garage calls itself the home of luxury SUVs, and it deals in luxury and premium cars in New Cairo. Rolls-Royce, Range Rover, Lamborghini, Maserati, BMW, Mercedes-Benz, MINI and Chery have all passed across its forecourt, a range that runs from a V12 coupe to a full-option family SUV without changing register in between.",
+      "It trades from an open forecourt in New Cairo rather than a lit showroom: a sandy block wall behind the cars, hard daylight, and each car shot where it stands. The location is published as a map pin, so visitors navigate straight to the point on the ground.",
+      "Stock is handled by conversation rather than catalogue. The dealership does not publish a running inventory; it sends the current list of available models to anyone who messages it, which suits a forecourt where cars move quickly. Each car it does show is written up with its own specification: engine, transmission, lighting, instrument cluster, cabin trim and the options fitted."
+    ],
+    "heroText": "Cabin trim gets as much attention here as bodywork, with interiors named down to the leather: turquoise, caraway cream and Giallo Auge yellow among them.",
     "gallery": [
       {
-        "image": "media/wraith-1.jpg",
-        "caption": "Rolls-Royce Wraith Black Badge"
+        "image": "media/wraith-1.jpg"
       },
       {
-        "image": "media/vogue-sv-1.jpg",
-        "caption": "Range Rover Vogue SV"
+        "image": "media/vogue-sv-1.jpg"
       },
       {
-        "image": "media/urus-1.jpg",
-        "caption": "Lamborghini Urus"
+        "image": "media/urus-1.jpg"
       },
       {
-        "image": "media/granturismo-1.jpg",
-        "caption": "Maserati GranTurismo"
+        "image": "media/granturismo-1.jpg"
       },
       {
-        "image": "media/bmw520-1.jpg",
-        "caption": "BMW 520, 2023 exterior kit"
+        "image": "media/bmw520-1.jpg"
       },
       {
-        "image": "media/gla180-1.jpg",
-        "caption": "Mercedes-Benz GLA 180"
+        "image": "media/gla180-1.jpg"
       },
       {
-        "image": "media/mini-jcw-1.jpg",
-        "caption": "MINI Cooper, John Cooper Works kit"
+        "image": "media/mini-jcw-1.jpg"
       },
       {
-        "image": "media/tiggo8-1.jpg",
-        "caption": "Chery Tiggo 8 Pro Max"
+        "image": "media/tiggo8-1.jpg"
       }
     ],
     "phone": null,
