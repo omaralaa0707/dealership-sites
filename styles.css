@@ -15,6 +15,15 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.ambient-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
 h1, h2 {
   font-family: "Manrope", system-ui, sans-serif;
 }
@@ -37,10 +46,13 @@ a {
   justify-content: space-between;
   gap: 1.5rem;
   padding: 1.1rem 6vw;
-  background: color-mix(in srgb, var(--background) 88%, transparent);
-  backdrop-filter: blur(10px);
-  border-bottom: 1px solid color-mix(in srgb, var(--ink) 12%, transparent);
-  box-shadow: 0 12px 30px -18px color-mix(in srgb, var(--ink) 40%, transparent);
+  background: color-mix(in srgb, var(--background) 55%, transparent);
+  backdrop-filter: blur(22px) saturate(160%);
+  -webkit-backdrop-filter: blur(22px) saturate(160%);
+  border-bottom: 1px solid color-mix(in srgb, white 14%, transparent);
+  box-shadow:
+    0 12px 30px -18px color-mix(in srgb, var(--ink) 40%, transparent),
+    inset 0 1px 0 color-mix(in srgb, white 20%, transparent);
 }
 
 .nav-brand {
@@ -69,6 +81,7 @@ a {
 
 .hero {
   position: relative;
+  z-index: 1;
   min-height: 100vh;
   min-height: 100svh;
   display: flex;
@@ -126,16 +139,28 @@ a {
 }
 
 main {
+  position: relative;
+  z-index: 1;
   max-width: 82rem;
   margin: 0 auto;
   padding: 0 6vw;
 }
 
 .story {
-  padding: 5rem 0;
+  margin: 3rem 0;
+  padding: 4rem 3rem;
   display: flex;
   flex-direction: column;
   gap: 4.5rem;
+  background: color-mix(in srgb, var(--background) 58%, transparent);
+  backdrop-filter: blur(26px) saturate(160%);
+  -webkit-backdrop-filter: blur(26px) saturate(160%);
+  border-radius: 1.5rem;
+  border: 1px solid color-mix(in srgb, white 14%, transparent);
+  box-shadow:
+    0 30px 60px -32px color-mix(in srgb, var(--ink) 45%, transparent),
+    inset 0 1px 0 color-mix(in srgb, white 22%, transparent),
+    inset 0 0 0 1px color-mix(in srgb, white 6%, transparent);
 }
 
 .story-row {
@@ -176,11 +201,15 @@ main {
 .gallery {
   padding: 2.5rem 2rem 3rem;
   margin: 1rem 0 5rem;
-  background: color-mix(in srgb, var(--ink) 4%, var(--background));
+  background: color-mix(in srgb, var(--background) 58%, transparent);
+  backdrop-filter: blur(26px) saturate(160%);
+  -webkit-backdrop-filter: blur(26px) saturate(160%);
   border-radius: 1.25rem;
+  border: 1px solid color-mix(in srgb, white 14%, transparent);
   box-shadow:
     0 24px 50px -32px color-mix(in srgb, var(--ink) 50%, transparent),
-    inset 0 0 0 1px color-mix(in srgb, var(--ink) 6%, transparent);
+    inset 0 1px 0 color-mix(in srgb, white 20%, transparent),
+    inset 0 0 0 1px color-mix(in srgb, white 6%, transparent);
 }
 
 .gallery-strip {
@@ -217,11 +246,15 @@ main {
 .contact {
   padding: 3rem 2.25rem 3.5rem;
   margin-bottom: 3rem;
-  background: color-mix(in srgb, var(--ink) 4%, var(--background));
+  background: color-mix(in srgb, var(--background) 58%, transparent);
+  backdrop-filter: blur(26px) saturate(160%);
+  -webkit-backdrop-filter: blur(26px) saturate(160%);
   border-radius: 1.25rem;
+  border: 1px solid color-mix(in srgb, white 14%, transparent);
   box-shadow:
     0 24px 50px -32px color-mix(in srgb, var(--ink) 50%, transparent),
-    inset 0 0 0 1px color-mix(in srgb, var(--ink) 6%, transparent);
+    inset 0 1px 0 color-mix(in srgb, white 20%, transparent),
+    inset 0 0 0 1px color-mix(in srgb, white 6%, transparent);
 }
 
 .contact h2 {
@@ -244,13 +277,17 @@ main {
   display: inline-block;
   padding: 0.6rem 1.1rem;
   border-radius: 999px;
-  background: var(--accent);
+  background:
+    linear-gradient(180deg, color-mix(in srgb, white 30%, transparent), transparent 60%),
+    var(--accent);
   color: var(--accent-text);
   font-weight: 500;
   text-decoration: none;
   font-size: 0.9rem;
   border: 1px solid var(--ink);
-  box-shadow: 0 10px 22px -10px color-mix(in srgb, var(--accent) 65%, transparent);
+  box-shadow:
+    0 10px 22px -10px color-mix(in srgb, var(--accent) 65%, transparent),
+    inset 0 1px 0 color-mix(in srgb, white 35%, transparent);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -260,9 +297,17 @@ main {
 }
 
 .site-footer {
-  padding: 2rem 6vw 3rem;
+  position: relative;
+  z-index: 1;
+  margin: 0 6vw 2rem;
+  padding: 1.1rem 1.5rem;
   font-size: 0.85rem;
-  opacity: 0.6;
+  opacity: 0.75;
+  background: color-mix(in srgb, var(--background) 55%, transparent);
+  backdrop-filter: blur(18px) saturate(150%);
+  -webkit-backdrop-filter: blur(18px) saturate(150%);
+  border-radius: 0.9rem;
+  border: 1px solid color-mix(in srgb, white 12%, transparent);
 }
 
 .js .reveal {
